@@ -1,0 +1,727 @@
+[
+  {
+    "name": "OpenVC",
+    "channel_type": "directory",
+    "description": "Free investor directory and outreach tool. Homepage counter shows 16,699 investors (VCs, angels, family offices, corporate VCs, accelerators) in 195+ countries. Each profile shows geography, check size, stages, lead tendency, thesis, reply rate, and a contact route: 'Submit deck', 'Fill form', cold email, or 'Find intros'. Founders submit a deck through OpenVC and get open/read analytics.",
+    "reachable_investors": "1,393 investors on the 'early-stage' list on 2026-09-02. Examples with an open route on that list: DHS Syndicate (UK angel network, Submit deck), Successful Fund I FCRE (Spain, Submit deck), Grayscale Ventures (India, Submit deck), AgriZeroNZ (New Zealand, Fill form), Embryo Ventures (USA/Europe, Fill form). Handles: unknown.",
+    "cost": "Free tier: unlimited investor search, deck sharing, deck analytics, CRM, team members, automatic follow-ups. Premium: $99/month or $299/year (5x outreach = up to 5 investors per day via OpenVC, 10 extra filters, intro finder, masterclass, unlimited deck reviews).",
+    "url": "https://www.openvc.app/",
+    "how_to_apply_or_post": "Create a free account. Build a profile and upload a 12-slide max PDF deck. Search investors with filters. Use the 'Submit deck' or 'Fill form' button on a profile, or send the cold email that OpenVC drafts. The free tier limits daily outreach through the platform (exact free limit not shown). OpenVC cold-email guide: subject under 60 characters, body under 1,000 characters, 2-3 bullet points with numbers, one deck link.",
+    "contacts": "No published email on the homepage. Footer 'Contact Us' link only.",
+    "geography": "Global (195+ countries claimed).",
+    "typical_outcome": "OpenVC homepage claims a 40% reply rate for outreach sent through the platform. Per-investor reply rates are shown on profiles. Independent verification: none.",
+    "notes": "OpenVC screens deal flow for quality so investors are not spammed. Generic greetings, apologies, vague claims, long paragraphs, and many links get ignored. OpenVC's own list-of-lists marks itself and its US and pre-seed lists as 'cold outreach: yes'.",
+    "sources": [
+      "https://www.openvc.app/",
+      "https://www.openvc.app/pricing",
+      "https://www.openvc.app/investor-lists/early-stage",
+      "https://www.openvc.app/blog/how-to-cold-email-vc",
+      "https://www.openvc.app/blog/vc-list"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Signal by NFX",
+    "channel_type": "directory",
+    "description": "Free, crowd-edited investor directory run by NFX. Lists are ranked by stage (Pre-Seed, Seed, Series A, Series B), sector (about 100 sector lists per stage), and 82 geographies. Homepage counter: 3,191+ investors on the featured list; sector lists range from 489 to 8,771 investors. 475,784 community edits.",
+    "reachable_investors": "Lists such as 'Top AI Pre-Seed Investors' and 'San Francisco Bay Area'. Named investors: not extracted (list page returned 404 during this check). Handles: unknown.",
+    "cost": "Free. FAQ: 'Signal is a 100% free tool from NFX, and we will never charge for it.'",
+    "url": "https://signal.nfx.com/",
+    "how_to_apply_or_post": "Sign up (Gmail OAuth optional). Browse a list. Signal does NOT provide direct messaging to investors. The FAQ says to reach investors 'through mutual connections so that the mutual connection can provide a warm intro'. Use the profile data (thesis, check size, past deals) to target your own cold email or LinkedIn message.",
+    "contacts": "qed@nfx.com (Signal general questions, from the FAQ). NFX's own open founder application: not found on nfx.com homepage during this check.",
+    "geography": "Global, with US-heavy coverage.",
+    "typical_outcome": "Not published.",
+    "notes": "Signal is a research tool, not an inbox. No 'open to cold outreach' flag exists on profiles per the FAQ. NFX itself invests pre-seed and seed but a public pitch form was not verified.",
+    "sources": [
+      "https://signal.nfx.com/",
+      "https://signal.nfx.com/investor-lists",
+      "https://signal.nfx.com/faq",
+      "https://www.nfx.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "VC Sheet",
+    "channel_type": "directory",
+    "description": "Free curated investor sheets: 5,000+ VC investors, 1,000+ funds, 100+ lists by sector, stage, and geography. Includes a free pitch-deck upload that returns matching investors and their email addresses.",
+    "reachable_investors": "Lists by stage (pre-seed through Series B+) and sector (AI, biotech, climate, etc.). Named investors: not extracted. Handles: unknown.",
+    "cost": "Free. Site text: 'No ads. No catch. Free from VC Sheet.' No pricing page found (returned 404).",
+    "url": "https://www.vcsheet.com/",
+    "how_to_apply_or_post": "Browse a sheet, or upload a pitch deck to get matched investors with email addresses. Then send your own cold email.",
+    "contacts": "No contact published on homepage.",
+    "geography": "Global, US-heavy.",
+    "typical_outcome": "Not published.",
+    "notes": "Emails are supplied, but there is no flag that says the investor accepts cold email. Treat every email as cold.",
+    "sources": [
+      "https://www.vcsheet.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Crunchbase",
+    "channel_type": "directory",
+    "description": "Company and investor database. Good for finding which funds invested in comparable companies. It does not focus on personal contact data.",
+    "reachable_investors": "Company-level investor records only. Handles: unknown.",
+    "cost": "Pro: $99/month or $49/month billed annually ($588/year). Business: $199/month. Starter ~ $29/user/month annual (Vendr). Free tier: limited search. Prices from third-party pricing guides; Crunchbase's own pricing page blocked the fetch.",
+    "url": "https://www.crunchbase.com/",
+    "how_to_apply_or_post": "No pitch channel. Use it to build a target list, then contact investors elsewhere.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Not applicable.",
+    "notes": "Vendr: 'Crunchbase focuses on company-level data ... rather than individual contact information.' Pro export cap is 2,000 rows per month. Do not pay for it to get emails.",
+    "sources": [
+      "https://www.vendr.com/marketplace/crunchbase",
+      "https://www.openvc.app/blog/vc-list"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Wellfound / AngelList",
+    "channel_type": "directory",
+    "description": "Wellfound (ex-AngelList Talent) is now a recruiting marketplace only; it has no investor outreach feature. AngelList (angellist.com) is fund administration software (venture funds, rolling funds, SPVs, RUVs, syndicates). Founders cannot browse or message investors on either site.",
+    "reachable_investors": "AngelList hosts 25,000+ syndicates and funds, but the list is not a founder-facing directory. Handles: unknown.",
+    "cost": "Wellfound: free job posts. AngelList syndicate SPV setup: $8,000 + $2,000 state fee per deal (paid by the syndicate lead), minimum raise $80,000. Rolling Funds: custom pricing for managers.",
+    "url": "https://www.angellist.com/",
+    "how_to_apply_or_post": "No open application. To reach a syndicate lead or rolling-fund manager, find them elsewhere and email them; the lead then creates the SPV on AngelList. AngelList publishes startups@angellist.com for founder questions.",
+    "contacts": "startups@angellist.com (published on angellist.com/raise page).",
+    "geography": "US-focused.",
+    "typical_outcome": "Not published.",
+    "notes": "Old 'AngelList Venture Raise' founder product is not visible on the site in 2026. Do not expect investor discovery here.",
+    "sources": [
+      "https://wellfound.com/",
+      "https://www.angellist.com/",
+      "https://www.angellist.com/raise",
+      "https://www.angellist.com/syndicates",
+      "https://www.angellist.com/rolling-funds"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Landscape VC",
+    "channel_type": "directory",
+    "description": "Two products under the Landscape name. (1) Reviews: founders rate investors anonymously on up to 12 factors; database of 30k+ investors; free for founders; VCs pay to reply and see analytics. (2) landscape.vc homepage now markets an AI startup-discovery feed for investors (signals from GitHub, Product Hunt, YC launches) with a $30 trial.",
+    "reachable_investors": "Not a contact directory. Handles: unknown.",
+    "cost": "Reviews: free for founders. Discovery product: $30 trial, then monthly tiers (price not shown).",
+    "url": "https://www.landscape.vc/",
+    "how_to_apply_or_post": "Read reviews to pick investors with good response-time scores before you cold email. The /reviews path returned a 405 error on 2026-09-02; the reviews page was reachable at the Webflow staging URL.",
+    "contacts": "unknown",
+    "geography": "UK/Europe origin (Sifted, TechCrunch 2020); reviews are global.",
+    "typical_outcome": "Not applicable.",
+    "notes": "Founded 2020 by Joe Perkins as 'Glassdoor for VC'. Status of the reviews product is partly uncertain because the main /reviews URL errored.",
+    "sources": [
+      "https://www.landscape.vc/",
+      "https://landscapes-sublime-site.webflow.io/reviews",
+      "https://sifted.eu/articles/landscape-founders-review-investors",
+      "https://techcrunch.com/2020/10/13/landscape-site-launches-with-the-aim-of-becoming-the-glassdoor-for-vc/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Harmonic",
+    "channel_type": "directory",
+    "description": "Investor-facing startup intelligence database: 40M companies, 200M people, 250K investors. Customers are VCs, growth funds, corp dev, and GTM teams. Founders can be discovered passively; the pricing page footer has a 'Submit your startup' link.",
+    "reachable_investors": "Investors use it to find you; you cannot contact them through it. Handles: unknown.",
+    "cost": "Console, API, and Bulk Data plans; prices are quote-only ('Get pricing').",
+    "url": "https://harmonic.ai/",
+    "how_to_apply_or_post": "Use the 'Submit your startup' footer link on harmonic.ai/pricing so the company appears in investor searches. Keep LinkedIn, website, and hiring pages updated; Harmonic scrapes public signals.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Not published.",
+    "notes": "Idea-stage companies with no public footprint will rank low. Not a channel to send a pitch.",
+    "sources": [
+      "https://harmonic.ai/pricing",
+      "https://harmonic.ai/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Investor Scout",
+    "channel_type": "directory",
+    "description": "Paid investor database and CRM: 37,000+ investors; 36,000+ with emails, ~33,000 with phone numbers, office addresses, social links, and investment preferences (location, stage, industry, check size). Lists up to 2,000 contacts, CSV export.",
+    "reachable_investors": "Angel groups, VC funds, PE funds. Named investors: not extracted. Handles: unknown.",
+    "cost": "Paid. Search snippets say plans 'start at $69'. The pricing page shows a 'Startup' plan and a 'Premium' plan but the price values did not render in the fetch. Treat the $69 figure as unverified.",
+    "url": "https://investorscout.co/",
+    "how_to_apply_or_post": "Subscribe, filter, export, and send your own cold emails.",
+    "contacts": "unknown",
+    "geography": "Global, US-heavy.",
+    "typical_outcome": "Site testimonial claims one user 'raised over $1m for our seed round in 30 days'. Not independently verified.",
+    "notes": "Founders: Aaron Tsai and Matt Henderson (per Tracxn/BetaList). Bulk scraped emails give low reply rates; personalise.",
+    "sources": [
+      "https://investorscout.co/pricing",
+      "https://investorscout.co/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "F6S",
+    "channel_type": "accelerator_open_app",
+    "description": "Large startup platform that hosts applications for accelerators, grants, and programs. Founders create one profile and apply to many programs. The site blocked automated fetches ('We think you might be a bot') on 2026-09-02, so counts and features are unverified this session.",
+    "reachable_investors": "Programs and accelerators that list on F6S. Names: unknown.",
+    "cost": "Free for founders to apply (unverified this session; historically free).",
+    "url": "https://www.f6s.com/",
+    "how_to_apply_or_post": "Create a profile, open the Programs list, apply to each program's form.",
+    "contacts": "support@f6s.com (shown on the block page footer).",
+    "geography": "Global, strong in Europe.",
+    "typical_outcome": "Not published.",
+    "notes": "Verification incomplete. Re-check with a browser.",
+    "sources": [
+      "https://f6s.com/",
+      "https://www.f6s.com/programs"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Gust",
+    "channel_type": "directory",
+    "description": "Platform where angel groups and accelerators receive applications. Site counters: 800,000+ founders, 750+ angel groups, 300+ accelerators. Founders build a Gust Company Profile and use it to match with and apply to angel groups and VCs.",
+    "reachable_investors": "750+ angel groups (names not extracted). Handles: unknown.",
+    "cost": "Company profile and applications: no price shown (historically free). Gust Launch (incorporation, cap table): price not shown.",
+    "url": "https://gust.com/",
+    "how_to_apply_or_post": "Create a Company Profile, then find an angel group's Gust application page and submit. Many US angel groups accept applications only through Gust.",
+    "contacts": "unknown",
+    "geography": "Global; strongest in US angel groups.",
+    "typical_outcome": "Not published.",
+    "notes": "Angel groups usually want a product or early customers. Idea-stage is accepted by some groups only.",
+    "sources": [
+      "https://gust.com/",
+      "https://gust.com/launch"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Republic",
+    "channel_type": "crowdfunding",
+    "description": "Reg CF / Reg A+ investment crowdfunding platform. Claims 2,500+ ventures funded, $3B+ raised, 3M+ members. Offerings run through OpenDeal Broker LLC (FINRA member). Raise up to $75M (Reg A+); Reg CF cap is $5M per 12 months (SEC rule).",
+    "reachable_investors": "Retail crowd plus 25+ VC/PE firms named as backers. Handles: unknown.",
+    "cost": "Fees not shown on the raise page ('no hidden fees' only). Historically a success fee plus securities; verify with Republic before you apply.",
+    "url": "https://republic.com/raise",
+    "how_to_apply_or_post": "Click 'Apply to raise'. Separate forms for US/rest of world and UK/EU. Republic screens applicants; acceptance rate not published. A Form C filing with the SEC is required for Reg CF.",
+    "contacts": "unknown",
+    "geography": "US, UK, EU, and more.",
+    "typical_outcome": "Not published.",
+    "notes": "Idea-stage is not excluded in the text, but Republic curates; strong community or traction helps. Fee and minimum values remain unverified.",
+    "sources": [
+      "https://republic.com/raise",
+      "http://help.republic.com/en/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Wefunder",
+    "channel_type": "crowdfunding",
+    "description": "Reg CF crowdfunding platform with 1M+ investors. Two products: Private Round (up to 247 accredited investors, invite-only, free) and Community Round (public, unlimited investors, minimum $100 per investor). Both roll into one cap-table line.",
+    "reachable_investors": "Retail crowd plus lead investors you bring. Handles: unknown.",
+    "cost": "Community Round: 7.9% of the amount raised (help center). Private Round: free. 'It's always free to start raising on Wefunder.'",
+    "url": "https://wefunder.com/raise",
+    "how_to_apply_or_post": "Go to wefunder.com/raise, enter the company legal name, and start a Private Round. For a public Community Round Wefunder files Form C with the SEC after you supply information; the page becomes searchable once Form C is filed. Wefunder wants a lead investor agreed before filing.",
+    "contacts": "unknown",
+    "geography": "US companies (Reg CF requires a US entity).",
+    "typical_outcome": "Not published on the pages read. Reg CF annual cap: $5M (help page still cites an old $1,235,000 figure).",
+    "notes": "Help center says it works 'at every stage - pre-seed all the way through', so idea-stage is allowed, but you must bring your own crowd. Wefunder now offers an AI agent to find warm intros.",
+    "sources": [
+      "https://help.wefunder.com/",
+      "https://wefunder.com/raise"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "StartEngine",
+    "channel_type": "crowdfunding",
+    "description": "Reg CF and Reg A+ platform. Acquired SeedInvest's assets (SeedInvest is no longer a separate platform). Claims 1.8M investors, $1.2B raised, 90% success rate (StartEngine + SeedInvest combined). Reg CF: up to $5M per year, launch in 4-6 weeks. Reg A+: up to $75M.",
+    "reachable_investors": "Retail crowd. Handles: unknown.",
+    "cost": "Fees not shown on the raise page ('low upfront costs' for Reg CF). Verify before applying.",
+    "url": "https://www.startengine.com/raise-capital",
+    "how_to_apply_or_post": "Click 'Get Started'. Five steps: Apply, craft your story, set your terms, prepare legal docs (Form C), launch.",
+    "contacts": "unknown",
+    "geography": "US (Canadian investors excluded).",
+    "typical_outcome": "Not published per campaign.",
+    "notes": "Idea-stage not addressed on the page. Fee percentages unverified.",
+    "sources": [
+      "https://www.startengine.com/raise-capital",
+      "https://www.startengine.com/faq"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Product Hunt",
+    "channel_type": "community",
+    "description": "Free product launch site. No investor directory or investor feature. The launch guide says a launch can 'open the door to networking, partnership, and even funding opportunities'. Investor tools like Landscape and Harmonic ingest Product Hunt launches as a signal.",
+    "reachable_investors": "Investors who watch the daily leaderboard; no verified list or handles.",
+    "cost": "Free ('100% free to use').",
+    "url": "https://www.producthunt.com/launch",
+    "how_to_apply_or_post": "Personal account only. Hunt your own product. Launch at 12:01 AM Pacific. Do not ask for upvotes; ask people to visit and comment. Only significant iterations may relaunch.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Not published.",
+    "notes": "Needs a usable product; a landing page alone gets little attention. Use a launch as a hook in cold emails.",
+    "sources": [
+      "https://www.producthunt.com/launch",
+      "https://www.producthunt.com/",
+      "https://www.landscape.vc/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Indie Hackers",
+    "channel_type": "community",
+    "description": "Community for bootstrapped founders. Groups page shows no funding, investor, or VC group. Paid tier 'IH+' exists. Posts are 'build in public' stories, products, and case studies.",
+    "reachable_investors": "None as a feature. Handles: unknown.",
+    "cost": "Free; IH+ paid tier (price not shown).",
+    "url": "https://www.indiehackers.com/",
+    "how_to_apply_or_post": "Submit a post via 'Submit a Post'. Build-in-public posts on the Build Board get visibility. Direct 'seeking investors' posts are off-culture.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Not applicable.",
+    "notes": "Use for feedback and traction, not for fundraising.",
+    "sources": [
+      "https://www.indiehackers.com/",
+      "https://www.indiehackers.com/groups"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Hacker News (Show HN / Ask HN)",
+    "channel_type": "community",
+    "description": "YC-run forum. Show HN rules exclude 'landing pages, fundraisers' and sign-up pages. Site guidelines: 'Please don't use HN primarily for promotion.' An 'Ask HN: seeking investors' post is allowed by form but is low-signal and often flagged.",
+    "reachable_investors": "YC partners and angels read HN, but no investor feature exists. Handles: unknown.",
+    "cost": "Free.",
+    "url": "https://news.ycombinator.com/showhn.html",
+    "how_to_apply_or_post": "Post a Show HN only when people can try the product without sign-up. Reply to every comment. Do not post a fundraising ask as a Show HN.",
+    "contacts": "hn@ycombinator.com (moderators; standard HN contact).",
+    "geography": "Global.",
+    "typical_outcome": "Not published.",
+    "notes": "A strong Show HN front-page result is a credible signal in a cold email to investors.",
+    "sources": [
+      "https://news.ycombinator.com/showhn.html",
+      "https://news.ycombinator.com/newsguidelines.html"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Y Combinator (open application)",
+    "channel_type": "accelerator_open_app",
+    "description": "Open online application; no intro needed. Current batch: Winter 2027 (Jan-Mar, San Francisco). Deadline November 2, 8pm PT; decisions by December 11. Early Decision exists for Spring, Summer, Fall batches. Interviews by video in Nov-Dec; decision usually same day; every interviewee gets written feedback.",
+    "reachable_investors": "YC partners. Handles: unknown.",
+    "cost": "Free to apply. Deal: $500,000 total = $125,000 post-money SAFE for 7% + $375,000 uncapped MFN SAFE. Pro rata rights for YC.",
+    "url": "https://www.ycombinator.com/apply",
+    "how_to_apply_or_post": "Apply at apply.ycombinator.com. Idea-stage allowed. Late applications are read but without a timeline. $12M+ in partner credits.",
+    "contacts": "unknown",
+    "geography": "Global applicants; batch is in person in San Francisco.",
+    "typical_outcome": "Acceptance rate not stated on the page.",
+    "notes": "Funding commits on acceptance, not at batch start.",
+    "sources": [
+      "https://www.ycombinator.com/apply",
+      "https://www.ycombinator.com/deal"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "YC Co-Founder Matching and Startup School",
+    "channel_type": "community",
+    "description": "Both free from YC. Co-Founder Matching: profile, engine suggests matches, mutual accept, then chat; 100,000+ matches; largest pools in SF (3,200), NYC (3,000), London (2,900); idea-stage or 'just exploring' allowed. Startup School: 7-week free video course (1-2 hours/week), weekly progress tracker, community. Neither page offers investor access.",
+    "reachable_investors": "None. Handles: unknown.",
+    "cost": "Free, no equity.",
+    "url": "https://www.ycombinator.com/cofounder-matching",
+    "how_to_apply_or_post": "Create a profile; YC approves it (profiles stay private). Attend in-person matching meetups in SF and NYC when offered.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Several funded YC companies (Whalesync, AccessOwl, Pledge Health, clearspace) started from matches.",
+    "notes": "Useful for team formation before a fundraise, not for investor contact.",
+    "sources": [
+      "https://www.ycombinator.com/cofounder-matching",
+      "https://www.startupschool.org/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "X/Twitter 'VCs with open DMs' lists",
+    "channel_type": "social_list",
+    "description": "Founders often cite X lists or threads of investors with open DMs. This session could not verify any specific list URL (web search budget was exhausted and X pages are not fetchable). OpenVC's own blog index shows no post on open DMs. One related item: OpenVC's list-of-lists cites the 'Christoph Janz List' of 1,000+ women investors as a Twitter list.",
+    "reachable_investors": "unknown",
+    "cost": "Free (X Premium is optional).",
+    "url": "unknown",
+    "how_to_apply_or_post": "Search X for 'open DMs' + 'pre-seed'. Check the investor's bio for 'DMs open'. Send one short DM: one line on the problem, one on traction, one link.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Not published.",
+    "notes": "Unverified. Do not rely on a list name without opening it.",
+    "sources": [
+      "https://www.openvc.app/blog",
+      "https://www.openvc.app/blog/vc-list"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "LinkedIn (InMail to investors)",
+    "channel_type": "social_list",
+    "description": "Investors can be messaged via LinkedIn InMail with a Premium plan, or free when they enable 'Open Profile'. No verified list of open-DM investors was found this session. LinkedIn's help page on InMail credits returned 404 and the Premium page required login, so current prices are unverified.",
+    "reachable_investors": "unknown",
+    "cost": "Premium Business plan required for InMail; monthly price and credit count unverified this session.",
+    "url": "https://premium.linkedin.com/",
+    "how_to_apply_or_post": "Use Signal or OpenVC to find the right partner, then send a short connection note (300 characters) or an InMail. Lead with a mutual data point (portfolio company, thesis post).",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Not published.",
+    "notes": "Unverified pricing. Connection requests with a note are free and often outperform InMail.",
+    "sources": [
+      "https://premium.linkedin.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Hustle Fund (open application) and Angel Squad",
+    "channel_type": "accelerator_open_app",
+    "description": "Pre-seed fund with an open Typeform application. First check $150K. 'We invest in pre-seed rounds. Not seed. Not post-seed.' Requires at least an MVP. Claims '1-2 meetings to a yes' and 'less than 1 week from yes to wire'; reply 24-48 hours after a call. Angel Squad is Hustle Fund's paid angel community (2,500+ members, 40+ countries, $1,000 minimum per deal via AngelList); founders do not apply to Angel Squad directly.",
+    "reachable_investors": "Hustle Fund partners (Elizabeth Yin, Eric Bahn, Shiyan Koh; handles unknown). Angel Squad members see 2-3 deals per month chosen by Hustle Fund from 1,000+ monthly deals.",
+    "cost": "Free to apply. Angel Squad: 14-day free trial for angels; membership price not shown.",
+    "url": "https://www.hustlefund.vc/",
+    "how_to_apply_or_post": "Apply at https://hustlefund.typeform.com/to/UGTnIt. Describe what you are 'hustling' with concrete evidence. Idea-only without MVP does not fit.",
+    "contacts": "No email published; form only. angelsquad.co redirects to hustlefund.vc/squad.",
+    "geography": "Mostly United States, Canada, and Southeast Asia.",
+    "typical_outcome": "$150K first check; 600+ startups backed.",
+    "notes": "Fast, explicit process. Good first target for a founder with an MVP.",
+    "sources": [
+      "https://www.hustlefund.vc/",
+      "https://www.hustlefund.vc/faq",
+      "https://www.hustlefund.vc/squad"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Antler",
+    "channel_type": "accelerator_open_app",
+    "description": "Global pre-seed investor with residencies in 26+ cities. Backs founders 'even before they have a team or idea'. Pitch form accepts 'Idea to Pre-Seed' and 'Series A to C' stages. Investment amount and equity are not shown on the pages read; residency terms differ by country.",
+    "reachable_investors": "Antler partners per city. Handles: unknown.",
+    "cost": "Free to apply. Deal terms per location; unverified.",
+    "url": "https://www.antler.co/pitch",
+    "how_to_apply_or_post": "Fill the pitch form: name, email, stage, city; optional LinkedIn, description, website, deck (max 10MB). Cities include Singapore, Bangalore, Sydney, London, Berlin, Amsterdam, Stockholm, NYC, SF, Austin, Toronto, Sao Paulo, Dubai, Riyadh, Lagos, Nairobi, Tokyo, Seoul, Jakarta, Ho Chi Minh, Kuala Lumpur.",
+    "contacts": "unknown",
+    "geography": "Global, 26 locations.",
+    "typical_outcome": "1,800 portfolio companies (site claim).",
+    "notes": "Best fit for solo or pre-team founders willing to join a residency.",
+    "sources": [
+      "https://www.antler.co/apply",
+      "https://www.antler.co/pitch",
+      "https://www.antler.co/",
+      "https://www.antler.co/faq"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Entrepreneur First (EF)",
+    "channel_type": "accelerator_open_app",
+    "description": "Open application at apply.joinef.com. Pre-idea and pre-team founders welcome. Equity-free grants during ideation, up to $250K after incorporation, up to $5M follow-on through Series B, $600K+ in tech credits. Offices in London, Bangalore, San Francisco; 9 months of office space; SF Demo Day with 200+ VC partners.",
+    "reachable_investors": "EF partners plus Demo Day VCs. Handles: unknown.",
+    "cost": "Free to apply.",
+    "url": "https://www.joinef.com/",
+    "how_to_apply_or_post": "Apply at apply.joinef.com (the /apply path on joinef.com returns 404). Selection is on individual track record, not the idea.",
+    "contacts": "unknown",
+    "geography": "London, Bangalore, San Francisco.",
+    "typical_outcome": "Typical post-Demo Day raise $1-7M (site claim). Portfolio value $16B+.",
+    "notes": "Strong fit for technical individuals without a co-founder.",
+    "sources": [
+      "https://www.joinef.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Techstars",
+    "channel_type": "accelerator_open_app",
+    "description": "Three-month mentorship accelerator in many cities (Boulder, Boston, Chicago, NYC, London, Tokyo, plus vertical programs) and Techstars Anywhere (remote). Open application at apply.techstars.com.",
+    "reachable_investors": "Techstars managing directors and mentor networks. Handles: unknown.",
+    "cost": "Free to apply. Investment: $220,000 = $200,000 uncapped MFN SAFE + $20,000 post-money convertible equity agreement; Techstars receives 5% common stock plus the SAFE value.",
+    "url": "https://apply.techstars.com/",
+    "how_to_apply_or_post": "Pick a program page, apply through the portal. Deadlines differ per program (not listed on the overview page).",
+    "contacts": "help.techstars.com ticket form.",
+    "geography": "Global.",
+    "typical_outcome": "Not published on the pages read.",
+    "notes": "Most programs want a team and an early product.",
+    "sources": [
+      "https://www.techstars.com/accelerators",
+      "https://help.techstars.com/support/solutions/articles/4000207063-what-investments-does-techstars-make-in-its-accelerator-portfolio-companies-"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "500 Global Flagship Accelerator",
+    "channel_type": "accelerator_open_app",
+    "description": "Four-month in-person program in Silicon Valley. $150,000 investment for a 6% stake. Application deadline shown: October 11. Regional programs also exist (Latin America $300K program, MENA, Eurasia, Georgia, Egypt, Japan/Korea).",
+    "reachable_investors": "500 Global partners. Handles: unknown.",
+    "cost": "Free to apply. $150K for 6% (program fee not stated).",
+    "url": "https://500.co/founders/flagship",
+    "how_to_apply_or_post": "Apply at https://flagship.aplica.500.co/. 'Applying to the program does not guarantee an investment.'",
+    "contacts": "unknown",
+    "geography": "Silicon Valley program; global applicants.",
+    "typical_outcome": "Not published.",
+    "notes": "Old URL 500.co/accelerators/flagship is dead; use /founders/flagship.",
+    "sources": [
+      "https://500.co/founders/flagship",
+      "https://500.co/accelerators"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Founders Factory",
+    "channel_type": "accelerator_open_app",
+    "description": "Venture studio and corporate-backed accelerators in London, Singapore, Perth, Chicago, and SEA. Open programs on 2026-09-02: Rio Tinto Mining Tech, WA Government Nature Tech, MSWA MS & Neurological Care, Blue Action (climate), Aviva Fintech (London). Backs 'from idea to seed'.",
+    "reachable_investors": "Founders Factory investment team and corporate partners. Handles: unknown.",
+    "cost": "Free to apply. Investment terms not shown.",
+    "url": "https://foundersfactory.com/",
+    "how_to_apply_or_post": "Apply via the Typeform linked from each program page.",
+    "contacts": "unknown",
+    "geography": "UK, Australia, Singapore, US.",
+    "typical_outcome": "Not published.",
+    "notes": "Sector-specific; check the open program list first.",
+    "sources": [
+      "https://foundersfactory.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Seedcamp",
+    "channel_type": "accelerator_open_app",
+    "description": "European pre-seed/seed fund with a public 'Pitch Us' form. First cheque usually $350K-$1.25M. Backs idea-stage, pre-product, and pre-revenue companies. Process: intro call, then more calls or a 45-minute partner pitch; 'end-to-end process within two weeks'.",
+    "reachable_investors": "Seedcamp partners. Handles: unknown.",
+    "cost": "Free to pitch.",
+    "url": "https://seedcamp.com/",
+    "how_to_apply_or_post": "Use the 'Pitch Us' form (seedcamp.com/out/f7-startup-details-core).",
+    "contacts": "seedcamp.com/contact/",
+    "geography": "Europe and Israel, or European-focused ventures.",
+    "typical_outcome": "$350K-$1.25M first cheque.",
+    "notes": "Not for companies that already raised several million.",
+    "sources": [
+      "https://seedcamp.com/",
+      "https://seedcamp.com/faqs/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Foundersuite",
+    "channel_type": "directory",
+    "description": "Fundraising CRM with an investor database of 227,000 global investors with contact info. Free Basic plan: $0, 75 investors per pipeline. Paid: Silver $745/year (200 per pipeline), Gold $1,069/year (1,000), Platinum $1,609/year (1,500). All plans: database access, 'Get Intro' feature, investor updates, deck hosting, AI email generation.",
+    "reachable_investors": "227,000 records. Names: not extracted. Handles: unknown.",
+    "cost": "Free Basic; paid $745-$1,609 per year.",
+    "url": "https://foundersuite.com/pricing",
+    "how_to_apply_or_post": "Build a pipeline, pull contacts, send tracked emails.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Not published.",
+    "notes": "OpenVC's list quotes an older $528/year price; the pricing page now shows the tiers above.",
+    "sources": [
+      "https://foundersuite.com/pricing",
+      "https://www.openvc.app/blog/vc-list"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Visible Connect",
+    "channel_type": "directory",
+    "description": "Free investor database from Visible.vc: 800+ verified investor profiles and 19,000+ records, filters by stage, check size, and focus. Pipes directly into the Visible fundraising CRM.",
+    "reachable_investors": "Names: not extracted. Handles: unknown.",
+    "cost": "Free (Connect). Visible CRM has paid tiers.",
+    "url": "https://visible.vc/connect/",
+    "how_to_apply_or_post": "Filter, add to pipeline, contact investors yourself.",
+    "contacts": "unknown",
+    "geography": "Global, US-heavy.",
+    "typical_outcome": "Not published.",
+    "notes": "No 'open to cold outreach' flag verified on the page.",
+    "sources": [
+      "https://visible.vc/connect/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Superwarm",
+    "channel_type": "directory",
+    "description": "AI matchmaking between startups and investors by vertical, stage, and traction. Currently invite-only. No pricing or investor count shown.",
+    "reachable_investors": "unknown",
+    "cost": "Not shown; invite-only.",
+    "url": "https://www.superwarm.ai/",
+    "how_to_apply_or_post": "Request an invite on the site.",
+    "contacts": "unknown",
+    "geography": "unknown",
+    "typical_outcome": "Not published.",
+    "notes": "Low priority until access opens.",
+    "sources": [
+      "https://www.superwarm.ai/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Kima Ventures",
+    "channel_type": "accelerator_open_app",
+    "description": "Paris-based, self-described 'most active Business Angel in the world': '150k one off tickets in 100 new deals per year', any stage or sector. Historically known for a public application form and fast decisions, but no form, email, or /apply page was found on 2026-09-02 (/apply and /about return 404).",
+    "reachable_investors": "Kima team. Handles: unknown.",
+    "cost": "Free.",
+    "url": "https://www.kimaventures.com/",
+    "how_to_apply_or_post": "unknown; the homepage shows portfolio only. Re-check with a browser or find the team on LinkedIn.",
+    "contacts": "unknown",
+    "geography": "France-centric, invests globally (unverified).",
+    "typical_outcome": "EUR/USD 150K one-off tickets, ~100 deals per year.",
+    "notes": "Application route unverified this session.",
+    "sources": [
+      "https://www.kimaventures.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Precursor Ventures",
+    "channel_type": "accelerator_open_app",
+    "description": "Pre-seed 'Day One' investor since 2015, 500+ teams backed, 30-40 new investments per year. Checks up to $500,000 with room for syndicate partners. No traction requirement. Focus North America (USA, Canada, Mexico). A public pitch form was not found (/pitch and /faq return 404).",
+    "reachable_investors": "Precursor partners (Charles Hudson; handle unknown).",
+    "cost": "Free.",
+    "url": "https://precursorvc.com/",
+    "how_to_apply_or_post": "unknown; contact the team by email or LinkedIn. Precursor has historically accepted cold emails (unverified this session).",
+    "contacts": "unknown",
+    "geography": "North America.",
+    "typical_outcome": "Up to $500K first check.",
+    "notes": "Pitch route unverified.",
+    "sources": [
+      "https://precursorvc.com/",
+      "https://precursorvc.com/philosophy"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "First Round Capital",
+    "channel_type": "accelerator_open_app",
+    "description": "Pre-seed/seed fund. Homepage: 'Our investment team reviews every single investment opportunity we receive' and referrals are valued but cold outreach is welcome (cites investing in Iru after a cold email in 2018). Average check $3.5M; range $100K-$20M. Programs: PMF Method (founders not yet raising) and Angel Track (for angels).",
+    "reachable_investors": "First Round partners. Handles: unknown.",
+    "cost": "Free.",
+    "url": "https://firstround.com/",
+    "how_to_apply_or_post": "No pitch form. Email a partner directly; the /contact page returns 404. Apply to PMF Method if pre-raise.",
+    "contacts": "unknown",
+    "geography": "US.",
+    "typical_outcome": "Average $3.5M (site).",
+    "notes": "Idea-stage founders should target PMF Method rather than a cold pitch.",
+    "sources": [
+      "https://firstround.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Sequoia Arc",
+    "channel_type": "accelerator_open_app",
+    "description": "Sequoia's 'bi-annual open call' for pre-seed and seed founders; cohorts of about 10 companies; four-day Arc Intensive plus 1:1 partner sessions, Ampersand hub, 200+ vendor credits. Investment amount, locations, and next deadline are not shown on the pages read (the /arc/apply and /arc/faq pages did not render).",
+    "reachable_investors": "Sequoia partners. Handles: unknown.",
+    "cost": "Free to apply; investment terms unverified.",
+    "url": "https://www.sequoiacap.com/arc/",
+    "how_to_apply_or_post": "Watch sequoiacap.com/arc for the next open call and apply through the linked form.",
+    "contacts": "unknown",
+    "geography": "US and Europe cohorts historically (unverified).",
+    "typical_outcome": "Not published.",
+    "notes": "Terms unverified this session.",
+    "sources": [
+      "https://www.sequoiacap.com/arc/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "a16z speedrun",
+    "channel_type": "accelerator_open_app",
+    "description": "Open application, founders from 40+ countries. Up to $1M per startup plus $10M+ in credits. Cohort SR008 starts early 2027; priority window closes November 1; applications accepted year-round. 'Extremely selective'; 1,000+ founder community; $300M+ deployed across 300+ startups since 2023.",
+    "reachable_investors": "a16z speedrun team. Handles: unknown.",
+    "cost": "Free to apply.",
+    "url": "https://speedrun.a16z.com/apply",
+    "how_to_apply_or_post": "Apply online before November 1 for priority review.",
+    "contacts": "unknown",
+    "geography": "Global applicants.",
+    "typical_outcome": "Up to $1M.",
+    "notes": "Games, consumer, and AI heavy.",
+    "sources": [
+      "https://speedrun.a16z.com/",
+      "https://speedrun.a16z.com/apply"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Founders, Inc.",
+    "channel_type": "accelerator_open_app",
+    "description": "'First check' investor with a 42,000 sq ft campus at Fort Mason, San Francisco. Open application for the Blueprint II program (starts September 30). Focus: AI, AR/VR, hardware, robotics, content. Check size not shown.",
+    "reachable_investors": "Founders Inc team. Handles: unknown.",
+    "cost": "Free to apply; terms unverified.",
+    "url": "https://f.inc/",
+    "how_to_apply_or_post": "Apply at campus.f.inc/blueprint (email sign-in link).",
+    "contacts": "unknown",
+    "geography": "San Francisco.",
+    "typical_outcome": "Not published.",
+    "notes": "Terms unverified.",
+    "sources": [
+      "https://f.inc/",
+      "https://campus.f.inc/blueprint"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Neo Accelerator (Neo Residency)",
+    "channel_type": "accelerator_open_app",
+    "description": "Startups: $750K uncapped SAFE plus $10K profit share per founder; Neo can take up to 5% in the next equity round. Students: $40K equity-free grant. SF workspace June 2 - September 30, Oregon bootcamp, Arizona Demo Day; all expenses paid. Solo and non-technical founders welcome.",
+    "reachable_investors": "Neo partners (Ali Partovi; handle unknown).",
+    "cost": "Free to apply.",
+    "url": "https://neo.com/accelerator",
+    "how_to_apply_or_post": "Rolling applications before June each year. The 2026 deadline has passed; the page says warm introductions are preferred for off-cycle funding.",
+    "contacts": "unknown",
+    "geography": "North America only.",
+    "typical_outcome": "$750K uncapped SAFE.",
+    "notes": "Next window opens for the 2027 cohort.",
+    "sources": [
+      "https://neo.com/accelerator"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Soma Capital",
+    "channel_type": "accelerator_open_app",
+    "description": "Seed fund with a fellows/scholars program (programs.somacap.com/scholars). Portfolio page lists OpenAI, Anthropic, Databricks. No open founder pitch form found on the homepage.",
+    "reachable_investors": "Soma team. X: @soma_capital (published on the site).",
+    "cost": "Free.",
+    "url": "https://somacap.com/",
+    "how_to_apply_or_post": "Apply to the fellows program at programs.somacap.com/scholars, or DM @soma_capital.",
+    "contacts": "X @soma_capital; LinkedIn 'somacapital'.",
+    "geography": "Global.",
+    "typical_outcome": "Not published.",
+    "notes": "Open pitch route unverified.",
+    "sources": [
+      "https://somacap.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "PearX (Pear VC)",
+    "channel_type": "accelerator_open_app",
+    "description": "12-week pre-seed program in the SF Bay Area (relocation required). $500K-$2M per company. Two cohorts per year; W27 regular deadline October 4. Solo founders allowed; eligible if you raised $0 to $2M. About 20 teams per cohort. Site claim: 90% raise a next round from top-tier investors.",
+    "reachable_investors": "Pear partners. Handles: unknown.",
+    "cost": "Free to apply.",
+    "url": "https://pear.vc/pearx",
+    "how_to_apply_or_post": "Apply at pear.vc/pearx-application/. Interview, then partner pitch.",
+    "contacts": "unknown",
+    "geography": "Bay Area program; global applicants.",
+    "typical_outcome": "$500K-$2M.",
+    "notes": "Idea-stage accepted if the team is strong.",
+    "sources": [
+      "https://pear.vc/pearx",
+      "https://pear.vc/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Defunct or changed sources (Confluence.VC, VCWiz, Pre-Seed Now, Dealroom)",
+    "channel_type": "newsletter",
+    "description": "Status check on 2026-09-02. Confluence.VC: the domain now shows 'Confluence Search', a GTM recruiting firm, not an investor-list newsletter. VCWiz (vcwiz.co): returns an HTTP error; treat as dead. Pre-Seed Now (Martin SFP Bryant, UK): the site announced its shutdown on June 10, 2026. Dealroom: pricing page blocked by Cloudflare; investor-facing paid data product, no free founder outreach feature verified.",
+    "reachable_investors": "None.",
+    "cost": "Not applicable.",
+    "url": "https://www.confluence.vc/",
+    "how_to_apply_or_post": "Do not spend time on these.",
+    "contacts": "unknown",
+    "geography": "Not applicable.",
+    "typical_outcome": "Not applicable.",
+    "notes": "Remove from active outreach lists.",
+    "sources": [
+      "https://www.confluence.vc/",
+      "https://vcwiz.co/",
+      "https://preseednow.com/",
+      "https://dealroom.co/pricing"
+    ],
+    "verified_date": "2026-09-02"
+  }
+]

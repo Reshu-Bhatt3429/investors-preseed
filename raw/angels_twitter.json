@@ -1,0 +1,1959 @@
+[
+  {
+    "name": "Jason Calacanis",
+    "what_they_do": "Angel investor; founder and CEO of LAUNCH (LAUNCH Accelerator, Founder University, The Syndicate); host of This Week in Startups and co-host of All-In podcast",
+    "stage": "Idea to MVP via Founder University ($25K or $125K); MVP to scale via LAUNCH Accelerator ($125K); growth via The Syndicate ($250K+). Yes, invests at idea stage through Founder University.",
+    "check_size": "$25K (Founder University pre-accelerator) to $125K (accelerator); $250K+ via The Syndicate. Secondary sources list $100K-$500K.",
+    "sectors": [
+      "generalist",
+      "SaaS",
+      "consumer",
+      "fintech",
+      "AI",
+      "enterprise"
+    ],
+    "geography": "USA-based programs; global reach via Founder University; MENA and Japan programs",
+    "twitter": "@Jason",
+    "linkedin": "https://www.linkedin.com/in/jasoncalacanis/",
+    "email_or_form": "https://forms.launch.co/apply (also linked as launch.co/apply)",
+    "other_channels": [
+      "https://thisweekinstartups.com",
+      "https://calacanis.substack.com/",
+      "https://www.allinpodcast.co/",
+      "https://www.founder.university/",
+      "https://thesyndicate.com/",
+      "https://linktr.ee/calacanis/"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "Apply for funding via the LAUNCH form (forms.launch.co/apply). Signal profile quotes him: founders with traction for the accelerator, $1m+ ARR for the syndicate; 'please, build something!' rather than coffee to discuss ideas.",
+    "notes": "Founder University is the idea-to-MVP track; LAUNCH invests in ~100 startups a year; syndicate has 10,000+ backers. Early investor in Uber, Robinhood, Calm. Prefers something built over an idea-only pitch, even for the idea-stage program.",
+    "sources": [
+      "https://www.launch.co",
+      "https://linktr.ee/calacanis/",
+      "https://www.vcsheet.com/who/jason-calacanis",
+      "https://signal.nfx.com/investors/jason-calacanis"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Sahil Lavingia",
+    "what_they_do": "Founder and CEO of Gumroad; angel investor via SHL Capital rolling fund",
+    "stage": "Pre-seed and seed historically (secondary sources); 2026 active status unknown",
+    "check_size": "$100K-$250K (Mercury investor database and VCSheet; secondary sources)",
+    "sectors": [
+      "generalist",
+      "SaaS",
+      "creator tools",
+      "future of work",
+      "crypto"
+    ],
+    "geography": "Global (Mercury DB); USA (VCSheet)",
+    "twitter": "@shl",
+    "linkedin": "https://www.linkedin.com/in/sahillavingia/",
+    "email_or_form": "unknown (Mercury DB lists https://shl.vc/apply, but shl.vc now shows a 'domain for sale' page as of 2026-09-02)",
+    "other_channels": [
+      "https://sahillavingia.com"
+    ],
+    "best_channel": "twitter_dm",
+    "outreach_rule": "Quoted on Mercury DB: 'For outreach, I need a deck, but a product I can play with is even better.' Invests in most industries outside of music, DTC, and gambling. The public apply form URL is dead; no replacement form verified.",
+    "notes": "~30 angel investments incl. Clubhouse, Figma, Notion, Vercel, HelloSign. Favors profitable, calm, small-but-great startups; hard-tech that solves human problems; execution over abstract potential. Personal site does not list investing info. X bio on 2026-09-02: \"@ IRS. Founder @gumroad (now run by @gumclaw). Author of The Minimalist Entrepreneur.\" No mention of investing. Active angel status in 2026 is unknown; treat as low-probability target.",
+    "sources": [
+      "https://sahillavingia.com",
+      "https://mercury.com/investor-database/sahil-lavingia",
+      "https://www.vcsheet.com/who/sahil-lavingia",
+      "https://shl.vc/apply",
+      "https://api.fxtwitter.com/shl"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Elad Gil",
+    "what_they_do": "Solo investor via Gil&Co (multi-stage); entrepreneur; author of High Growth Handbook; writes blog.eladgil.com",
+    "stage": "Multi-stage, early through growth (own site); Signal lists pre-seed through Series B. No explicit idea-stage statement found.",
+    "check_size": "unknown (Signal lists $10K-$500K, sweet spot $100K; unverified)",
+    "sectors": [
+      "AI",
+      "enterprise software",
+      "fintech",
+      "biotech",
+      "mobility",
+      "generalist"
+    ],
+    "geography": "San Francisco / US (Signal); portfolio is global",
+    "twitter": "@eladgil",
+    "linkedin": "https://www.linkedin.com/in/eladgil/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "https://blog.eladgil.com/",
+      "https://eladgil.com"
+    ],
+    "best_channel": "unknown",
+    "outreach_rule": "unknown (no public pitch rule found on his site)",
+    "notes": "Early investor in Airbnb, Anthropic, Anduril, Coinbase, Figma, Notion, OpenAI, Perplexity, Stripe, etc. Focus on AI/ML, generative AI, longevity biotech, enterprise. 218 investments on Signal record.",
+    "sources": [
+      "https://eladgil.com",
+      "https://blog.eladgil.com",
+      "https://signal.nfx.com/investors/elad-gil"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Naval Ravikant",
+    "what_they_do": "Co-founder of AngelList; angel investor; host of the Naval podcast",
+    "stage": "Seed / early-stage angel (secondary sources). No primary statement on idea stage found.",
+    "check_size": "unknown (qubit.capital blog claims $25K-$250K; unverified)",
+    "sectors": [
+      "software",
+      "crypto",
+      "consumer internet",
+      "AI",
+      "fintech",
+      "tools for builders"
+    ],
+    "geography": "USA (VCSheet); global per secondary sources",
+    "twitter": "@naval",
+    "linkedin": "https://www.linkedin.com/in/navalr/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "https://nav.al",
+      "https://naval.substack.com/",
+      "https://podcasts.apple.com/us/podcast/naval/id1454097755",
+      "https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg",
+      "@navalpodcast (X)"
+    ],
+    "best_channel": "warm_intro",
+    "outreach_rule": "unknown on primary sources. Secondary (qubit.capital): rarely responds to cold outreach; warm intro via AngelList community or portfolio founder is the standard path.",
+    "notes": "Early investor in Twitter, Uber, Notion, Stack Overflow. Says he backs founder clarity and first-principles thinking over decks or traction. nav.al is a podcast archive with no investing page.",
+    "sources": [
+      "https://nav.al",
+      "https://www.vcsheet.com/who/naval-ravikant",
+      "https://qubit.capital/blog/list-angel-investors",
+      "https://www.hustlefund.vc/post/angel-squad-naval-ravikant-investments-the-angel-investors-angel-investor"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Balaji Srinivasan",
+    "what_they_do": "Founder of the Network School; author of The Network State; angel investor; former CTO Coinbase and GP a16z",
+    "stage": "Angel / early-stage (own about page says early-stage investor; Signal lists 'Angel'). No explicit idea-stage statement.",
+    "check_size": "unknown (Signal lists $10K-$500K, sweet spot $100K; unverified)",
+    "sectors": [
+      "crypto",
+      "AI",
+      "biotech",
+      "fintech",
+      "infrastructure"
+    ],
+    "geography": "San Francisco Bay Area and Singapore (Signal); portfolio global",
+    "twitter": "@balajis",
+    "linkedin": "https://www.linkedin.com/in/balajissrinivasan/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "https://balajis.com (Substack, 115,000+ subscribers)",
+      "https://farcaster.xyz/balajis.eth"
+    ],
+    "best_channel": "twitter_dm",
+    "outreach_rule": "About page lists X (@balajis) and Farcaster as contact; no email. No stated pitch rule.",
+    "notes": "Investments: Alchemy, Benchling, Digital Ocean, OpenSea, Perplexity, Polymarket, Replit, Starkware, Varda, Zora, plus protocols. Thesis (secondary): infrastructure layer of crypto, AI, biotech at earliest stage.",
+    "sources": [
+      "https://balajis.com/about",
+      "https://balajis.com",
+      "https://signal.nfx.com/investors/balaji-srinivasan"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Garry Tan",
+    "what_they_do": "President and CEO of Y Combinator; co-founder of Initialized Capital (now board partner/advisor); former personal angel investor",
+    "stage": "Via YC: accepts idea-stage companies (YC application). Personal angel: Signal/Mercury list seed. No current personal angel statement found.",
+    "check_size": "unknown for personal angel (Mercury DB lists $1M-$5M with Initialized email; likely stale). YC standard deal applies via YC.",
+    "sectors": [
+      "generalist",
+      "AI",
+      "consumer",
+      "fintech",
+      "crypto",
+      "enterprise",
+      "deep tech"
+    ],
+    "geography": "US/Canada (Mercury DB); YC is global",
+    "twitter": "@garrytan",
+    "linkedin": "https://www.linkedin.com/in/garrytan",
+    "email_or_form": "https://apply.ycombinator.com/home (YC application); no personal pitch email published (Mercury DB lists garry@initialized.com, stale)",
+    "other_channels": [
+      "https://www.youtube.com/@GarryTan",
+      "https://blog.garrytan.com",
+      "https://news.ycombinator.com/user?id=garry"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "Apply to YC via the application form. No personal angel outreach rule published.",
+    "notes": "Worked with 35+ unicorns (Coinbase, Instacart, Flexport, Rippling). garrytan.com did not resolve on 2026-09-02. Personal angel activity appears folded into YC; treat as YC channel.",
+    "sources": [
+      "https://www.ycombinator.com/people/garry-tan",
+      "https://mercury.com/investor-database/garry-tan",
+      "https://signal.nfx.com/investors/garry-tan",
+      "https://www.ycombinator.com/apply"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Immad Akhund",
+    "what_they_do": "Co-founder and CEO of Mercury; angel investor since 2016; launched a $26M early-stage fund in 2025 (partner Yash Doshi)",
+    "stage": "Pre-seed and seed (Mercury investor database, his own company's site)",
+    "check_size": "$50K-$100K (Mercury investor database); TechCrunch reports the 2025 fund averages ~$150K, up to $1M",
+    "sectors": [
+      "fintech",
+      "healthcare",
+      "SaaS",
+      "enterprise",
+      "consumer",
+      "generalist"
+    ],
+    "geography": "Global (Mercury DB); USA (VCSheet)",
+    "twitter": "@immad",
+    "linkedin": "https://www.linkedin.com/in/iakhund/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "https://mercury.com/investor-database/immad-akhund"
+    ],
+    "best_channel": "twitter_dm",
+    "outreach_rule": "Mercury DB lists contact as 'Twitter DM' (@immad). Invests in most industries outside of biotech and hard tech.",
+    "notes": "350+ angel deals: Airtable, Substack, Rappi, Linear, Decagon, Applied Intuition. Fund criteria: founders with a proven track record, $10B+ markets, 'advancing humanity'. immad.com did not resolve on 2026-09-02.",
+    "sources": [
+      "https://mercury.com/investor-database/immad-akhund",
+      "https://www.vcsheet.com/who/immad-akhund",
+      "https://techcrunch.com/2025/05/12/mercurys-ceo-formalizes-bets-on-early-stage-founders-with-a-26m-fund/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Julian Shapiro",
+    "what_they_do": "Founder of Julian Capital (deeptech pre-seed/seed fund); writer at julian.com; ex-growth lead at Webflow",
+    "stage": "Pre-seed and seed. Own site: 'No startup is too early - apply even at the idea stage.'",
+    "check_size": "$500K to $2M, roughly once per month (julian.capital)",
+    "sectors": [
+      "deeptech",
+      "robotics",
+      "chips",
+      "energy",
+      "medtech",
+      "climate",
+      "materials",
+      "space",
+      "bio",
+      "manufacturing",
+      "agriculture"
+    ],
+    "geography": "unknown (not stated)",
+    "twitter": "@Julian",
+    "linkedin": "https://www.linkedin.com/in/julian-shapiro/",
+    "email_or_form": "https://www.julian.capital/ (embedded 'Submit Deck' form on the page)",
+    "other_channels": [
+      "https://www.julian.com",
+      "https://deepchecks.vc"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "Submit a deck via the form on julian.capital; 'We review decks weekly'; 'We decide in 7-14 days'. Physical products only: 'AI software doesn't count.'",
+    "notes": "Portfolio: Aalo (nuclear), Extropic (pre-seed 2022), Astro Mechanica, Parallel Bio, Becoming. Says 2 startups in 2026 were funded via the site form. Hardware founders explicitly welcome. Second check (batch 4): Deeptech only; software-only ideas are a poor fit. Portfolio: Aalo, Extropic, Reflex Robotics, Atomic Industries, Parallel Bio.",
+    "sources": [
+      "https://www.julian.com",
+      "https://www.julian.capital",
+      "https://julian.capital",
+      "https://www.julian.capital/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Ryan Hoover",
+    "what_they_do": "Founder of Product Hunt; investor at Weekend Fund (early-stage fund with 350+ operator LPs)",
+    "stage": "Early-stage (weekend.fund); Weekend Fund portfolio includes pre-seed. No explicit idea-stage statement.",
+    "check_size": "$200K-$500K (weekend.fund)",
+    "sectors": [
+      "generalist",
+      "consumer",
+      "B2B",
+      "fintech",
+      "AI",
+      "health"
+    ],
+    "geography": "Global ('early-stage startups around the world')",
+    "twitter": "@rrhoover",
+    "linkedin": "https://www.linkedin.com/in/ryanrhoover/",
+    "email_or_form": "team@weekend.fund (published on weekend.fund)",
+    "other_channels": [
+      "https://www.weekend.fund",
+      "https://ryanhoover.me (newsletter, 25K subscribers)",
+      "https://producthunt.com/@rrhoover"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "'If you're building something ambitious, reach out' - email team@weekend.fund. LP inquiries: ryan@weekend.fund.",
+    "notes": "Sectors quoted: 'weird consumer to boring B2B and everything in between'. Portfolio: Deel, Pipe, Extropic, Function Health, Mindbloom; 100+ investments.",
+    "sources": [
+      "https://www.weekend.fund",
+      "http://www.ryanhoover.me/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Lenny Rachitsky",
+    "what_they_do": "Author of Lenny's Newsletter and host of Lenny's Podcast; angel investor (140+ companies)",
+    "stage": "Angel; Signal lists pre-seed through Series B. Own site: 'actively angel invest'. No explicit idea-stage statement.",
+    "check_size": "unknown (Signal lists $100K-$10M, sweet spot $1M; unverified and likely includes syndicate rounds)",
+    "sectors": [
+      "AI",
+      "B2B SaaS",
+      "marketplaces",
+      "platforms",
+      "consumer"
+    ],
+    "geography": "San Francisco / US (Signal)",
+    "twitter": "@lennysan",
+    "linkedin": "https://www.linkedin.com/in/lennyrachitsky/",
+    "email_or_form": "https://lennyrachitsky.com/contact (contact page linked from his site; not confirmed to accept pitches)",
+    "other_channels": [
+      "https://www.lennysnewsletter.com",
+      "https://www.lennysnewsletter.com/podcast",
+      "https://lennyrachitsky.com/investing"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "unknown (no stated pitch rule; site has a contact page)",
+    "notes": "Says on X he has angel invested in 140+ companies; 12 unicorns. Sectors from his site: 'AI, B2B SaaS, marketplaces, platforms, and remarkable consumer products'. Advice: invest same check size in every credible deal.",
+    "sources": [
+      "https://lennyrachitsky.com/investing",
+      "https://lennyrachitsky.com/contact",
+      "https://signal.nfx.com/investors/lenny-rachitsky",
+      "https://www.lennysnewsletter.com/about"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Harry Stebbings",
+    "what_they_do": "Founder of 20VC (The Twenty Minute VC podcast) and The 20VC Fund ($800M+ AUM)",
+    "stage": "Pre-seed, seed, Series A, Series B+ (VCSheet). No explicit idea-stage statement found; 20vc.fund page returned no body.",
+    "check_size": "unknown (VCSheet lists $250K-$5M; unverified)",
+    "sectors": [
+      "SaaS",
+      "fintech",
+      "AI",
+      "consumer",
+      "enterprise"
+    ],
+    "geography": "Europe and USA",
+    "twitter": "@HarryStebbings",
+    "linkedin": "https://www.linkedin.com/in/harrystebbings/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "https://www.thetwentyminutevc.com/",
+      "https://20vc.fund/"
+    ],
+    "best_channel": "unknown",
+    "outreach_rule": "unknown",
+    "notes": "Podcast is the sourcing engine (20Growth, 20Sales, 20Product brands). 13+ unicorn investments; LPs include 40+ unicorn founders. Fund does not lead per VCSheet.",
+    "sources": [
+      "http://www.thetwentyminutevc.com/",
+      "https://20vc.fund/",
+      "https://www.vcsheet.com/who/harry-stebbings"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Shaan Puri",
+    "what_they_do": "Co-host of My First Million podcast; angel investor; runs the All Access rolling fund (~$4M/yr) on AngelList; former Twitch exec",
+    "stage": "Early-stage / pre-seed and seed (Sacra interview and secondary sources). No explicit idea-stage statement.",
+    "check_size": "unknown (Signal and VCSheet list $10K-$50K, sweet spot $25K; Capitaly claims $25K-$100K; unverified)",
+    "sectors": [
+      "consumer",
+      "SaaS",
+      "fintech",
+      "AI",
+      "crypto",
+      "generalist"
+    ],
+    "geography": "San Francisco / US; invests globally per Sacra",
+    "twitter": "@ShaanVP",
+    "linkedin": "https://www.linkedin.com/in/shaanpuri",
+    "email_or_form": "shaan@shaanpuri.com (published on shaanpuri.com; not stated as a pitch address)",
+    "other_channels": [
+      "https://www.shaanpuri.com (newsletter, 109K subscribers)",
+      "My First Million podcast",
+      "https://onehourbooks.co"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "No stated rule. Sacra: 30% of deals were cold outreach by him to founders, 30% referrals, 40% via his scout. Secondary: fields pitches via Twitter DMs and intros.",
+    "notes": "Raised the fund only from podcast/Twitter followers. Quote: 'when I see something that I think can be big, I try to invest'. Dislikes over-polished decks (secondary).",
+    "sources": [
+      "https://www.shaanpuri.com",
+      "https://sacra.com/p/shaan-puri-myfirstmillion-interview/",
+      "https://www.vcsheet.com/fund/shaan-puri-fund",
+      "https://signal.nfx.com/investors/shaan-puri"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Sam Parr",
+    "what_they_do": "Founder of The Hustle (sold to HubSpot 2021); co-founder of Hampton; co-host of My First Million podcast; occasional angel",
+    "stage": "Angel, pre-seed to Series A on record (Signal). CAUTION: his 2026 tweet says 'I'm not an active angel' and he would not do a non-AI seed deal now.",
+    "check_size": "unknown (Signal lists $10K-$50K, sweet spot $25K; unverified)",
+    "sectors": [
+      "consumer",
+      "health",
+      "AI",
+      "media"
+    ],
+    "geography": "US (San Francisco / New York per secondary sources)",
+    "twitter": "@thesamparr",
+    "linkedin": "https://www.linkedin.com/in/parrsam/ (from Signal; unverified)",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "My First Million podcast",
+      "https://www.joinhampton.com/"
+    ],
+    "best_channel": "twitter_dm",
+    "outreach_rule": "unknown; states he is not an active angel (X post, 2026)",
+    "notes": "~13-14 investments: Hone Health, Givebutter, Harbor. Hampton is a paid network for founders with $3M-$50M revenue. Low priority for pre-seed outreach.",
+    "sources": [
+      "https://x.com/thesamparr/status/2032050605833773060",
+      "https://signal.nfx.com/investors/sam-parr",
+      "https://www.joinhampton.com/",
+      "https://tracxn.com/d/people/sam-parr/__Reh5Ub4yHvhTmuK03Lr2iP2cVxIuvh9w-VVo9rzgK_4"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Anthony Pompliano",
+    "what_they_do": "CEO of Professional Capital Management; founder of Pomp Investments (rolling fund); host of The Pomp Podcast and author of The Pomp Letter",
+    "stage": "Early-stage, pre-seed and seed on record (Signal); 300+ private companies. No explicit idea-stage statement.",
+    "check_size": "unknown",
+    "sectors": [
+      "crypto",
+      "bitcoin",
+      "fintech",
+      "SaaS",
+      "consumer",
+      "enterprise"
+    ],
+    "geography": "USA (New York); global crypto",
+    "twitter": "@APompliano",
+    "linkedin": "https://www.linkedin.com/in/anthonypompliano/",
+    "email_or_form": "https://www.anthonypompliano.com/ (generic contact form: name, email, message)",
+    "other_channels": [
+      "The Pomp Letter newsletter (270,000+ subscribers)",
+      "The Pomp Podcast",
+      "https://www.youtube.com/@AnthonyPompliano",
+      "https://www.youtube.com/@FromTheDeskOfAnthonyPompliano"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "unknown; site offers a generic contact form. Secondary: deals sourced mainly via his network of founders and investors.",
+    "notes": "Rolling fund launched 2020, $1M+/quarter in commitments in week one. Focus on cryptoassets, blockchain, and early-stage tokens. pompinvestments.com returned no content on 2026-09-02.",
+    "sources": [
+      "https://www.anthonypompliano.com/",
+      "https://www.vcsheet.com/who/anthony-pompliano",
+      "https://signal.nfx.com/investors/anthony-pompliano",
+      "https://www.pompinvestments.com"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Turner Novak",
+    "what_they_do": "Founder and solo GP of Banana Capital; host of The Peel podcast",
+    "stage": "Pre-seed and seed: 'I currently invest up to $250k in Pre-Seed and Seed rounds.'",
+    "check_size": "up to $250K (bananacapital.vc)",
+    "sectors": [
+      "consumer software",
+      "health",
+      "fintech",
+      "gaming",
+      "media",
+      "housing",
+      "dev tools",
+      "B2B software",
+      "deep tech"
+    ],
+    "geography": "Primarily US; occasionally Europe and parts of Asia",
+    "twitter": "@TurnerNovak",
+    "linkedin": "https://www.linkedin.com/in/turnernovak/",
+    "email_or_form": "turner@bananacapital.vc (site says 'email me at my first name @ this domain')",
+    "other_channels": [
+      "https://www.bananacapital.vc",
+      "The Peel podcast"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "'The best way to get in touch is email me at my first name @ this domain. The worst way is to message me on LinkedIn.'",
+    "notes": "Portfolio: Linktree, Substack, Replit, Anduril. Built dealflow via Twitter memes and fantasy VC portfolios. Focus on consumer across all industries.",
+    "sources": [
+      "https://www.bananacapital.vc",
+      "https://www.linkedin.com/in/turnernovak/",
+      "https://www.hustlefund.vc/post/what-turner-novaks-investment-strategy-teaches-us-about-backing-repeat-founders-and-category-defining-companies"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Zach Coelius",
+    "what_they_do": "Solo GP, Coelius Capital (early-stage fund; 4-5x founder; runs a large AngelList syndicate)",
+    "stage": "Pre-seed, seed and Series A; fund site says 'early stage capital for technology startups' and 'pre-metrics' companies; third-party profiles list pre-seed",
+    "check_size": "$200k-$1M ('Average checks are $200k-1m' per coelius.vc)",
+    "sectors": [
+      "B2B software",
+      "B2B2C",
+      "SaaS",
+      "fintech",
+      "AI",
+      "data",
+      "weird ideas"
+    ],
+    "geography": "US primarily; Mercury profile says global",
+    "twitter": "@zachcoelius",
+    "linkedin": "https://www.linkedin.com/in/zachcoelius/",
+    "email_or_form": "zach@coelius.vc",
+    "other_channels": [
+      "https://venture.angellist.com/zach-coelius/syndicate"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "Email zach@coelius.vc. Site says: 'Please send a deck, a summary or at least a paragraph first.' Mercury profile: 'Please include a deck when reaching out'.",
+    "notes": "Says 'We generally invest in B2B or B2B2C companies. We like weird ideas.' Will not do crypto, web3, hard science, security, bio, chips. Early backer of Cruise via AngelList syndicate. Dislikes emails that ask permission to send a deck; send the deck in the first message. Note: Mercury profile lists z@coelius.vc but coelius.vc lists zach@coelius.vc; use the fund-site address.",
+    "sources": [
+      "https://coelius.vc/",
+      "https://www.vcsheet.com/who/zach-coelius",
+      "https://x.com/zachcoelius",
+      "https://mercury.com/investor-database/zach-coelius"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Jack Altman",
+    "what_they_do": "General Partner at Benchmark (joined Feb 2026); founder of Alt Capital (Fund I $150M 2024, Fund II $274M 2025); co-founder and former CEO of Lattice; host of the Uncapped podcast",
+    "stage": "Alt Capital listed pre-seed, seed and Series A; now invests from Benchmark (seed / Series A). Idea-stage is not explicitly stated on any primary source.",
+    "check_size": "$1M-$10M (per VCSheet for Alt Capital; unknown for Benchmark)",
+    "sectors": [
+      "AI",
+      "enterprise software",
+      "SaaS",
+      "fintech",
+      "health"
+    ],
+    "geography": "US (San Francisco based)",
+    "twitter": "@jaltma",
+    "linkedin": "https://www.linkedin.com/in/jackealtman/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "Uncapped podcast (Jack Altman)"
+    ],
+    "best_channel": "warm_intro",
+    "outreach_rule": "unknown. No public pitch form or email found on altcap.com (logo-only page).",
+    "notes": "Operator-first lens; 'durability test' of whether the product is still in use 10+ years from now. Since Feb 2026 he is a Benchmark GP; Alt Capital is no longer his active vehicle for new deals. Checks are large for an idea-stage founder. X bio reads 'Partner at Benchmark, previously founded Alt Cap and Lattice'.",
+    "sources": [
+      "https://www.altcap.com/",
+      "https://www.vcsheet.com/who/jack-altman",
+      "https://x.com/jaltma",
+      "https://pulse2.com/jack-altman-joins-benchmark-as-general-partner/",
+      "https://www.bloomberg.com/news/articles/2026-02-17/benchmark-hires-jack-altman-sees-recent-ai-bets-surge"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Alex Cohen",
+    "what_they_do": "Co-founder of Hello Patient (healthcare AI, raised $22.5M Series A Sep 2025); ex-Carbon Health consumer and growth product lead; angel investor in 80+ companies via a small fund he runs",
+    "stage": "Angel / pre-seed and seed (invests 'in startups' out of a small fund; portfolio is mostly early-stage)",
+    "check_size": "$50k-$150k ('I invest $50k-$150k in startups' per alexjcohen.com)",
+    "sectors": [
+      "healthcare",
+      "B2B SaaS",
+      "prosumer SaaS",
+      "fintech",
+      "AI"
+    ],
+    "geography": "US (based in Austin)",
+    "twitter": "@anothercohen",
+    "linkedin": "https://www.linkedin.com/in/alexander-cohen",
+    "email_or_form": "alex@alexjcohen.com",
+    "other_channels": [
+      "https://alexjcohen.com/",
+      "Wannabe Angels podcast ep 31: https://wannabeangels.com/p/how-alex-cohen-balances-angel-investing"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "Site says: 'Getting a warm intro is the fastest way to skip my inbox. I read every cold email but I'm slower to respond.'",
+    "notes": "Portfolio examples: Lula, CertifyOS, Flume Health, Almond OBGYN, Railway, Splitero. Very active poster on X. Reads cold email but responds slowly. Note: 'Kick' was not confirmed as part of his history in the sources I found.",
+    "sources": [
+      "https://alexjcohen.com/",
+      "https://x.com/anothercohen",
+      "https://www.linkedin.com/in/alexander-cohen",
+      "https://wannabeangels.com/p/how-alex-cohen-balances-angel-investing"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Nikita Bier",
+    "what_they_do": "Head of Product at X (since July 2025); founder of tbh (acquired by Meta) and Gas (acquired by Discord); venture partner / product growth partner at Lightspeed; advisor (xAI, Coinbase, Solana); angel investor in consumer apps",
+    "stage": "Angel in early consumer apps (advised or invested in Locket, BeReal, Flo). No primary statement found that he takes idea-stage pitches; Crunchbase lists ~21 investments.",
+    "check_size": "unknown",
+    "sectors": [
+      "consumer social",
+      "mobile apps",
+      "viral growth"
+    ],
+    "geography": "US",
+    "twitter": "@nikitabier",
+    "linkedin": "unknown",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "https://intro.co/NikitaBier (paid 15-minute advice sessions, $7,500, venture-backed companies only)",
+      "Lenny's Newsletter interview: https://www.lennysnewsletter.com/p/how-to-consistently-go-viral-nikita-bier"
+    ],
+    "best_channel": "unknown",
+    "outreach_rule": "unknown. Intro.co page says 'Sessions will only be accepted for venture-backed companies.'",
+    "notes": "Best known for tactical consumer growth advice on X (1M+ followers). Full-time role at X likely limits new angel activity. Lightspeed page (lsvp.com) could not be fetched from this network. Personal site and Signal/Mercury profiles returned errors or 404.",
+    "sources": [
+      "https://x.com/nikitabier",
+      "https://intro.co/NikitaBier",
+      "https://lsvp.com/team-member/nikita-bier/",
+      "https://en.wikipedia.org/wiki/Nikita_Bier",
+      "https://www.crunchbase.com/person/nikita-bier-2"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Andrew Chen",
+    "what_they_do": "General Partner at Andreessen Horowitz (a16z), runs a16z Speedrun (invests up to $1M in brand new startups); author of The Cold Start Problem; writer at andrewchen.substack.com; personal angel history before a16z (AngelList, Dropbox, Gusto, Barkbox, Front, Product Hunt, Tinder, Patreon, Substack)",
+    "stage": "Idea / pre-seed via a16z Speedrun: 'We invest up to $1M in your new startup.' Personal angel investing is historical (pre-a16z), not current.",
+    "check_size": "Up to $1M via a16z Speedrun (plus credits); personal angel check size unknown",
+    "sectors": [
+      "consumer",
+      "games",
+      "AR/VR",
+      "network effects",
+      "AI"
+    ],
+    "geography": "Global ('Open to Founders Around The World', 40+ countries)",
+    "twitter": "@andrewchen",
+    "linkedin": "https://www.linkedin.com/in/andrewchen/",
+    "email_or_form": "https://speedrun.a16z.com/apply",
+    "other_channels": [
+      "https://andrewchen.substack.com",
+      "https://andrewchen.com/",
+      "https://a16z.com/andrew-chen/"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "Apply to a16z Speedrun at https://speedrun.a16z.com/apply. No personal email or DM rule published on andrewchen.com.",
+    "notes": "Deal flow comes largely from founders who read his essays. Speedrun has deployed $300M+ across 300+ startups since 2023 and is the only public path to an idea-stage check from him. Not a solo angel today; treat as an institutional accelerator route.",
+    "sources": [
+      "https://andrewchen.com/",
+      "https://andrewchen.com/about/",
+      "https://speedrun.a16z.com/",
+      "https://www.hustlefund.vc/post/angel-squad-andrew-chen-investments-the-growth-theorist-who-turned-650-essays-into-a-general-partner-seat-at-a16z",
+      "https://www.linkedin.com/in/andrewchen/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Paul Graham",
+    "what_they_do": "Co-founder of Y Combinator; programmer, essayist and investor (paulgraham.com)",
+    "stage": "Idea / pre-seed only through Y Combinator. His FAQ says: 'I invest in and advise startups through Y Combinator. If you want investment, the way to get it is to apply for our next round of funding.'",
+    "check_size": "unknown as a personal angel (VCSheet lists an average of $150K but that is a third-party estimate; YC standard deal applies via YC)",
+    "sectors": [
+      "generalist"
+    ],
+    "geography": "US / global via YC",
+    "twitter": "@paulg",
+    "linkedin": "https://www.linkedin.com/in/paul-graham-865b4692/",
+    "email_or_form": "https://www.ycombinator.com/apply (per his FAQ: apply to YC)",
+    "other_channels": [
+      "https://www.paulgraham.com/articles.html (essays)"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "Apply to Y Combinator. FAQ: 'Sorry, but I can't give advice to every startup that writes to me. It's as much as I can do to keep up with the ones we've funded.'",
+    "notes": "Does not take direct pitches. Third-party trackers (PitchBook, Tracxn) show occasional personal investments in 2026 (for example ZeroPath, Luel), but these come through his network, not cold outreach. 5M+ X followers; replies publicly but no DM rule stated.",
+    "sources": [
+      "https://www.paulgraham.com/gfaq.html",
+      "https://www.paulgraham.com/bio.html",
+      "https://x.com/paulg",
+      "https://www.vcsheet.com/who/paul-graham"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Justin Kan",
+    "what_they_do": "Co-founder of Twitch; Founder and General Partner at Goat Capital (with Robin Chan); YouTube creator; co-founder of Stash (ex-Fractal)",
+    "stage": "Pre-seed and seed through Series A (Goat Capital). Third-party profiles say he 'typically invests in pre-seed and seed stage companies'. No primary idea-stage statement fetched (goat.capital and justinkan.com were not reachable from this network).",
+    "check_size": "unknown as an angel; Signal lists Goat Capital range $500K-$3M (sweet spot $1.8M)",
+    "sectors": [
+      "AI",
+      "robotics",
+      "gaming",
+      "climate",
+      "health",
+      "ecommerce",
+      "consumer"
+    ],
+    "geography": "US (San Francisco Bay Area)",
+    "twitter": "@justinkan",
+    "linkedin": "https://www.linkedin.com/in/justinkan/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "YouTube: Justin Kan",
+      "https://justinkan.komi.io",
+      "https://justinkan.com"
+    ],
+    "best_channel": "unknown",
+    "outreach_rule": "unknown",
+    "notes": "Positions himself as 'a founder who happens to be a VC'; Goat Capital also incubates. 94+ investments, 8 unicorns (Razorpay, Mercury). Recent deal: Wabi (pre-seed, 2025). X bio now emphasizes making videos.",
+    "sources": [
+      "https://x.com/justinkan",
+      "https://www.vcsheet.com/who/justin-kan",
+      "https://signal.nfx.com/investors/justin-kan",
+      "https://tracxn.com/d/people/justin-kan/__csuZkZysYR0S7KxJrPfMcpFI3w8_iJcb7NVnmXB7w0M"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Elizabeth Yin",
+    "what_they_do": "Co-founder and General Partner, Hustle Fund (pre-seed fund for software startups); ex-500 Startups partner; writes on tactical fundraising at elizabethyin.com",
+    "stage": "Pre-seed only. FAQ: 'We invest in pre-seed rounds. Not seed. Not post-seed / mango seed. Pre-seed.' Sweet spot is a company with at least an MVP and full-time founders.",
+    "check_size": "$150K first check (hustlefund.vc); older profiles cite $25K-$50K",
+    "sectors": [
+      "software generalist",
+      "SaaS",
+      "B2B",
+      "fintech",
+      "digital health",
+      "AI"
+    ],
+    "geography": "Mostly the United States, Canada, and Southeast Asia",
+    "twitter": "@dunkhippo33",
+    "linkedin": "https://www.linkedin.com/in/elizabethyin/",
+    "email_or_form": "https://hustlefund.typeform.com/to/UGTnIt",
+    "other_channels": [
+      "https://elizabethyin.com/ (blog)",
+      "Hustle Fund blog: https://www.hustlefund.vc/post",
+      "The Pitch podcast guest page: https://www.thepitch.show/investors/elizabeth-yin-hustle-fund"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "Use the Hustle Fund application form ('tell us what you're hustling. We read everything.'). Response in 24-48 hours after a call; '1-2 meetings to a yes'.",
+    "notes": "Cares most about team and week-over-week execution speed. Avoids capital-intensive sectors. Mercury investor database lists elizabeth@hustlefundvc.com, but I could not verify that address on a primary source; use the form. Twitter handle confirmed via VCSheet only (x.com not fetchable). Second check (batch 4): Team weighted over product. Very active on X about pre-seed fundraising tactics. Same form as Eric Bahn entry.",
+    "sources": [
+      "https://www.hustlefund.vc/",
+      "https://www.hustlefund.vc/faq",
+      "https://www.vcsheet.com/who/elizabeth-yin",
+      "https://mercury.com/investor-database/elizabeth-yin",
+      "https://elizabethyin.com/",
+      "https://www.elizabethyin.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Sheel Mohnot",
+    "what_they_do": "Co-founder and General Partner, Better Tomorrow Ventures (fintech pre-seed/seed fund, BTV III $140M); creator of The Pitch podcast; founder of 500 Fintech; two exits (FeeFighters, Innovative Auctions); fintech advisor at Necessary Ventures",
+    "stage": "Pre-seed and seed in fintech; BTV 'leads rounds in pre-seed and seed-stage fintech companies globally'. Idea-stage not explicitly stated.",
+    "check_size": "$500K-$2M (BTV, per VCSheet and Mercury); personal angel check size unknown",
+    "sectors": [
+      "fintech",
+      "insurtech",
+      "proptech",
+      "marketplaces",
+      "SaaS",
+      "devtools"
+    ],
+    "geography": "Global (US, Canada, Europe, India, Africa, LatAm, Asia-Pacific, Israel, MENA)",
+    "twitter": "@pitdesi",
+    "linkedin": "https://www.linkedin.com/in/smohnot/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "The Pitch podcast: https://www.thepitch.show",
+      "https://sheel-mohnot.pitdesi.chatgpt.site/",
+      "https://www.btv.vc/"
+    ],
+    "best_channel": "twitter_dm",
+    "outreach_rule": "Mercury profile lists 'Twitter DM (@pitdesi)' as the way to reach him. btv.vc publishes no pitch form or email. His personal page says 'Yes is my default' and links to X, Instagram and LinkedIn.",
+    "notes": "Takes a broad view of fintech. Early investor in Flexport, Coinbase, Ironclad, Albert, Kin, Chipper Cash. Wants BTV to be 'your first call'. Says overly large GP commits are dangerous (20VC).",
+    "sources": [
+      "https://www.btv.vc/",
+      "https://www.vcsheet.com/who/sheel-mohnot",
+      "https://mercury.com/investor-database/sheel-mohnot",
+      "https://sheel-mohnot.pitdesi.chatgpt.site/",
+      "https://www.necessary.vc/team/sheel-mohnot"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Ankur Nagpal",
+    "what_they_do": "Founder and solo GP, Vibe Capital (Fund 1 $12M across 82 companies; Fund 2 $70M); founder of Teachable (exit ~$250M) and Carry",
+    "stage": "Pre-seed and seed. vibe.vc: 'We invest in early-stage technology companies around the world.' TechCrunch: pre-seed and seed. Does not lead.",
+    "check_size": "$25K-$200K (sweet spot ~$100K, per VCSheet); not stated on vibe.vc",
+    "sectors": [
+      "fintech",
+      "SaaS",
+      "education",
+      "future of work",
+      "health / proactive wellness",
+      "emerging markets"
+    ],
+    "geography": "Global; about half of investments outside the US (India, Brazil, Pakistan, LatAm, Africa)",
+    "twitter": "@ankurnagpal",
+    "linkedin": "https://www.linkedin.com/in/ankurnagpal/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "https://vibe.vc/"
+    ],
+    "best_channel": "twitter_dm",
+    "outreach_rule": "vibe.vc says 'get in touch with Ankur' and links only to twitter.com/ankurnagpal; no email or form published.",
+    "notes": "Zero management fee fund, large GP commit. Aims to be 'the least pain in the ass investor'. Relocates for weeks to meet founders in emerging markets. Caution: vibecap.co is a different firm (AI/Web3/deep tech, vibes@vibecap.co) and is NOT Ankur's fund; his site is vibe.vc.",
+    "sources": [
+      "https://vibe.vc/",
+      "https://www.vcsheet.com/who/ankur-nagpal",
+      "https://techcrunch.com/2021/10/20/vibe-capital-is-a-new-venture-firm-built-for-scrappy-international-founders",
+      "https://signal.nfx.com/investors/ankur-nagpal"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Jason Lemkin",
+    "what_they_do": "Founder of SaaStr and Managing Partner of SaaStr Fund ($200M B2B fund); ex-CEO EchoSign (Adobe)",
+    "stage": "Pre-seed and seed, but NOT idea stage: 'We write first checks from $500k-$4000k' to companies with '$0.1m to $2m ARR', 'At least 10 Unaffiliated Customers' and '$10k+ or more in MRR'.",
+    "check_size": "$500k-$4M",
+    "sectors": [
+      "B2B",
+      "SaaS",
+      "B2D / devtools",
+      "AI",
+      "APIs"
+    ],
+    "geography": "Global, but 'prefer folks that come to Bay Area at least a few times a year'",
+    "twitter": "@jasonlk",
+    "linkedin": "https://www.linkedin.com/in/jasonmlemkin/",
+    "email_or_form": "unknown (page says cold email is fine but publishes no address; deck upload at SaaStr.ai VC)",
+    "other_channels": [
+      "https://docs.superhuman.com/@jasonmlemkin/saastrfund (fund page)",
+      "https://www.saastr.com/",
+      "SaaStr podcast",
+      "https://www.saastr.ai/fund"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "'Cold emails are great/fine! Several of our top investments were from cold emails.' Attach a deck, avoid Docsend links. 'We only invest in founders that are a part of the SaaStr community.'",
+    "notes": "Wants founder-CEOs who will run the company forever. Backs 'Outsiders + Outliers'. Requires real revenue, so not a fit for a pure idea pitch. Twitter handle confirmed on saastr.com author bio.",
+    "sources": [
+      "https://docs.superhuman.com/@jasonmlemkin/saastrfund",
+      "https://www.saastr.com/fund/",
+      "https://www.linkedin.com/in/jasonmlemkin/",
+      "https://saastrfund.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Gokul Rajaram",
+    "what_they_do": "Angel investor (300+ investments) and product operator; board member at Pinterest, Coinbase, The Trade Desk; ex-DoorDash, Square, Google, Facebook; recently launched Marathon Management Partners",
+    "stage": "Early stage: 'I invest in early-stage technology startups and partner with founders to help them build enduring companies.' Has done pre-seed (was first investor in Printify at pre-seed).",
+    "check_size": "$25K-$1M, sweet spot $50K (Signal); other profiles say $50K-$250K",
+    "sectors": [
+      "AI",
+      "fintech",
+      "devtools / infrastructure",
+      "SaaS",
+      "consumer internet",
+      "marketplaces",
+      "India"
+    ],
+    "geography": "US (San Francisco Bay Area); also India",
+    "twitter": "@gokulr",
+    "linkedin": "https://www.linkedin.com/in/gokulrajaram1/",
+    "email_or_form": "gokulr at gmail dot com (published on gokulrajaram.com)",
+    "other_channels": [
+      "https://www.gokulrajaram.com/",
+      "https://medium.com/@gokulrajaram"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "Site says: 'Email is the best way to reach me: gokulr at gmail dot com.'",
+    "notes": "Works with founders via 1:1 meetings every few weeks, WhatsApp/SMS, and operator network access. Notable early bets: Figma, Airtable, Vercel, Supabase, Coinbase, Printify. Values founder depth of understanding of the problem.",
+    "sources": [
+      "https://www.gokulrajaram.com/",
+      "https://signal.nfx.com/investors/gokul-rajaram",
+      "https://www.hustlefund.vc/post/angel-squad-gokul-rajaram-investments-what-the-godfather-of-adsense-teaches-us-about-product-led-investing"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Scott Belsky",
+    "what_they_do": "Partner at A24; founder of Behance; former Chief Product Officer at Adobe; seed-stage angel since 2010 (invests as capitalB); writes the Implications newsletter",
+    "stage": "Pre-seed, seed and Series A (Mercury: 'Pre-seed, Seed, Series A'); describes himself as 'a seed-stage angel investor since 2010'",
+    "check_size": "$50K-$100K (Mercury); Signal says $50K-$500K with sweet spot $100K",
+    "sectors": [
+      "consumer",
+      "marketplaces",
+      "AI",
+      "developer tools",
+      "fintech",
+      "transformation by interface"
+    ],
+    "geography": "Global (based in New York)",
+    "twitter": "@scottbelsky",
+    "linkedin": "https://www.linkedin.com/in/scottbelsky/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "Implications newsletter: https://www.implications.com/",
+      "https://www.scottbelsky.com/",
+      "capitalB page: https://www.scottbelsky.com/investing-backup"
+    ],
+    "best_channel": "twitter_dm",
+    "outreach_rule": "Mercury investor database lists 'Twitter DM' or email as how to reach him. His own site (scottbelsky.com) could not be fetched from this network, so the email is not verified here.",
+    "notes": "Mercury profile shows scott@belsky.com; not confirmed on his site, so left out of email_or_form. Notable investments: Airtable, Carta, Pinterest, Uber, dYdX, Living Carbon. Focus on 'transformation by interface' and consumer/marketplace.",
+    "sources": [
+      "https://mercury.com/investor-database/scott-belsky",
+      "https://signal.nfx.com/investors/scott-belsky",
+      "https://www.implications.com/",
+      "https://www.scottbelsky.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Josh Buckley",
+    "what_they_do": "Managing Director, Buckley Ventures (>$1B AUM, concentrated early-stage investments); previously ran HyperGrowth / led Product Hunt; founded Mino Games",
+    "stage": "Seed and Series A per VCSheet and Signal; Buckley Ventures site says 'early-stage companies'. Idea / pre-seed not explicitly stated.",
+    "check_size": "$300K (VCSheet / Signal listing; fund leads)",
+    "sectors": [
+      "AI",
+      "SaaS",
+      "enterprise",
+      "consumer",
+      "deeptech",
+      "frontier technology"
+    ],
+    "geography": "US (San Francisco, New York); also India",
+    "twitter": "@joshbuckley",
+    "linkedin": "https://www.linkedin.com/in/josh-buckley-7612284",
+    "email_or_form": "info@buckleyventures.com",
+    "other_channels": [
+      "https://buckleyventures.com/",
+      "https://joshbuckley.com/"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "unknown. buckleyventures.com publishes info@buckleyventures.com and pr@buckleyventures.com but no pitch rule.",
+    "notes": "Portfolio includes Speak, Pomelo, Vial, Toku, Pogo, Drafted. joshbuckley.com and Wikipedia were not fetchable from this network. Check size is a third-party figure.",
+    "sources": [
+      "https://buckleyventures.com/",
+      "https://www.vcsheet.com/who/josh-buckley",
+      "https://signal.nfx.com/investors/josh-buckley"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Cyan Banister",
+    "what_they_do": "Partner at Long Journey Ventures ('Early Stage Investing for the long-term'; 'the second believers in the magically weird'); ex-Founders Fund partner; early angel in Uber, SpaceX, Niantic, Postmates",
+    "stage": "Pre-seed, seed and Series A (VCSheet); fund site says early stage. Idea-stage not explicitly stated on primary source.",
+    "check_size": "$100K-$1M (VCSheet / Signal; sweet spot $500K)",
+    "sectors": [
+      "AI",
+      "fintech",
+      "health",
+      "deeptech",
+      "SaaS",
+      "consumer",
+      "defense",
+      "energy"
+    ],
+    "geography": "US (Bay Area based)",
+    "twitter": "@cyantist",
+    "linkedin": "https://www.linkedin.com/in/cyanb/",
+    "email_or_form": "hi@longjourney.vc",
+    "other_channels": [
+      "https://www.longjourney.vc/"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "Fund site: 'Say hello' at hi@longjourney.vc. No personal pitch rule found.",
+    "notes": "Backs weird, contrarian founders. Portfolio: Uber, SpaceX, Notion, plus 145 investments on record. Partners include Lee Jacobs and Arielle Zuckerberg. Team/about pages returned 404 and cyanbanister.com was not fetchable.",
+    "sources": [
+      "https://www.longjourney.vc/",
+      "https://www.vcsheet.com/who/cyan-banister",
+      "https://signal.nfx.com/investors/cyan-banister"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Tim Draper",
+    "what_they_do": "Founder and Managing Partner, Draper Associates (San Mateo, CA). Also founded DFJ, Draper University, and hosts the pitch show Meet The Drapers.",
+    "stage": "Draper Associates: 'primarily investing from pre-seed to Series A', describes itself as 'stage-agnostic'. Meet The Drapers accepts Pre-Seed to Series A startups.",
+    "check_size": "$250k-$5M (secondary: superscout.co); vcsheet says $500K-$5M. Not stated on draper.vc.",
+    "sectors": [
+      "AI, robotics & automation",
+      "crypto & blockchain",
+      "healthcare & biotech",
+      "aerospace & space",
+      "unconventional ideas"
+    ],
+    "geography": "Global ('across sectors, geographies, and technologies'); HQ San Mateo, CA; secondary source says primarily North America",
+    "twitter": "@TimDraper",
+    "linkedin": "https://www.linkedin.com/in/timothydraper/",
+    "email_or_form": "Pitch form: https://www.draper.vc/contact . Meet The Drapers apply: https://www.meetthedrapers.com/apply (search snippet also cites hello@meetthedrapers.com; apply page returned 403 on fetch)",
+    "other_channels": [
+      "https://www.meetthedrapers.com/",
+      "https://www.draper.vc/tools/ai-pitch-coach",
+      "X firm account @DraperVC",
+      "Blog: theriskmaster.blogspot.com (per vcsheet)"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "Submit via the pitch form at draper.vc/contact: PDF deck only, max 10MB, 'no confidential info please'; deck must cover 10 required sections (overview, problem, solution, offering, tech, monetization, customer delight, network effects, fundraising dynamics, team).",
+    "notes": "Backs 'bold, visionary founders' in frontier tech; early bets on Tesla, SpaceX, Coinbase, Bitcoin. Meet The Drapers: 4 startups pitch per episode for up to $1M; sector-agnostic. X bio: 'Backing the bold ideas that shape the future'.",
+    "sources": [
+      "https://www.draper.vc/",
+      "https://www.draper.vc/contact",
+      "https://www.draper.vc/investment-philosophy",
+      "https://x.com/TimDraper",
+      "https://superscout.co/investor/draper-associates",
+      "https://www.vcsheet.com/who/tim-draper",
+      "https://www.meetthedrapers.com/apply"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Charlie O'Donnell",
+    "what_they_do": "Founder and GP of Brooklyn Bridge Ventures (fund stopped new investments in 2023). Now coaches founders on fundraising and pitches, coaches VCs, and runs nextNYC events. Writes 'This Is Going To Be Big'.",
+    "stage": "NOT currently investing. LinkedIn headline: 'NO LONGER INVESTING IN STARTUPS'; site: 'After 20 years in venture, I'm taking a break from investing.' Historically pre-seed and seed in NYC companies that had raised under $750k.",
+    "check_size": "unknown (not investing)",
+    "sectors": [
+      "generalist (historically hardware, food & beverage, media, transportation, education, e-commerce, health IT, SaaS, fintech)"
+    ],
+    "geography": "New York City",
+    "twitter": "@ceonyc",
+    "linkedin": "https://www.linkedin.com/in/ceonyc/",
+    "email_or_form": "https://www.brooklynbridge.vc/contact (fund contact page; fund is not investing)",
+    "other_channels": [
+      "https://www.thisisgoingtobebig.com/",
+      "https://ceonyc.substack.com/",
+      "nextNYC weekly events newsletter (nycweeklynewsletter.com)",
+      "Instagram @ceonyc"
+    ],
+    "best_channel": "unknown",
+    "outreach_rule": "Not taking pitches for investment. Offers paid founder coaching and public events via nextNYC; historically known for open office hours.",
+    "notes": "Flag: not a live pre-seed target as of 2026-09-02. Useful for pitch feedback, NYC ecosystem intros, and events.",
+    "sources": [
+      "https://www.brooklynbridge.vc/",
+      "https://www.thisisgoingtobebig.com/",
+      "https://www.linkedin.com/in/ceonyc/",
+      "https://twitter.com/ceonyc?lang=en",
+      "https://ceonyc.substack.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Kunal Shah",
+    "what_they_do": "Founder and CEO of CRED (Bengaluru). Prolific India angel with ~300 investments. Search snippet says his X bio now reads 'Head - WhatsApp Founder - CRED' (unverified).",
+    "stage": "Signal: Pre-seed, Seed, Series A, Series B. Secondary sources describe a high-volume, small-cheque angel strategy.",
+    "check_size": "Signal: $10K-$500K, sweet spot $100K. Other secondary sources cite $10K-$50K. Not self-published.",
+    "sectors": [
+      "AI",
+      "fintech",
+      "SaaS",
+      "consumer"
+    ],
+    "geography": "India",
+    "twitter": "@kunalb11",
+    "linkedin": "https://www.linkedin.com/in/kunalshah1/",
+    "email_or_form": "unknown",
+    "other_channels": [],
+    "best_channel": "unknown",
+    "outreach_rule": "unknown; no public pitch channel found",
+    "notes": "Part-time YC partner and Sequoia India advisor in the past. His name on a cap table is a signal; invests small cheques across many startups. Most recent listed deal: Aina Computers seed (July 2026, per Tracxn snippet).",
+    "sources": [
+      "https://signal.nfx.com/investors/kunal-shah_1",
+      "https://x.com/kunalb11",
+      "https://startuptalky.com/kunal-shah-angel-portfolio/",
+      "https://tracxn.com/d/people/kunal-naresh-shah/__unyhb2hHgSdtl4ss9q3mjpI5DHlMSDq_PrRhFPdGbbs"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Nithin Kamath / Rainmatter",
+    "what_they_do": "Founder and CEO of Zerodha; Rainmatter is Zerodha's Rs 1000 crore perpetual fund for Indian founders working on wealth and health.",
+    "stage": "Stage-agnostic. Rainmatter: 'we think of businesses holistically in terms of people running the show'; patient long-term capital, no exit mandate, no board seats.",
+    "check_size": "INR 50 lakh to INR 100 crore (rainmatter.com)",
+    "sectors": [
+      "fintech",
+      "climate",
+      "health",
+      "media"
+    ],
+    "geography": "India (backs Indian founders)",
+    "twitter": "@Nithin0dha",
+    "linkedin": "https://www.linkedin.com/in/nithin-kamath-81136242",
+    "email_or_form": "https://forms.gle/zg3QSsKpeBWqTgpy8 (Rainmatter apply form linked from rainmatter.com)",
+    "other_channels": [
+      "https://rainmatter.com/",
+      "Rainmatter X @rainmatterin",
+      "https://in.linkedin.com/company/rainmatterin"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "Apply via the Google form on rainmatter.com.",
+    "notes": "Rainmatter is the vehicle, not Nithin personally. Long-term, no quick exits, no board seats. Focus on companies that help Indians build wealth and health.",
+    "sources": [
+      "https://rainmatter.com/",
+      "https://x.com/Nithin0dha",
+      "https://in.linkedin.com/in/nithin-kamath-81136242"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Kunal Bahl",
+    "what_they_do": "Co-founder of Snapdeal; co-founder of Titan Capital (with Rohit Bansal), an operator-led early-stage fund; Shark on Shark Tank India.",
+    "stage": "Titan Capital: 'operator-led early stage capital', typically the first investors. Secondary: friends & family / angel / pre-seed / seed / seed+ / Series A.",
+    "check_size": "$300k-$500k initial cheques at pre-seed and seed (secondary: superscout.co, YourStory snippet). Not stated on titancapital.vc.",
+    "sectors": [
+      "consumer internet",
+      "D2C brands",
+      "SaaS",
+      "fintech",
+      "healthcare",
+      "media",
+      "B2B"
+    ],
+    "geography": "India primarily; also Asia and global (portfolio in Australia, NZ, UK, Dubai, Singapore)",
+    "twitter": "@1kunalbahl",
+    "linkedin": "https://www.linkedin.com/in/kunalbahl/",
+    "email_or_form": "startups@titancapital.vc (published on https://www.titancapital.vc/contact-us/); student founders: https://forms.gle/xxJPtgpsMZJJY9Yz6",
+    "other_channels": [
+      "Titan X @TitanCapitalVC",
+      "https://www.linkedin.com/company/titan-capital-vc/",
+      "Campus Chai monthly event for student founders"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "Email startups@titancapital.vc with a pitch deck.",
+    "notes": "Team is the number one criterion. 250+ startups backed (Ola, Urban Company, Razorpay, OfBusiness, Mamaearth). Says they stay with founders 15-20 years.",
+    "sources": [
+      "https://www.titancapital.vc/",
+      "https://www.titancapital.vc/contact-us/",
+      "https://superscout.co/investor/titan-capital",
+      "https://x.com/1kunalbahl",
+      "https://in.linkedin.com/in/kunalbahl"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Varun Alagh",
+    "what_they_do": "Co-founder and CEO of Honasa Consumer Ltd (Mamaearth), Gurugram. Angel investor with ~76 portfolio companies (Tracxn snippet).",
+    "stage": "unknown; no public statement found. Portfolio suggests early-stage consumer/D2C angel.",
+    "check_size": "unknown",
+    "sectors": [
+      "consumer",
+      "D2C",
+      "retail",
+      "e-commerce enablers"
+    ],
+    "geography": "India",
+    "twitter": "@VarunAlagh (unverified: account exists, 2,825 followers, bio \"Coming soon, work in progress\"; identity match with the Mamaearth founder not confirmed)",
+    "linkedin": "https://www.linkedin.com/in/varunalagh84/",
+    "email_or_form": "unknown",
+    "other_channels": [],
+    "best_channel": "linkedin",
+    "outreach_rule": "unknown; no public rule found. X account is near-empty, so LinkedIn is the only verified public channel.",
+    "notes": "Notable angel bets: Shiprocket, The Sleep Company. LinkedIn URL confirmed on honasa.in founder page. X handle could not be verified (x.com and search budget blocked).",
+    "sources": [
+      "https://honasa.in/pages/varun-alagh",
+      "https://honasa.in/pages/leadership-team",
+      "https://tracxn.com/d/people/varun-alagh/__SKVZQ7kBxN5kUZ_xwbmFLVj2XxQKBXhaBzMlRqqJZhg",
+      "https://api.fxtwitter.com/varunalagh"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Packy McCormick",
+    "what_they_do": "Writer of the Not Boring newsletter; solo GP of Not Boring Capital (Fund III). Biotech partner: Elliot Hershberg.",
+    "stage": "vcsheet: Pre-Seed, Seed, Series A. Fund III announcement (per search snippet): primarily Seed through Series B, select pre-seed.",
+    "check_size": "$100K-$2M (vcsheet); Signal: $100K-$10M, sweet spot $1M; Fund I deck cited ~$500k for pre-seed/seed. Secondary sources only.",
+    "sectors": [
+      "web3/crypto",
+      "fintech",
+      "deeptech/hardware",
+      "SaaS",
+      "energy",
+      "biotech",
+      "consumer"
+    ],
+    "geography": "USA (New York)",
+    "twitter": "@packyM",
+    "linkedin": "https://www.linkedin.com/in/packym/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "https://www.notboring.co/ (newsletter)"
+    ],
+    "best_channel": "unknown",
+    "outreach_rule": "unknown; no public pitch channel found (notboring.co blocked on fetch)",
+    "notes": "'Solo GP + media flywheel': uses essays to source deals and amplify portfolio. Does not lead; minimal ownership; no board seats. Backs 'Worldbuilders' with ambitious long-term visions.",
+    "sources": [
+      "https://www.vcsheet.com/who/packy-mccormick",
+      "https://signal.nfx.com/investors/packy-mccormick",
+      "https://www.linkedin.com/in/packym"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Nik Sharma",
+    "what_they_do": "Founder and CEO of Sharma Brands (DTC growth agency, joining Lunar Solar Group); Venture Partner at Social Impact Capital; consumer angel (~19-20 investments).",
+    "stage": "Signal: Pre-Seed, Seed, Series A",
+    "check_size": "$10K-$50K, sweet spot $25K (Signal, secondary)",
+    "sectors": [
+      "consumer commerce/CPG",
+      "fintech",
+      "health & wellness",
+      "food & beverage",
+      "creator economy",
+      "sustainability"
+    ],
+    "geography": "US (New York)",
+    "twitter": "@mrsharma",
+    "linkedin": "https://www.linkedin.com/in/mrniksharma/",
+    "email_or_form": "unknown (sharmabrands.com has a business contact form, not a pitch form)",
+    "other_channels": [
+      "Weekly Sunday newsletter via https://www.sharmabrands.com/"
+    ],
+    "best_channel": "unknown",
+    "outreach_rule": "unknown",
+    "notes": "Handle and LinkedIn come from Signal (secondary). Investments include Swishables, Heatmap, Stand+.",
+    "sources": [
+      "https://signal.nfx.com/investors/nik-sharma",
+      "https://www.sharmabrands.com/",
+      "https://pitchbook.com/profiles/investor/435595-96"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Arlan Hamilton",
+    "what_they_do": "Founder and Managing Partner of Backstage Capital (Los Angeles); founder of Mor wealth-building social club; author and podcaster.",
+    "stage": "vcsheet: Pre-Seed, Seed, Series A. Backstage apply page: 'We are not accepting new funding applications at this time.'",
+    "check_size": "$50K average (vcsheet, secondary)",
+    "sectors": [
+      "underrepresented founders (women, People of Color, LGBTQ)",
+      "consumer",
+      "CPG/D2C",
+      "SaaS",
+      "media"
+    ],
+    "geography": "USA",
+    "twitter": "@ArlanWasHere",
+    "linkedin": "https://www.linkedin.com/in/arlanhamilton/",
+    "email_or_form": "https://backstagecapital.com/apply-2/ (closed to new applications on fetch); general contact form https://backstagecapital.com/contact/",
+    "other_channels": [
+      "The Mixtape weekly newsletter (backstagecapital.com)",
+      "https://medium.com/greenroom",
+      "Backstage X @Backstage_Cap"
+    ],
+    "best_channel": "unknown",
+    "outreach_rule": "Backstage: 'We are not accepting new funding applications at this time. Check back in 2025.' No personal pitch rule found.",
+    "notes": "200 companies backed. Recent LinkedIn activity is about Mor membership and speaking, not new investing. Treat as low-probability target.",
+    "sources": [
+      "https://backstagecapital.com/",
+      "https://backstagecapital.com/apply-2/",
+      "https://backstagecapital.com/contact/",
+      "https://www.vcsheet.com/who/arlan-hamilton",
+      "https://www.linkedin.com/in/arlanhamilton"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Li Jin",
+    "what_they_do": "Co-founder and General Partner at Variant (crypto/web3 fund, NYC office; LinkedIn lists her in Austin, TX). Coined 'passion economy'.",
+    "stage": "Signal: Pre-seed, Seed, Series A. vcsheet: Seed - Series A.",
+    "check_size": "$200K-$300K, sweet spot $200K (Signal); $250K-$750K (vcsheet). Secondary sources only.",
+    "sectors": [
+      "crypto/web3",
+      "creator/passion economy",
+      "consumer internet",
+      "fintech",
+      "social",
+      "future of work",
+      "AI/agents (current Variant site)"
+    ],
+    "geography": "US",
+    "twitter": "@ljin18",
+    "linkedin": "https://www.linkedin.com/in/ljin1/",
+    "email_or_form": "info [at] variant.fund and a contact form on https://variant.fund/",
+    "other_channels": [
+      "https://variant.fund/"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "Variant publishes info [at] variant.fund and a site contact form. No personal rule found.",
+    "notes": "Signal notes she does not invest in hardware, D2C, CPG, or enterprise-sales-dependent companies. Variant does not lead (vcsheet). Variant site now says it backs 'technology that expands human autonomy'.",
+    "sources": [
+      "https://variant.fund/",
+      "https://signal.nfx.com/investors/li-jin",
+      "https://www.vcsheet.com/who/li-jin",
+      "https://www.linkedin.com/in/ljin1/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Shreyas Doshi",
+    "what_they_do": "Startup advisor and product coach (founder, High Leverage Labs); ex-Stripe, Twitter, Google; angel investor since 2013; Board of Advisors at O'Shaughnessy Ventures.",
+    "stage": "Signal lists Pre-Seed/Angel through later stages. LinkedIn shows 'Angel Investor 2013-2025', which may mean he paused angel investing.",
+    "check_size": "unknown",
+    "sectors": [
+      "SaaS",
+      "fintech",
+      "marketplaces",
+      "social",
+      "e-commerce",
+      "enterprise"
+    ],
+    "geography": "US (San Francisco Bay Area)",
+    "twitter": "@shreyas",
+    "linkedin": "https://www.linkedin.com/in/shreyasdoshi/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "https://www.shreyasdoshi.com/ (fetch blocked)"
+    ],
+    "best_channel": "unknown",
+    "outreach_rule": "unknown",
+    "notes": "Only 8 investments on Signal record. Better known as a product thinker than as a high-volume angel. Handle from Signal (secondary).",
+    "sources": [
+      "https://www.linkedin.com/in/shreyasdoshi",
+      "https://signal.nfx.com/investors/shreyas-doshi"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Austen Allred",
+    "what_they_do": "Founder of Gauntlet AI (Austin, TX); co-founder and CEO of BloomTech (Lambda School). Personal site says he invests in early-stage companies through the 'Austen Access Fund'.",
+    "stage": "'Early-stage tech startups' (austenallred.com); no more detail published.",
+    "check_size": "unknown",
+    "sectors": [
+      "generalist",
+      "edtech",
+      "AI"
+    ],
+    "geography": "US",
+    "twitter": "@austen",
+    "linkedin": "https://www.linkedin.com/in/austenallred",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "https://austenallred.com/"
+    ],
+    "best_channel": "unknown",
+    "outreach_rule": "unknown",
+    "notes": "Handle verified from his personal site. Signal profile lists him as an investor but shows no criteria. LinkedIn does not mention the fund.",
+    "sources": [
+      "https://austenallred.com/",
+      "https://www.linkedin.com/in/austenallred",
+      "https://signal.nfx.com/investors/austen-allred"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Danielle Strachman",
+    "what_they_do": "Co-founder and General Partner, 1517 Fund. Founding director of the Thiel Fellowship; senior advisor to the Thiel Fellowship.",
+    "stage": "Idea/R&D phase through seed (1517fund.com). 'Write in! We read all submissions.'",
+    "check_size": "$50K (idea/R&D) to $1M (deep tech/seed); average pre-seed check $400K (1517fund.com)",
+    "sectors": [
+      "software",
+      "hardware with data plays",
+      "deep tech / sci-fi tech",
+      "biotech",
+      "AI",
+      "climate"
+    ],
+    "geography": "Global; no geographic restriction stated",
+    "twitter": "@DStrachman",
+    "linkedin": "https://www.linkedin.com/in/daniellestrachman/",
+    "email_or_form": "info@1517fund.com; 'Get in Touch' form on https://www.1517fund.com/",
+    "other_channels": [
+      "Letters from the Edge newsletter (quarterly, 1517fund.com)",
+      "https://www.1517fund.com/podcasts",
+      "1517 X @1517fund",
+      "https://www.linkedin.com/company/1517fund/",
+      "Medici Project $1,000 grants: https://www.1517fund.com/medici"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "'Write in! We read all submissions. If we can help, we're usually in touch within a few days.' Use the form on 1517fund.com or info@1517fund.com.",
+    "notes": "Backs 'dropouts working on hard problems & sci-fi scientists', founders without degrees. 'More about the who than the what.' Fund leads rounds. Early spotter of Vitalik Buterin and Dylan Field.",
+    "sources": [
+      "https://www.1517fund.com/",
+      "https://www.vcsheet.com/who/danielle-strachman",
+      "https://www.linkedin.com/in/daniellestrachman"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Lolita Taub",
+    "what_they_do": "General Partner, Ganas Ventures, a community-driven pre-seed/seed fund for the US and Latin America.",
+    "stage": "Pre-seed and seed",
+    "check_size": "$100K (lolitataub.co); vcsheet: $25K-$100K",
+    "sectors": [
+      "community-driven startups",
+      "underestimated founders",
+      "future of work",
+      "fintech",
+      "ecommerce",
+      "web3"
+    ],
+    "geography": "US (55%) and Latin America (45%)",
+    "twitter": "@lolitataub",
+    "linkedin": "https://www.linkedin.com/in/lolitataub",
+    "email_or_form": "Apply: https://bit.ly/GanasInvestment / http://lolitataub.typeform.com/startups (ganas.vc); hello@lolitataub.co",
+    "other_channels": [
+      "https://lolitataub.substack.com",
+      "https://ganas.vc/match (startup-investor matching tool)",
+      "https://lu.ma/ganasvc",
+      "The F Show (YouTube)"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "'No warm intro needed'; apply via the form on ganas.vc.",
+    "notes": "Portfolio: 90% BIPOC-led, 55% women-led, 50% Latine-led. Mexico 20%, Costa Rica & El Salvador 10%, Brazil 5%. Matching tool has made 10,000+ intros.",
+    "sources": [
+      "https://www.ganas.vc/",
+      "https://lolitataub.co/",
+      "https://www.vcsheet.com/who/lolita-taub"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Kevin Rose",
+    "what_they_do": "Special advisor at True Ventures (previously partner); founder of Digg, PROOF, ZERO, OAK; angel investor (Twitter, Facebook, OpenAI, Solana); Substack writer and host of The Kevin Rose Show.",
+    "stage": "Personal angel stage not stated. True Ventures invests at seed; Signal lists Seed, Series A, Series B (fund rounds).",
+    "check_size": "unknown (Signal's $1M-$50M range reflects True Ventures round sizes, not personal angel checks)",
+    "sectors": [
+      "consumer internet",
+      "life sciences",
+      "AI",
+      "web3/crypto",
+      "consumer health"
+    ],
+    "geography": "US (Portland, OR / SF Bay Area)",
+    "twitter": "@kevinrose",
+    "linkedin": "https://www.linkedin.com/in/kevinrose/",
+    "email_or_form": "pitch@trueventures.com (True Ventures pitch email on his team page)",
+    "other_channels": [
+      "https://www.kevinrose.com/ (Substack, 124k+ subscribers)",
+      "The Kevin Rose Show podcast"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "True Ventures team page: email pitch@trueventures.com. No personal angel rule published.",
+    "notes": "Bloomberg 'Top 25 Angel Investor'. Substack covers AI, finance, health, Zen. Personal angel activity is not documented on his own pages.",
+    "sources": [
+      "https://trueventures.com/team/kevin-rose/",
+      "https://www.kevinrose.com/",
+      "https://signal.nfx.com/investors/kevin-rose"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Tobi Lutke",
+    "what_they_do": "Founder and CEO of Shopify; angel investor (personal capital, no fund).",
+    "stage": "Seed and Series A per Signal; Hustle Fund profile says pre-seed, seed and early series. Idea-stage investing not confirmed by a primary source.",
+    "check_size": "$5K-$50K, sweet spot $25K (Signal.nfx, secondary source)",
+    "sectors": [
+      "AI",
+      "infrastructure",
+      "SaaS",
+      "fintech",
+      "e-commerce",
+      "robotics",
+      "energy/climate",
+      "gaming"
+    ],
+    "geography": "Canada and US (Ottawa based); international bets exist",
+    "twitter": "@tobi",
+    "linkedin": "https://www.linkedin.com/in/tobiaslutke/",
+    "email_or_form": "unknown",
+    "other_channels": [],
+    "best_channel": "unknown",
+    "outreach_rule": "unknown (no public DM rule, email, or form found)",
+    "notes": "Thesis per Hustle Fund write-up: 'Back the infrastructure that makes builders more capable.' Example bets: Promptfoo (seed, with a16z), Foxglove, Perplexity, Neo Financial, General Fusion. Signal profile shows intro-path only. Handle @tobi also listed on aigrant.com mentor list.",
+    "sources": [
+      "https://signal.nfx.com/investors/tobias-lutke",
+      "https://www.hustlefund.vc/post/angel-squad-tobi-lutke-investments-what-the-shopify-ceo-bets-on-when-hes-not-reinventing-commerce",
+      "https://aigrant.com/",
+      "https://x.com/tobi"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Guillermo Rauch",
+    "what_they_do": "Founder and CEO of Vercel; angel investor (personal capital).",
+    "stage": "Pre-seed, seed, Series A (Signal.nfx). Secondary sources say he typically joins pre-seed and seed rounds.",
+    "check_size": "$5K-$50K, sweet spot $25K (Signal.nfx, secondary source)",
+    "sectors": [
+      "developer tools",
+      "open source",
+      "AI infrastructure",
+      "cloud infrastructure",
+      "SaaS"
+    ],
+    "geography": "San Francisco Bay Area base; global (portfolio includes Supabase, Strapi)",
+    "twitter": "@rauchg",
+    "linkedin": "https://www.linkedin.com/in/guillermo-rauch-b834b917b/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "https://rauchg.com"
+    ],
+    "best_channel": "unknown",
+    "outreach_rule": "unknown (rauchg.com/about lists only the X handle; no DM rule or pitch form)",
+    "notes": "137 investments per Crunchbase. Example bets: Supabase, Replit, Warp, Convex, Perplexity, Scale AI. Strong open-source / devtools bias. Handle also confirmed on aigrant.com mentor list.",
+    "sources": [
+      "https://rauchg.com/about",
+      "https://signal.nfx.com/investors/guillermo-rauch",
+      "https://www.crunchbase.com/person/guillermo-rauch",
+      "https://aigrant.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Nat Friedman & Daniel Gross (AI Grant)",
+    "what_they_do": "Nat Friedman (ex-GitHub CEO) and Daniel Gross (ex-Pioneer, ex-Apple) fund AI Grant, an accelerator for pre-seed/seed AI startups. Day-to-day AI Grant is run by Hersh Desai and Lenny Bogdonoff. Both also angel invest personally.",
+    "stage": "Pre-seed and seed AI startups; 'no credentials required', single founders accepted, companies that already raised may apply.",
+    "check_size": "$250,000 on an uncapped, no-discount MFN SAFE, plus ~$600K in partner credits (Azure, OpenAI, Anthropic, Modal, etc.)",
+    "sectors": [
+      "AI"
+    ],
+    "geography": "Global; company must be or become a Delaware corporation",
+    "twitter": "@natfriedman; @danielgross",
+    "linkedin": "https://www.linkedin.com/in/danielgross271/ (Daniel Gross); Nat Friedman: unknown",
+    "email_or_form": "support@aigrant.org (general inquiries, from aigrant.com); application form only when a batch is open",
+    "other_channels": [
+      "https://aigrant.com",
+      "https://aigrant.org (open-source grants arm)",
+      "https://nat.org",
+      "https://danielgross.com"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "Apply through the batch application on aigrant.com when open. Status on 2026-09-02: 'Applications for Batch 4 are closed'. No date for a next batch is published.",
+    "notes": "STATUS 2026-09-02: AI Grant Batch 4 applications are CLOSED; the site gives no next-batch date. Batches 1-4 portfolio listed on aigrant.com (Goodfire, Granola, Vapi, Inception Labs, etc.). Mentor list on aigrant.com includes @tobi, @levie, @amasad, @rauchg, @karpathy, @patrickc. @natfriedman verified 2026-09-02 via api.fxtwitter.com (459,803 followers, bio links nat.org). Daniel Gross handle verified via vcsheet (secondary). Nat and Daniel also joined Meta Superintelligence Labs in 2025 per press; not re-verified here.",
+    "sources": [
+      "https://aigrant.com/",
+      "https://aigrant.org/",
+      "https://nat.org/",
+      "https://www.vcsheet.com/who/daniel-gross",
+      "https://grantedai.com/grants/ai-grant-accelerator-seed-stage-ai-startups-batch-4-aigrant-d5e6f7a8",
+      "https://api.fxtwitter.com/natfriedman"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Alexis Ohanian (Seven Seven Six / 776)",
+    "what_they_do": "Reddit co-founder; founder and GP of Seven Seven Six, a seed-focused VC firm ('a technology company that deploys venture capital').",
+    "stage": "Pre-seed through Series A/B (fund leads pre-seed rounds, e.g. Realtime $4M pre-seed)",
+    "check_size": "$500K-$5M (vcsheet); other secondary sources say $750K-$4M",
+    "sectors": [
+      "consumer",
+      "web3/crypto",
+      "fintech",
+      "enterprise",
+      "climate",
+      "sports/media",
+      "AI"
+    ],
+    "geography": "US (San Francisco HQ)",
+    "twitter": "@alexisohanian",
+    "linkedin": "https://www.linkedin.com/in/alexisohanian/",
+    "email_or_form": "unknown (sevensevensix.com is JS-rendered; no public pitch form or email could be read)",
+    "other_channels": [
+      "https://sevensevensix.com"
+    ],
+    "best_channel": "warm_intro",
+    "outreach_rule": "unknown; no public cold-pitch rule found. Fund uses its 'Cerebro' software for founder intros.",
+    "notes": "Fund is institutional, not a solo angel; checks are large for an idea-stage founder. Fund 1 $150M (2021), now >$1B AUM. Katelin Holloway is founding partner. vcsheet lists an obfuscated email that could not be read.",
+    "sources": [
+      "https://www.vcsheet.com/who/alexis-ohanian",
+      "https://www.vcsheet.com/fund/seven-seven-six",
+      "https://sevensevensix.com/",
+      "https://techcrunch.com/2021/06/10/seven-seven-six-the-new-venture-firm-from-alexis-ohanian-closes-150-million-fund-1"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Lachy Groom (LGF)",
+    "what_they_do": "Solo GP of LGF (Lachy Groom Fund, three funds: $49M, $110M, $250M); ex-Stripe product lead; co-founder of Physical Intelligence.",
+    "stage": "Seed to later stage per Signal; secondary source (startupintros) says pre-seed to Series A. Pre-seed activity not confirmed by a primary source.",
+    "check_size": "$100K-$10M, sweet spot $1M (Signal.nfx); pre-seed checks reported under $100K (secondary)",
+    "sectors": [
+      "enterprise",
+      "fintech",
+      "consumer internet",
+      "climate",
+      "developer tools"
+    ],
+    "geography": "San Francisco Bay Area base; US-centric",
+    "twitter": "@lachygroom",
+    "linkedin": "https://www.linkedin.com/in/lachy-groom-b218895/",
+    "email_or_form": "unknown (lachygroom.com refused connection on 2026-09-02)",
+    "other_channels": [],
+    "best_channel": "warm_intro",
+    "outreach_rule": "unknown; Signal shows intro paths only",
+    "notes": "Now largely focused on Physical Intelligence (robotics foundation models). Low public outreach surface; treat as warm-intro only.",
+    "sources": [
+      "https://signal.nfx.com/investors/lachy-groom",
+      "https://startupintros.com/orgs/lgf",
+      "https://www.crunchbase.com/person/lachy-groom"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Josh Kopelman (First Round Capital)",
+    "what_they_do": "Founder and Partner at First Round Capital (pre-seed/seed VC); founded Half.com, Infonautics, TurnTide.",
+    "stage": "Pre-seed and seed. Firm quote: 'We don't see divisions between angel, pre-seed and seed - we're interested across the board.' Kopelman backs startups in their first 24 months.",
+    "check_size": "Firm: average initial $3.5M, range $1M-$7M; 'we've invested in rounds as small as $100,000'. vcsheet lists $750K-$4M for Kopelman.",
+    "sectors": [
+      "enterprise",
+      "AI",
+      "hardware",
+      "healthcare",
+      "fintech",
+      "consumer"
+    ],
+    "geography": "Primarily US (SF, NYC, Philadelphia offices); exceptions for international teams with US management",
+    "twitter": "@joshk",
+    "linkedin": "https://www.linkedin.com/in/jkopelman/",
+    "email_or_form": "unknown (firstround.com publishes office addresses but no pitch email or form)",
+    "other_channels": [
+      "https://review.firstround.com (First Round Review)",
+      "https://www.firstround.com/team/investing/josh-kopelman"
+    ],
+    "best_channel": "warm_intro",
+    "outreach_rule": "Firm statement: 'A direct referral will get a quicker response, but don't be afraid to reach out cold. We invested in Iru after a cold email back in 2018.' No public email published.",
+    "notes": "Institutional fund, leads rounds. Kopelman quote: 'great companies are built by great founders, not great investors.' Portfolio: Notion, Uber, Square, Roblox, Upstart, Flatiron Health.",
+    "sources": [
+      "https://www.firstround.com/",
+      "https://www.firstround.com/team/investing/josh-kopelman",
+      "https://www.vcsheet.com/who/josh-kopelman"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Fabrice Grinda (FJ Labs)",
+    "what_they_do": "Co-founder and Managing Partner of FJ Labs (NYC); serial marketplace founder (OLX, Aucland, Zingy). ~300 deals per year.",
+    "stage": "Pre-seed, seed, Series A; emphasis on earlier stages",
+    "check_size": "Pre-seed ~$220K; seed ~$390K; 'fliers' ~$220K; overall $100K-$2M (own blog + vcsheet)",
+    "sectors": [
+      "marketplaces",
+      "e-commerce",
+      "SaaS",
+      "fintech",
+      "future of work",
+      "gaming"
+    ],
+    "geography": "Global: ~58% US/Canada, 25% Europe, 6% Brazil, 2% India, 9% other",
+    "twitter": "@fabricegrinda",
+    "linkedin": "https://www.linkedin.com/in/fabricegrinda/",
+    "email_or_form": "https://pitchfabrice.fabricegrinda.com/ ('Pitch Me' tool on his own site)",
+    "other_channels": [
+      "https://fabricegrinda.com (essays + newsletter)",
+      "Playing with Unicorns podcast"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "Use the 'Pitch Me' AI tool at pitchfabrice.fabricegrinda.com ('Get feedback on your startup'); team decides after two 1-hour calls over 1-2 weeks.",
+    "notes": "~70% of deals are marketplaces; explicitly avoids 'hardware, AI, space tech, biotech, etc. without a marketplace component'. Does not lead most rounds. Receives 100+ deals per week.",
+    "sources": [
+      "https://fabricegrinda.com/fj-labs-investment-strategy/",
+      "https://fabricegrinda.com/",
+      "https://pitchfabrice.fabricegrinda.com/",
+      "https://www.vcsheet.com/who/fabrice-grinda"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Paul Buchheit",
+    "what_they_do": "Creator of Gmail; Managing Partner / Group Partner at Y Combinator; Crunchbase lists him as Co-Founder & GP of Standard Capital (not verifiable; standardcapital.com did not resolve on 2026-09-02).",
+    "stage": "Pre-seed, seed, Series A/B (Signal.nfx lists pre-seed). Historically invested at idea stage as an early angel (Airbnb, Stripe, Reddit).",
+    "check_size": "$150K (Signal.nfx, secondary; single value listed)",
+    "sectors": [
+      "AI",
+      "analytics",
+      "enterprise",
+      "marketplaces",
+      "social",
+      "media",
+      "travel",
+      "generalist"
+    ],
+    "geography": "San Francisco Bay Area / Mountain View",
+    "twitter": "@paultoo",
+    "linkedin": "unknown",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "http://paulbuchheit.blogspot.com",
+      "https://www.ycombinator.com"
+    ],
+    "best_channel": "warm_intro",
+    "outreach_rule": "unknown; most of his deal flow runs through Y Combinator (apply at ycombinator.com)",
+    "notes": "~187-202 investments on record. Best path for an idea-stage founder is a YC application. Standard Capital role could not be verified from a primary source.",
+    "sources": [
+      "https://signal.nfx.com/investors/paul-buchheit",
+      "https://www.crunchbase.com/person/paul-buchheit",
+      "http://paulbuchheit.blogspot.com/2011/01/angel-investing-my-first-three-years.html"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Todd Goldberg & Rahul Vohra (Todd & Rahul's Angel Fund)",
+    "what_they_do": "Two-person angel fund (now 'Todd & Rahul Capital'). Todd Goldberg founded Eventjoy (acq. Ticketmaster); Rahul Vohra founded Superhuman and Rapportive.",
+    "stage": "Pre-seed and seed; 'We occasionally do post-seed and Series A rounds. We're more likely to invest if you've shipped a product and have some traction.'",
+    "check_size": "$300K-$500K; 'We don't lead rounds'",
+    "sectors": [
+      "generalist",
+      "SaaS",
+      "consumer",
+      "developer tools",
+      "APIs",
+      "crypto",
+      "VR",
+      "longevity",
+      "AI"
+    ],
+    "geography": "US (San Francisco)",
+    "twitter": "@toddgoldberg; @rahulvohra",
+    "linkedin": "https://www.linkedin.com/in/toddgoldberg1/ (Todd); Rahul: unknown",
+    "email_or_form": "hello@toddgoldberg.com (published on toddgoldberg.com)",
+    "other_channels": [
+      "https://www.toddandrahulcapital.com",
+      "https://toddgoldberg.com"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "Fund site: 'we're always just an email or text away'. No formal form. Todd publishes hello@toddgoldberg.com.",
+    "notes": "$50M+ deployed into 120+ startups. Portfolio: Mercury, Supabase, Placer.ai, Writer, WorkOS, Hightouch, Hex, Eight Sleep, Ashby. Prefer shipped product with some traction, so pure idea stage is a weaker fit. vcsheet shows @toddg777 but Todd's own site links twitter.com/toddgoldberg; own site wins.",
+    "sources": [
+      "https://www.toddandrahulcapital.com/",
+      "https://www.toddandrahulcapital.com/about",
+      "https://toddgoldberg.com/",
+      "https://www.vcsheet.com/who/todd-goldberg"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Aaron Levie",
+    "what_they_do": "Co-founder and CEO of Box; angel investor (personal capital).",
+    "stage": "Pre-seed, seed, Series A/B (Signal.nfx lists pre-seed)",
+    "check_size": "$5K-$50K, sweet spot $25K (Signal.nfx, secondary); Hustle Fund write-up says $25K-$500K, ~$150K preferred (secondary; conflicting)",
+    "sectors": [
+      "enterprise software",
+      "developer tools",
+      "infrastructure/APIs",
+      "AI",
+      "cybersecurity"
+    ],
+    "geography": "San Francisco Bay Area; US",
+    "twitter": "@levie",
+    "linkedin": "https://www.linkedin.com/in/boxaaron/",
+    "email_or_form": "unknown",
+    "other_channels": [],
+    "best_channel": "unknown",
+    "outreach_rule": "unknown (no public DM rule, email, or form found)",
+    "notes": "Thesis: bottom-up adoption with enterprise monetization; 'must-have solutions'. Example bets: Plaid, Airtable, Figma. Very active poster on X. Handle listed on aigrant.com mentor list.",
+    "sources": [
+      "https://signal.nfx.com/investors/aaron-levie",
+      "https://www.hustlefund.vc/post/angel-squad-aaron-levie-investments-what-boxs-co-founder-looks-for-when-writing-checks",
+      "https://aigrant.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Dharmesh Shah",
+    "what_they_do": "Co-founder and CTO of HubSpot; angel investor in 90+ startups (Coinbase, Okta, AngelList, Gusto, Stack Overflow).",
+    "stage": "Pre-seed and seed (secondary sources); writes checks with 'no due diligence' and a yes/no within 24 hours",
+    "check_size": "unknown",
+    "sectors": [
+      "software",
+      "SaaS",
+      "SMB software",
+      "developer tools",
+      "marketplaces",
+      "AI"
+    ],
+    "geography": "US (Boston based); remote-friendly",
+    "twitter": "@dharmesh",
+    "linkedin": "https://www.linkedin.com/in/dharmesh/",
+    "email_or_form": "unknown (none published for pitches)",
+    "other_channels": [
+      "https://dharmesh.com",
+      "https://www.onstartups.com",
+      "Connecting Dots newsletter (dharmesh.com)",
+      "https://www.youtube.com/channel/UCtlmq-OcCC9VSAyT5tURPsg"
+    ],
+    "best_channel": "warm_intro",
+    "outreach_rule": "Explicit: on 'how to reach him' he writes 'Honestly, you shouldn't.' 'Not a single one was the result of a cold outreach or pitch. Especially over social media like LinkedIn or twitter.' Deal flow comes from referrals, YC, and AngelList.",
+    "notes": "Rules: 'No calls, no meetings', 'No due diligence', 'No follow-on investments', 'No board seats or advisory roles', 'Always side with the founders'. Invests in products he or someone he knows would use. Cold DMs are explicitly discouraged.",
+    "sources": [
+      "https://www.onstartups.com/a-weird-and-wacky-approach-to-angel-investing",
+      "https://www.onstartups.com/investments",
+      "https://dharmesh.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Delian Asparouhov",
+    "what_they_do": "Partner at Founders Fund; co-founder and President of Varda Space Industries. Small personal angel portfolio (Vana, Eaze, Vise).",
+    "stage": "Founders Fund: seed to growth; pre-seed not stated. Personal angel checks exist but no stated idea-stage rule.",
+    "check_size": "unknown (Founders Fund range $500K-$150M per vcsheet; personal angel size not stated)",
+    "sectors": [
+      "space",
+      "defense",
+      "hard tech / atoms",
+      "biotech",
+      "AI",
+      "fintech"
+    ],
+    "geography": "US",
+    "twitter": "@zebulgar",
+    "linkedin": "https://www.linkedin.com/in/delian-asparouhov-87447742/",
+    "email_or_form": "unknown",
+    "other_channels": [
+      "https://delian.io",
+      "https://delian.substack.com (Operators newsletter/podcast)"
+    ],
+    "best_channel": "unknown",
+    "outreach_rule": "unknown (no public DM rule, email, or form found)",
+    "notes": "Handle @zebulgar is confirmed on the Founders Fund team page; vcsheet's '@MITDelian' looks stale. Backs 'atom-focused' companies. Weak fit for a software idea-stage pitch; strong fit for hard tech.",
+    "sources": [
+      "https://foundersfund.com/team/delian-asparouhov/",
+      "https://delian.io/",
+      "https://www.vcsheet.com/who/delian-asparouhov",
+      "https://www.linkedin.com/in/delian-asparouhov-87447742/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Shruti Gandhi (Array Ventures)",
+    "what_they_do": "General Partner and Founding Engineer of Array Ventures (SF), a pre-seed enterprise fund; AI engineer, Columbia CS professor.",
+    "stage": "Pre-seed (leads first institutional checks); also Series A/B. X bio reads 'Array VC preseed rounds'.",
+    "check_size": "$250K-$2M first checks; average ~$1.5M (vcsheet)",
+    "sectors": [
+      "enterprise software",
+      "AI infrastructure",
+      "data",
+      "security",
+      "developer tools",
+      "robotics",
+      "fintech",
+      "manufacturing ops"
+    ],
+    "geography": "US (San Francisco)",
+    "twitter": "@atShruti",
+    "linkedin": "https://www.linkedin.com/in/shrutigandhi",
+    "email_or_form": "deals@array.vc (published on array.vc)",
+    "other_channels": [
+      "https://www.array.vc"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "Email deals@array.vc (fund site 'Get in Touch').",
+    "notes": "Positions as 'Your First BD Hire' for technical founders; prefers technical founders building enterprise data/AI. Fund raised $56M in 2021. 15 realized pre-seed exits claimed.",
+    "sources": [
+      "https://www.array.vc/",
+      "https://www.vcsheet.com/who/shruti-gandhi",
+      "https://x.com/atShruti",
+      "https://techcrunch.com/2021/12/21/array-ventures-raises-56m-to-back-tech-heavy-enterprise-software/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Ben Tossell",
+    "what_they_do": "Founder of Ben's Bites (AI newsletter); ex-Makerpad; solo angel writing '100k cheques' into developer tools and infra.",
+    "stage": "Pre-seed and seed (Signal.nfx); own site lists seed-stage bets",
+    "check_size": "'100k cheques' (own site); Signal: $10K-$100K, sweet spot $50K",
+    "sectors": [
+      "developer tools",
+      "AI",
+      "infrastructure",
+      "consumer internet",
+      "SaaS"
+    ],
+    "geography": "UK (London) based; invests in US/global companies",
+    "twitter": "@bentossell",
+    "linkedin": "https://www.linkedin.com/in/ben-tossell-70453537/",
+    "email_or_form": "unknown (own site says 'your co? reach out.' and links to x.com/bentossell)",
+    "other_channels": [
+      "https://bensbites.com",
+      "https://www.bentossell.com"
+    ],
+    "best_channel": "twitter_dm",
+    "outreach_rule": "Own site: 'your co? reach out.' with a link to his X profile, i.e. contact via X.",
+    "notes": "Portfolio on own site: Supabase, Etched, Factory, Earendil, SF Compute, Opencode; Anthropic Series B via SPV. Builds with agents daily; likes technical devtools founders.",
+    "sources": [
+      "https://www.bentossell.com/content.md",
+      "https://signal.nfx.com/investors/ben-tossell",
+      "https://bensbites.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Molly Mielke (Moth Fund)",
+    "what_they_do": "Solo GP of Moth Fund, 'an early-stage-focused venture capital firm that aims to increase the agency of exceptional individuals'.",
+    "stage": "Early stage (fund site); vcsheet page not available; pre-seed specifics not stated on primary source",
+    "check_size": "unknown",
+    "sectors": [
+      "generalist",
+      "tools for thought",
+      "creative tools",
+      "AI"
+    ],
+    "geography": "US",
+    "twitter": "@mollyfmielke (personal); @mothfund (fund)",
+    "linkedin": "https://www.linkedin.com/in/mollymielke",
+    "email_or_form": "m@mollymielke.com (published on molly.info)",
+    "other_channels": [
+      "https://www.mothfund.com",
+      "https://molly.info",
+      "https://substack.com/@mollymielke"
+    ],
+    "best_channel": "email",
+    "outreach_rule": "Publishes email m@mollymielke.com and X handle on molly.info; a contact form is also on the page.",
+    "notes": "Fund tagline: 'Believes in optimism, but asks several questions.' Backs unusual individuals over pattern-matched startups. Check size not published.",
+    "sources": [
+      "https://molly.info/",
+      "https://www.mothfund.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Sahil Bloom (SRB Ventures)",
+    "what_they_do": "Writer of The Curiosity Chronicle (800K+ subscribers); solo GP of SRB Ventures ($10M fund).",
+    "stage": "Pre-seed, seed, Series A (vcsheet); does not lead",
+    "check_size": "$25K-$1M (vcsheet, secondary)",
+    "sectors": [
+      "consumer",
+      "fintech",
+      "enterprise",
+      "media",
+      "web3/crypto",
+      "AI"
+    ],
+    "geography": "US (also India per vcsheet)",
+    "twitter": "@SahilBloom",
+    "linkedin": "https://www.linkedin.com/in/sahilbloom/",
+    "email_or_form": "https://intro.co/sahilbloom (contact link published on sahilbloom.com)",
+    "other_channels": [
+      "https://sahilbloom.com/fund",
+      "The Curiosity Chronicle newsletter (sahilbloom.com)"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "Site contact link goes to intro.co/sahilbloom (paid intro platform). No free pitch email published.",
+    "notes": "Uses newsletter distribution as the value-add. Portfolio: Earth, Bravado, Loops, Kindred, Starlight. Likes 'radical simplicity' in pitches.",
+    "sources": [
+      "https://www.sahilbloom.com/",
+      "https://sahilbloom.com/fund",
+      "https://www.vcsheet.com/who/sahil-bloom"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Eric Bahn (Hustle Fund)",
+    "what_they_do": "Co-founder and GP of Hustle Fund (with Elizabeth Yin, Shiyan Koh); pre-seed fund that writes '$150K in hilariously early pre-seed software startups'. Not a solo GP.",
+    "stage": "Pre-seed ('hilariously early'); pre-product OK",
+    "check_size": "~$25K-$150K initial (fund site states $150K standard)",
+    "sectors": [
+      "software",
+      "SaaS",
+      "enterprise",
+      "marketplaces",
+      "generalist"
+    ],
+    "geography": "US, Canada, Southeast Asia",
+    "twitter": "@ericbahn",
+    "linkedin": "https://www.linkedin.com/in/ericbahn/",
+    "email_or_form": "https://hustlefund.typeform.com/to/UGTnIt (application form linked from hustlefund.vc)",
+    "other_channels": [
+      "https://www.hustlefund.vc",
+      "@hustlefundvc on X",
+      "Angel Squad community"
+    ],
+    "best_channel": "public_form",
+    "outreach_rule": "Apply through the Typeform on hustlefund.vc. 'You don't need perfect metrics, a famous network, or a 47-slide deck.'",
+    "notes": "Judges founders on week-over-week execution speed. Decisions fast (Elizabeth Yin: 48 hours). Runs Angel Squad (2,000+ angels).",
+    "sources": [
+      "https://www.hustlefund.vc/",
+      "https://www.vcsheet.com/who/eric-bahn"
+    ],
+    "verified_date": "2026-09-02"
+  }
+]

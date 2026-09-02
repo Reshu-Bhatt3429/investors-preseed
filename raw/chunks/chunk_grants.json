@@ -1,0 +1,565 @@
+[
+  {
+    "name": "Emergent Ventures (Mercatus Center)",
+    "channel_type": "grant",
+    "description": "Low-overhead fellowship and grant program run by the Mercatus Center. Official text: 'supports entrepreneurs and brilliant minds with highly scalable, zero to one ideas for meaningfully improving society.' Tyler Cowen administers the program. Application is a short web form. No warm intro needed.",
+    "reachable_investors": "Tyler Cowen (Mercatus faculty director; administers the program per official page). No handle published on the page.",
+    "cost": "free",
+    "url": "https://www.mercatus.org/emergent-ventures",
+    "how_to_apply_or_post": "Fill the form at https://mercatus.tfaforms.net/5099527. Applicants must be 13 years of age or older. The form has a dropdown for regional tracks: India, Africa, the Caribbean, Ukraine. Keep the pitch short and concrete; the program is known for fast, small decisions (inferred from 'low-overhead' description, not verified).",
+    "contacts": "Contact email is obfuscated on the page (Cloudflare email protection); unknown.",
+    "geography": "Global. Special tracks for India, Africa, the Caribbean, and Ukraine.",
+    "typical_outcome": "Grant sizes not stated on the official page; unknown. Related Fast Grants spin-off gave 260 grants from $50M+ (now concluded).",
+    "notes": "Status: application portal live on 2026-09-02. Grant size and review time not verified on the official page.",
+    "sources": [
+      "https://www.mercatus.org/emergent-ventures"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Thiel Fellowship",
+    "channel_type": "fellowship",
+    "description": "Two-year fellowship for young people who leave school to build. Official FAQ: '$250,000, spread out over two years. We do not take equity in your company.' Fellows get access to the Thiel Foundation network in Silicon Valley and beyond.",
+    "reachable_investors": "Thiel Foundation team (names not published on the page).",
+    "cost": "free",
+    "url": "https://thielfellowship.org/",
+    "how_to_apply_or_post": "Apply at https://thielfellowship.my.site.com/apply/s/. Eligibility: 'Anyone aged 22 or younger (and without a university degree) is eligible to apply.' Applications accepted year round. Applicants must 'demonstrate meaningful progress toward a concrete vision'; no company or finished product required. If selected, 'you'll need to drop out in order to accept the Fellowship.'",
+    "contacts": "team@thielfellowship.org",
+    "geography": "Global; program network centered on Silicon Valley.",
+    "typical_outcome": "$250,000 grant over two years, no equity. Acceptance rate not published.",
+    "notes": "Hard limits: age 22 or under and no university degree. Status: 'Apply Now' live on 2026-09-02, no deadline.",
+    "sources": [
+      "https://thielfellowship.org/",
+      "https://thielfellowship.org/faq"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "1517 Fund - Medici Program (micro-grants)",
+    "channel_type": "grant",
+    "description": "1517 Fund is a pre-seed VC that also gives micro-grants. Official text: 'minimum $1k grants to help you validate an idea.' The fund backs 'founders without undergraduate degrees', dropouts, and 'sci-fi scientists'. Investment checks range from '$50,000 at the idea/R&D stage to $1,000,000 for deep tech'; 'Our average check size is a $400,000 pre-seed check.'",
+    "reachable_investors": "1517 Fund partners (names not extracted from the homepage).",
+    "cost": "free",
+    "url": "https://www.1517fund.com/",
+    "how_to_apply_or_post": "Use the web form at the top of the homepage. Describe yourself and what you work on. If you are not yet a founder, say you want the Medici Program. Official text: 'We read all submissions. If we can help, we're usually in touch within a few days.'",
+    "contacts": "info@1517fund.com",
+    "geography": "Global; 6000+ community members.",
+    "typical_outcome": "Medici grants from $1k. Pre-seed checks $50k to $1M; average $400k. Reply usually within a few days if interested.",
+    "notes": "Open form, no intro needed. Strong fit for idea-stage technical founders without degrees.",
+    "sources": [
+      "https://www.1517fund.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Z Fellows",
+    "channel_type": "fellowship",
+    "description": "One-week program run by Cory Levy. Official text: 'A one-week experience bringing together ten builders with founders of billion dollar companies.' Terms: '$10,000 investment at a $1B valuation cap' or participation without money. Mostly virtual; final day in person in San Francisco or New York.",
+    "reachable_investors": "Cory Levy (founder). Guest founders of billion-dollar companies (names vary by cohort).",
+    "cost": "free",
+    "url": "https://www.zfellows.com/",
+    "how_to_apply_or_post": "Google Form: https://docs.google.com/forms/u/0/d/1z5HG9Pj0hIxS2oZL_wcJS5QqDZlcVbkhYGHp5Kp_IGM/viewform. 'Applications are reviewed on a rolling basis and there is no deadline.' For 'technical builders of all ages working on side projects and startups'; students, dropouts, and employed people welcome; solo or team.",
+    "contacts": "Email obfuscated on the page; unknown. Page lists an SMS number for Cory Levy (not copied here).",
+    "geography": "Global ('You can be based anywhere'); final day in SF or NYC.",
+    "typical_outcome": "$10k at $1B cap, converts at next priced round. Ten builders per cohort; multiple cohorts per year.",
+    "notes": "Idea-stage friendly. Show a demo or shipped work.",
+    "sources": [
+      "https://www.zfellows.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "AI Grant",
+    "channel_type": "grant",
+    "description": "Accelerator for seed-stage AI startups. Official text: 'A $250k investment via a no cap, no discount MFN SAFE' plus '$350,000 in cloud credits from Azure'. 'AI Grant is run by Hersh Desai and Lenny Bogdonoff. Nat and Daniel have invested $10M in AI Grant.'",
+    "reachable_investors": "Hersh Desai, Lenny Bogdonoff (operators); Nat Friedman and Daniel Gross (backers). No handles on the page.",
+    "cost": "free",
+    "url": "https://aigrant.com/",
+    "how_to_apply_or_post": "Batch applications open on the site when a batch runs. What they want: 'smart and energetic people with actionable ideas that are clearly useful. Demos are a big plus.'",
+    "contacts": "support@aigrant.org; sponsorship@aigrant.org",
+    "geography": "Global (not stated as limited).",
+    "typical_outcome": "$250k MFN SAFE + $350k Azure credits per company.",
+    "notes": "STATUS on 2026-09-02: 'Applications for Batch 4 are closed.' Watch the site for the next batch.",
+    "sources": [
+      "https://aigrant.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Ethereum Foundation Ecosystem Support Program (ESP)",
+    "channel_type": "grant",
+    "description": "Grants and office hours for public-goods builders on Ethereum. Funds 'free and open-source projects that strengthen Ethereum's foundations' (builder tools, infrastructure, research, community resources). 2024: 677 projects, $44.4M.",
+    "reachable_investors": "EF Grant Management team (names not published). Social: @EF_ESP on X, Farcaster, Bluesky.",
+    "cost": "free",
+    "url": "https://esp.ethereum.foundation/applicants",
+    "how_to_apply_or_post": "Paths: Wishlist (propose ideas against posted priorities), RFPs (answer posted problems), Open Rounds, and Office Hours (non-financial feedback). Process: browse, apply with a detailed proposal, review 'within 3-6 weeks', milestone-based payments, publish results. Grants paid on-chain in ETH by default.",
+    "contacts": "unknown (no email on page; social handle @EF_ESP)",
+    "geography": "Global.",
+    "typical_outcome": "Grant size 'determined based on the scope and complexity of the proposal'. Decision in 3-6 weeks.",
+    "notes": "Only 'free, open-source, non-commercial' work. A for-profit product will not qualify; a FOSS tool can. Use Office Hours first for feedback.",
+    "sources": [
+      "https://esp.ethereum.foundation/",
+      "https://esp.ethereum.foundation/applicants"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Solana Foundation Grants",
+    "channel_type": "grant",
+    "description": "Milestone-based grants, convertible grants, and RFPs for 'projects that generate public goods for the community'. '$100M+ in funding' across '500+ projects'. Related: Superteam microgrants (~$10k) and Colosseum hackathons.",
+    "reachable_investors": "Solana Foundation grants team (names not published).",
+    "cost": "free",
+    "url": "https://solana.org/grants",
+    "how_to_apply_or_post": "Apply via the form: https://share.hsforms.com/1GE1hYdApQGaDiCgaiWMXHA5lohw. Browse RFPs: https://airtable.com/apppDmK2Pin9WX8jV/shrR0uMKu4N57TGW7/tbli2ERM3sdhyHJYB. Review takes about one week; contact within three weeks.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Amounts not stated per grant. Decision within ~3 weeks.",
+    "notes": "Public-goods focus. Consumer apps fit better with Superteam Earn or Colosseum hackathons.",
+    "sources": [
+      "https://solana.org/grants"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Superteam Earn - Grants",
+    "channel_type": "grant",
+    "description": "Grants board inside Superteam Earn (Solana talent platform). Tagline on page: 'Crypto Grants & Web3 Funding', 'Equity-Free'. Superteam Earn reports '212,530+' members and '2,670+ sponsors'. Superteam runs chapters in 26+ regions including India, UAE, Nigeria, Brazil, Vietnam, Germany, UK, US.",
+    "reachable_investors": "Grant sponsors listed per grant (not extracted). Superteam regional leads are on X per chapter (handles not extracted).",
+    "cost": "free",
+    "url": "https://superteam.fun/earn/grants",
+    "how_to_apply_or_post": "Sign up at superteam.fun/earn, open Grants, pick a sponsor grant, submit the form. Instagrants page (superteam.fun/instagrants) returned 404 on 2026-09-02; use the Earn grants list instead.",
+    "contacts": "support@superteam.fun",
+    "geography": "Global; strongest in emerging markets with Superteam chapters.",
+    "typical_outcome": "Solana Foundation page states Superteam offers 'quick microgrants ($10k) to early-stage Solana builders'. Individual grant amounts vary.",
+    "notes": "Fast and equity-free. Solana ecosystem only.",
+    "sources": [
+      "https://superteam.fun/earn/grants",
+      "https://superteam.fun/earn",
+      "https://superteam.fun/",
+      "https://solana.org/grants"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "O'Shaughnessy Fellowships (OSV)",
+    "channel_type": "fellowship",
+    "description": "Grant fellowship from O'Shaughnessy Ventures. Official text: 'One Year and $100,000'; 'Go from idea to reality while keeping 100% ownership.' For 'researchers, builders and creatives advancing civilization.'",
+    "reachable_investors": "O'Shaughnessy Ventures team (names not on the page).",
+    "cost": "free",
+    "url": "https://www.osv.llc/fellowships",
+    "how_to_apply_or_post": "Form for the 2026 cycle: https://forms.osv.llc/fellowships2026. Info and past winners: https://www.osvfellowship.com/.",
+    "contacts": "unknown (contact page only)",
+    "geography": "Global.",
+    "typical_outcome": "$100,000 grant, no equity, one year.",
+    "notes": "STATUS: the 2026 cycle closed on April 30, 2026. Next cycle date unknown; watch osvfellowship.com.",
+    "sources": [
+      "https://www.osv.llc/fellowships"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Manifund",
+    "channel_type": "grant",
+    "description": "Open grant marketplace. Official text: 'Our open platform helps charity founders find aligned donors.' Uses regrantors: 'We delegate grant budgets to regrantors who are experts in their fields.' Anyone can post a project and ask for funding.",
+    "reachable_investors": "Regrantors (list on site; names not extracted).",
+    "cost": "free",
+    "url": "https://manifund.org/",
+    "how_to_apply_or_post": "Click 'Create' (https://manifund.org/create), write a project with a funding goal, then message relevant regrantors. Discord and Substack listed on site.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Grant sizes not stated; unknown.",
+    "notes": "Best for research, AI safety, public-goods, and charitable projects. Not a for-profit VC channel.",
+    "sources": [
+      "https://manifund.org/",
+      "https://manifund.org/about"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Pioneer",
+    "channel_type": "grant",
+    "description": "Former accelerator/tournament for 'ambitious outsiders' by Daniel Gross and Rishi Narang; funded 150+ companies in 50+ countries.",
+    "reachable_investors": "none (program closed)",
+    "cost": "free",
+    "url": "https://pioneer.app/",
+    "how_to_apply_or_post": "Not possible. Official text: 'We stopped making new investments in 2024.'",
+    "contacts": "unknown",
+    "geography": "Global (historical).",
+    "typical_outcome": "none (closed)",
+    "notes": "STATUS: CLOSED to new investments since 2024. Listed so you do not waste time on it.",
+    "sources": [
+      "https://pioneer.app/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Fast Grants",
+    "channel_type": "grant",
+    "description": "COVID-19 science grant program spun out of Emergent Ventures. Mercatus page: raised over $50 million and gave 260 grants.",
+    "reachable_investors": "none (program concluded)",
+    "cost": "free",
+    "url": "https://fastgrants.org/",
+    "how_to_apply_or_post": "Not possible. fastgrants.org returned HTTP 404 on 2026-09-02; Mercatus page describes it as concluded.",
+    "contacts": "unknown",
+    "geography": "Global (historical).",
+    "typical_outcome": "none (closed)",
+    "notes": "STATUS: CLOSED. Apply to Emergent Ventures instead.",
+    "sources": [
+      "https://fastgrants.org/",
+      "https://www.mercatus.org/emergent-ventures"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Base Ecosystem Fund and Base Batches (Coinbase)",
+    "channel_type": "grant",
+    "description": "Two open funding paths for builders on Base. Official docs: 'The Base Ecosystem Fund backs pre-seed and seed teams building onchain businesses on Base, in partnership with Coinbase Ventures.' Base Batches: 'An accelerator with a $100K investment and a demo day.' Perks include AWS, Azure, Alchemy credits and Coinbase Prime/onramp access.",
+    "reachable_investors": "Coinbase Ventures and Base ecosystem team (names not on the page).",
+    "cost": "free",
+    "url": "https://docs.base.org/get-started/get-funded",
+    "how_to_apply_or_post": "Ecosystem Fund application: https://www.base.org/ecosystem-fund/apply. Base Batches 004: apply at https://www.base.org/batches/apply; 'Opens: Aug 19', 'Closes: Sep 9', acceptances Sep 17, virtual program 'Sep 21 - Nov 15', demo day Nov 17 in New York. 'This application requires both a written and video submission and does not save drafts.' Focus areas named: trading, payments, AI agents, onchain primitives.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Ecosystem Fund: pre-seed/seed investment, amount not stated. Base Batches: $100K investment.",
+    "notes": "Base Batches 004 window is OPEN on 2026-09-02 and closes Sep 9, 2026. base.org/builder-grants returned 404; small Builder Grants status unknown. Investment, not a pure grant.",
+    "sources": [
+      "https://docs.base.org/get-started/get-funded",
+      "https://www.base.org/batches/apply",
+      "https://www.base.org/builder-grants"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Arbitrum Foundation Grants and Programs",
+    "channel_type": "grant",
+    "description": "Active programs on 2026-09-02: Arbitrum Audit Program ('$10M in ARB over 12 months' to subsidise audits), ArbiFuel (gas sponsorship for early-stage teams), Arbitrum Gaming Ventures (DAO), and the Alchemy-Arbitrum Grant Program ('$10M grant program', up to $500K Alchemy credits, for Orbit chains). Inactive: Trailblazer AI, Stylus Sprint, Uniswap-Arbitrum program.",
+    "reachable_investors": "Arbitrum Foundation program managers (names not published).",
+    "cost": "free",
+    "url": "https://arbitrum.foundation/grants",
+    "how_to_apply_or_post": "Audit Program: https://tally.so/r/3xzEzv?program=aap. ArbiFuel: https://airtable.com/appzb4GfqGfrnDXjW/shrulGIIp6l6ezAlt. Alchemy-Arbitrum: https://alchemyapi.typeform.com/to/CijtV0Oe. Gaming: https://thegamingcatalyst.com. Questions: https://forum.arbitrum.foundation.",
+    "contacts": "unknown (forum only)",
+    "geography": "Global.",
+    "typical_outcome": "Audit subsidies, gas credits, infra credits; cash grant sizes vary per program.",
+    "notes": "No general open cash-grant round listed on 2026-09-02. Programs are targeted (audits, gas, gaming, Orbit chains).",
+    "sources": [
+      "https://arbitrum.foundation/grants"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Starknet Foundation Grants",
+    "channel_type": "grant",
+    "description": "Two tracks. Seed Grants: 'aid early stage teams with non-dilutive funding to support their go-to-market efforts' - up to $25K in STRK. Growth Grants: for teams with a product in market - $25K to $1M STRK, with categories (Innovation, Ecosystem Integration, Content & Creator, The Next Billion, Bitcoin Builder, Other).",
+    "reachable_investors": "Starknet Foundation grants team (names not published). Page states grantees get 'access to investor networks'.",
+    "cost": "free",
+    "url": "https://www.starknet.io/grants/",
+    "how_to_apply_or_post": "Use the application links on the grants page for Seed or Growth. Seed track fits idea/pre-product teams.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Seed: up to $25K STRK. Growth: $25K-$1M STRK.",
+    "notes": "Non-dilutive. Starknet ecosystem only.",
+    "sources": [
+      "https://www.starknet.io/grants/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Sui Foundation - Hydropower accelerator, RFPs, direct investment",
+    "channel_type": "grant",
+    "description": "Sui Foundation states it focuses on 'connecting serious founders with meaningful, long-term support - not grants'. Paths: Hydropower accelerator ('No equity is taken up front'), RFPs, direct strategic investment, and $25k Academic Research Awards.",
+    "reachable_investors": "Sui Foundation team (names not published).",
+    "cost": "free",
+    "url": "https://sui.io/grants-hub",
+    "how_to_apply_or_post": "Hydropower: hydropower.sui.io. RFPs: sui.io/request-for-proposals. Academic awards: suifoundation.notion.site.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Accelerator support; research award $25k; investment amounts not stated.",
+    "notes": "Not a classic open grant program. Sui ecosystem only.",
+    "sources": [
+      "https://sui.io/grants-hub"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Gitcoin Grants (quadratic funding rounds)",
+    "channel_type": "grant",
+    "description": "Community-funded rounds for open source, DeSci, climate, privacy, and 'AI and Public Goods'. Site lists GG24 as 'The First Funding Round of Gitcoin 3.0' and references GG25 as upcoming. Projects apply to rounds on Gitcoin Grants Stack.",
+    "reachable_investors": "Round operators and matching-pool funders per round (not extracted).",
+    "cost": "free",
+    "url": "https://www.gitcoin.co/",
+    "how_to_apply_or_post": "Create a project profile on Grants Stack (grants.gitcoin.co; could not be fetched on 2026-09-02) and apply to an open round that matches your category. Forum: gov.gitcoin.co.",
+    "contacts": "unknown",
+    "geography": "Global; some regional rounds (e.g., 'Asia Round').",
+    "typical_outcome": "Donations plus quadratic matching; amounts vary by round. Unknown per project.",
+    "notes": "GG25 dates not verified. Best for open-source public goods, not closed-source startups.",
+    "sources": [
+      "https://www.gitcoin.co/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Optimism Grants (Retro Funding, Grants Council, OP Atlas)",
+    "channel_type": "grant",
+    "description": "Optimism funds builders through Retro Funding (retroactive, via OP Atlas) and prospective Grants Council missions. Verified on the governance forum: Season 9 Grants Council applications opened 'Feb 11th 2026' and closed 'May 20th 2026', with projects required to target 'DEX TVL in Priority Pairs (Liquidity)' or 'DEX Fees in Priority Pairs'.",
+    "reachable_investors": "unknown",
+    "cost": "free",
+    "url": "https://atlas.optimism.io/",
+    "how_to_apply_or_post": "Register the project on OP Atlas (https://atlas.optimism.io/, JS-only, not fetched). Grants Council form used in Season 9: https://app.opgrants.io/programs/1045/apply (closed). Watch https://gov.optimism.io/c/grants/87 for Season 10.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Season 9 grant sizes not stated in the forum post. Retro Funding budgets vary by round.",
+    "notes": "Season 9 closed May 20, 2026. Retro Funding requires a verified contract on an OP Chain (Base, OP Mainnet, Unichain). Liquidity/DEX themes favored in Season 9.",
+    "sources": [
+      "https://www.optimism.io/grants",
+      "https://gov.optimism.io/t/season-9-grants-council-applications-now-open/10599",
+      "https://docs.optimism.io/governance"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Polygon Community Grants Program",
+    "channel_type": "grant",
+    "description": "Polygon ran a Community Grants Program (seasons) under 'Polygon Village'. On 2026-09-02 both https://polygon.technology/village and https://polygon.technology/community-grants redirected (301) to https://hadronfc.com/, a 'Hadron Founders Club' community page that does not mention Polygon or grants.",
+    "reachable_investors": "unknown",
+    "cost": "unknown",
+    "url": "https://polygon.technology/community-grants",
+    "how_to_apply_or_post": "unknown; official pages redirect away. Check Polygon's forum or X account for the current grants season.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "unknown",
+    "notes": "NOT VERIFIED. Treat as possibly paused or moved. Do not rely on old season pages.",
+    "sources": [
+      "https://polygon.technology/village",
+      "https://polygon.technology/community-grants",
+      "https://hadronfc.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Web3 Foundation (Polkadot) Funding",
+    "channel_type": "grant",
+    "description": "Web3 Foundation funds Polkadot ecosystem work. grants.web3.foundation now redirects to https://web3.foundation/funding-support. The fetched page showed navigation only; levels, amounts, and process were not visible.",
+    "reachable_investors": "unknown",
+    "cost": "free",
+    "url": "https://web3.foundation/funding-support",
+    "how_to_apply_or_post": "unknown; historically a GitHub pull-request process (not verified on 2026-09-02).",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "unknown",
+    "notes": "PARTIALLY VERIFIED: program page exists; details not extracted.",
+    "sources": [
+      "https://grants.web3.foundation/",
+      "https://web3.foundation/funding-support"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Uniswap Foundation Grants",
+    "channel_type": "grant",
+    "description": "Grants in four categories: Ecosystem ('Supporting builders to turn ideas into real ecosystem impact'), Research, Security, Governance. Grantees include Atrium Academy (Uniswap Hook Incubator), ETHGlobal, OpenZeppelin, Code4rena, Gauntlet.",
+    "reachable_investors": "unknown",
+    "cost": "free",
+    "url": "https://www.uniswapfoundation.org/grants",
+    "how_to_apply_or_post": "No application form or amounts on the grants page. Contact via Discord or X linked in the footer; the Hook Incubator (Atrium Academy) is a builder entry path.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "unknown",
+    "notes": "Amounts and process not published on the page.",
+    "sources": [
+      "https://www.uniswapfoundation.org/grants"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Mozilla Builders",
+    "channel_type": "grant",
+    "description": "Mozilla's builder accelerator/grant program. Could not be verified: builders.mozilla.org and future.mozilla.org were blocked by the fetch tool on 2026-09-02, and search budget was exhausted.",
+    "reachable_investors": "unknown",
+    "cost": "unknown",
+    "url": "https://builders.mozilla.org/",
+    "how_to_apply_or_post": "unknown",
+    "contacts": "unknown",
+    "geography": "unknown",
+    "typical_outcome": "unknown",
+    "notes": "NOT VERIFIED.",
+    "sources": [
+      "https://builders.mozilla.org/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Merge Grant",
+    "channel_type": "grant",
+    "description": "Small grant for indie builders (reported). Could not be verified: mergegrant.com was blocked by the fetch tool on 2026-09-02 and search budget was exhausted.",
+    "reachable_investors": "unknown",
+    "cost": "unknown",
+    "url": "https://mergegrant.com/",
+    "how_to_apply_or_post": "unknown",
+    "contacts": "unknown",
+    "geography": "unknown",
+    "typical_outcome": "unknown",
+    "notes": "NOT VERIFIED.",
+    "sources": [
+      "https://mergegrant.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "SBIR / STTR (US federal, non-dilutive)",
+    "channel_type": "grant",
+    "description": "US federal R&D funding for small businesses. Official site: Phase I (proof of concept, 6-12 months) '$50,000 - $275,000'; Phase II (24 months) '$750,000 - $1.8 million'. Equity-free.",
+    "reachable_investors": "Agency program managers (per agency solicitation).",
+    "cost": "free",
+    "url": "https://www.sbir.gov/",
+    "how_to_apply_or_post": "Find an open agency solicitation on sbir.gov, then apply through that agency's portal. Eligibility: US small business with fewer than 500 employees. Site recently changed its login/identity verification.",
+    "contacts": "unknown",
+    "geography": "United States only.",
+    "typical_outcome": "Phase I $50k-$275k; Phase II $750k-$1.8M.",
+    "notes": "Slow (months). Needs a registered US company. Good for deep tech.",
+    "sources": [
+      "https://www.sbir.gov/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "EIC Accelerator (European Innovation Council)",
+    "channel_type": "grant",
+    "description": "EU blended finance for startups and SMEs. Grant 'below EUR 2.5 million' plus equity of EUR 1-10 million. Requires TRL 6-8, so it is not for idea-stage; listed for completeness.",
+    "reachable_investors": "EIC Fund (equity arm).",
+    "cost": "free",
+    "url": "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en",
+    "how_to_apply_or_post": "Step 1 short proposal 'may be submitted at any time and will be batched for evaluation every first Tuesday of the month'; then full proposal, jury interview, grant agreement. Eligibility: SMEs/startups up to 499 employees from EU or Horizon Europe associated countries.",
+    "contacts": "National Contact Points (per country).",
+    "geography": "EU and Horizon Europe associated countries.",
+    "typical_outcome": "Grant up to EUR 2.5M; equity EUR 1-10M.",
+    "notes": "Not idea-stage (TRL 6-8 required). Heavy paperwork.",
+    "sources": [
+      "https://eic.ec.europa.eu/eic-funding-opportunities/eic-accelerator_en"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Startup India Seed Fund Scheme (SISFS)",
+    "channel_type": "grant",
+    "description": "Indian government seed funding routed through approved incubators for DPIIT-recognised startups. The official portal (seedfund.startupindia.gov.in) loaded but showed no readable detail via the fetch tool on 2026-09-02.",
+    "reachable_investors": "Approved incubators (list on portal).",
+    "cost": "free",
+    "url": "https://seedfund.startupindia.gov.in/",
+    "how_to_apply_or_post": "Register on the portal, get DPIIT recognition, apply to up to three incubators. Amounts and age limit not verified here (portal content not readable).",
+    "contacts": "unknown",
+    "geography": "India only.",
+    "typical_outcome": "unknown (not verified)",
+    "notes": "PARTIALLY VERIFIED: program and portal exist; amounts not confirmed from the page.",
+    "sources": [
+      "https://seedfund.startupindia.gov.in/",
+      "https://www.startupindia.gov.in/content/sih/en/startup-scheme.html"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Microsoft for Startups (Azure credits)",
+    "channel_type": "credits_program",
+    "description": "Free program with 'up to $150,000 in credits' for Azure, plus AI services and guidance. Supports startups 'from early development through production workloads'.",
+    "reachable_investors": "none (credits program)",
+    "cost": "free",
+    "url": "https://www.microsoft.com/en-us/startups",
+    "how_to_apply_or_post": "Click 'Get started now' and apply with company details. Eligibility rules are on the application portal, not the landing page.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Up to $150k Azure credits (tiered).",
+    "notes": "Not investors. Useful to cut cost while pre-revenue.",
+    "sources": [
+      "https://www.microsoft.com/en-us/startups"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "AWS Activate",
+    "channel_type": "credits_program",
+    "description": "AWS credits for startups: 'up to $200,000 in AWS Activate Credits' with 'additional credits available for AI startups'. Page states support 'Whether your startup is just starting to ideate an MVP or is on track for an IPO'.",
+    "reachable_investors": "none (credits program)",
+    "cost": "free",
+    "url": "https://aws.amazon.com/activate/",
+    "how_to_apply_or_post": "Apply from the AWS startup dashboard ('Apply now' in the credits section). Credits redeemable on Amazon Bedrock third-party models too.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Credits, tiered; idea-stage gets the lowest tier.",
+    "notes": "Not investors.",
+    "sources": [
+      "https://aws.amazon.com/activate/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Google for Startups Cloud Program",
+    "channel_type": "credits_program",
+    "description": "Cloud credits by tier. Start tier: 'up to $2,000 USD in credits to use over a year' for startups 'not yet backed with startup equity funding'. Scale tier: up to $100,000 year one plus 20% of usage in year two (up to $100,000). AI startups: 'up to $350,000 USD in cloud cost coverage'.",
+    "reachable_investors": "none (credits program)",
+    "cost": "free",
+    "url": "https://startup.google.com/cloud/",
+    "how_to_apply_or_post": "Apply at https://cloud.google.com/startup/apply. Needs a GCP billing ID, a public company website, a matching company email domain, founded within 5 years (10 for Scale).",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "$2k (Start) to $350k (AI) in credits.",
+    "notes": "Idea-stage without a website will not qualify.",
+    "sources": [
+      "https://startup.google.com/cloud/",
+      "https://startup.google.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "NVIDIA Inception",
+    "channel_type": "credits_program",
+    "description": "Free program for AI startups: 'Inception is free. The program doesn't have application fees, membership fees, or equity requirements.' Investor access: 'Get exposure to the investors in NVIDIA's extensive VC network through Inception Capital Connect (based on eligibility)' and the VC Alliance.",
+    "reachable_investors": "NVIDIA VC Alliance member firms (list not extracted).",
+    "cost": "free",
+    "url": "https://www.nvidia.com/en-us/startups/",
+    "how_to_apply_or_post": "Apply online any time (no cohorts). Requirements: at least one developer, working website, incorporated, less than 10 years old. Ineligible: consulting firms, crypto companies, cloud providers, resellers, public companies.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Credits, discounts, and VC introductions for eligible members.",
+    "notes": "One of the few credit programs with a real investor-intro channel. Crypto startups excluded.",
+    "sources": [
+      "https://www.nvidia.com/en-us/startups/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Polymarket Builders Program",
+    "channel_type": "grant",
+    "description": "Polymarket builder program for apps, bots, terminals, and agents that route orders to Polymarket. Sibling research (read through a proxy, not fetched by this agent) quotes the docs: 'A builder is a person, group, or organization that routes orders from users to Polymarket.' It reports a grant fund of about $2.5M with grants of $100-$75,000 plus weekly USDC rewards by attributed volume. builders.polymarket.com and docs.polymarket.com failed to fetch directly on 2026-09-02.",
+    "reachable_investors": "Polymarket developer team; X account @PolymarketBuild (reported by sibling research, not verified here).",
+    "cost": "free",
+    "url": "https://builders.polymarket.com/",
+    "how_to_apply_or_post": "Reported: get a builder code at polymarket.com Settings > Builders, route volume, then use 'Apply now' on builders.polymarket.com; ask in the Polymarket Discord #devs. Not verified by direct fetch.",
+    "contacts": "unknown (reported: @PolymarketBuild on X; discord.gg/polymarket)",
+    "geography": "Global; Polymarket restricts some jurisdictions including US retail trading.",
+    "typical_outcome": "Reported: grants $100-$75k plus volume-based rewards. Unverified.",
+    "notes": "PARTIALLY VERIFIED: details come from a sibling research file (A_fintech.json) that used a read proxy and third-party guides (defiprime.com, polymart.app). Confirm the form on the live page before use.",
+    "sources": [
+      "https://builders.polymarket.com/",
+      "https://docs.polymarket.com/",
+      "https://defiprime.com/definitive-guide-to-the-polymarket-ecosystem"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Kalshi Builders (grants) and Kalshi Builder Codes Grants on Superteam Earn",
+    "channel_type": "grant",
+    "description": "Kalshi runs a builder grant program at kalshi.com/builders (page failed to fetch on 2026-09-02; sibling research cites a search snippet 'Kalshi Builders | $2M in Grants & Developer Support', co-sponsored by Solana and Base). Verified directly: the Superteam Earn listing 'Kalshi Builder Codes Grants', sponsor Kalshi, 'Up to 10k USDC' per grant, status Closed, '0 recipients have been approved thus far'.",
+    "reachable_investors": "Kalshi builder program team (names unknown). Superteam listing contact: @aulijk on Telegram.",
+    "cost": "free",
+    "url": "https://kalshi.com/builders",
+    "how_to_apply_or_post": "Apply on kalshi.com/builders (form not verified). Superteam listing has an 'Apply Now' button but shows Closed: https://superteam.fun/earn/grants/kalshi-grants/.",
+    "contacts": "@aulijk (Telegram, from the Superteam listing)",
+    "geography": "Global for builders; Kalshi is a US CFTC-regulated exchange.",
+    "typical_outcome": "Up to 10k USDC per grant on the Superteam listing (closed). Main program amounts unverified ($2M total per search snippet).",
+    "notes": "PARTIALLY VERIFIED: Superteam listing read directly; kalshi.com/builders not fetched. Fits trading-bot and tooling builders.",
+    "sources": [
+      "https://superteam.fun/earn/grants/kalshi-grants/",
+      "https://kalshi.com/builders"
+    ],
+    "verified_date": "2026-09-02"
+  }
+]

@@ -1,0 +1,256 @@
+[
+  {
+    "name": "Founders, Inc. (f.inc)",
+    "type": "accelerator / fund",
+    "stage": "Idea-stage: yes (first check; solo founders accepted; pre-revenue frontier-tech teams; Blueprint II expects a team building hardware/frontier tech, no revenue needed)",
+    "check_size_terms": "Blueprint II: $150k per team upfront for 5% on a SAFE, no MFN, plus $1M+ in credits. General first checks: $100k-$250k.",
+    "sectors": "Hardware and frontier tech: robotics, drones, space, advanced manufacturing, energy, new materials, biosciences, frontier AI models, chips, AR/VR, content creation",
+    "geography": "San Francisco (Fort Mason campus), in-person; international founders accepted if they can be in SF and secure their own US entry permission",
+    "website": "https://f.inc",
+    "application_url": "https://f.inc/blueprint/apply",
+    "application_timing": "batch (Blueprint II): deadline September 14, 2026 11:59 PM PST; program Sept 30 - Dec 11, 2026; applications reviewed on a rolling basis, reply by Sept 20",
+    "email": "lab@f.inc",
+    "twitter": "@fdotinc",
+    "partner_twitters": [
+      "@FurqanR"
+    ],
+    "linkedin": "https://www.linkedin.com/company/foundersinc/",
+    "best_channel": "application form; lab@f.inc is published on the site, so cold email is possible",
+    "notes": "3-month in-person program at a 42,000 sq ft campus with hardware labs, then up to 1 year of lab residence. They call themselves 'often the first believers'. Founders pay their own travel and housing. Founder/GP: Furqan Rydhan (thirdweb co-founder).",
+    "sources": [
+      "https://f.inc",
+      "https://f.inc/blueprint",
+      "https://f.inc/blueprint/faq",
+      "https://x.com/FurqanR"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "a16z Speedrun",
+    "type": "accelerator / fund",
+    "stage": "Idea-stage: yes (solo founders accepted; they aim to be the first check; also accept early companies that already raised). Must be full-time and able to build the product in-house.",
+    "check_size_terms": "Up to $1M: $500K for 10% upfront on a SAFE, plus $500K in the next round within 18 months; $10M+ in cloud/AI/software credits; pro rata rights; no board seat",
+    "sectors": "Sector-agnostic (team roots in games, AI, consumer tech)",
+    "geography": "Founders from around the world; in-person attendance in San Francisco required",
+    "website": "https://speedrun.a16z.com",
+    "application_url": "https://speedrun.a16z.com/apply",
+    "application_timing": "rolling year-round; priority window October 12 - November 1, 2026 for cohort SR008 (late January - April 2027, San Francisco); two cohorts per year",
+    "email": "sr-team@a16z.com",
+    "twitter": "@speedrun",
+    "partner_twitters": [
+      "@Tocelot"
+    ],
+    "linkedin": "https://www.linkedin.com/school/a16zspeedrun/",
+    "best_channel": "application form; sr-team@a16z.com is published for questions",
+    "notes": "12-week program that ends in a Demo Day. Acceptance rate stated as lower than 0.4%. Funds are wired at close; a16z says it doubles down in future rounds. Jon Lai (@Tocelot) is the GP on the speedrun team.",
+    "sources": [
+      "https://speedrun.a16z.com",
+      "https://speedrun.a16z.com/apply",
+      "https://speedrun.a16z.com/faq",
+      "https://speedrun.a16z.com/team",
+      "https://a16z.com/author/jonathan-lai/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Sequoia Arc",
+    "type": "accelerator / fund",
+    "stage": "Idea-stage: partial. Open call is for pre-seed and seed stage founders. Sequoia cites backing 'Nvidia with just the founding team' and 'Wiz when there wasn't a clear idea', but a founding team/company is expected.",
+    "check_size_terms": "unknown (official: 'any terms are company specific'); third-party sites report about $1M upfront, not verified on the official site",
+    "sectors": "Sector-agnostic",
+    "geography": "Not restricted on the official page; third-party sources report San Francisco and London cohorts (unverified)",
+    "website": "https://www.sequoiacap.com/arc/",
+    "application_url": "https://www.sequoiacap.com/arc/ (apply link appears only while the open call is active; no apply link visible on 2026-09-02)",
+    "application_timing": "batch, bi-annual open call; last verified close date: Sunday August 17, 2025 11:59 pm PT (Sequoia X post); no 2026 deadline visible on the official page on 2026-09-02",
+    "email": "unknown",
+    "twitter": "@sequoia",
+    "partner_twitters": [],
+    "linkedin": "unknown",
+    "best_channel": "application form during the open call; Sequoia also says it finds founders via cold outreach",
+    "notes": "Arc Intensive: 4 days, about 10 companies per cohort, workshops with Sequoia partners (Jess Lee, Alfred Lin, Roelof Botha named). Benefits package includes 200+ perks (NVIDIA up to $500k savings, Azure up to $350k credits).",
+    "sources": [
+      "https://www.sequoiacap.com/arc/",
+      "https://x.com/sequoia/status/1956421562179207526",
+      "https://x.com/sequoia/status/1949905193598144742"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "a16z START",
+    "type": "fund",
+    "stage": "Idea-stage: yes at launch in 2022 ('even if you don't yet have a fully formed idea and haven't yet quit your day job'). Current state: no live program page found.",
+    "check_size_terms": "2022 terms: up to $1M from the a16z seed fund, equity undisclosed. Current terms: unknown.",
+    "sectors": "2022 categories: American dynamism, consumer, enterprise, fintech, games, other",
+    "geography": "Remote-first at launch (2022)",
+    "website": "https://a16z.com/introducing-a16z-start/ (2022 announcement; a16z.com/start returns 404)",
+    "application_url": "unknown (former URL https://a16z.com/programs-a16z-start/ now 301-redirects to /seed/, which lands on the a16z portfolio page filtered to Seed)",
+    "application_timing": "unknown (was rolling in 2022)",
+    "email": "unknown",
+    "twitter": "@a16z (firm handle; no START-specific handle found)",
+    "partner_twitters": [],
+    "linkedin": "unknown",
+    "best_channel": "none found; a16z's current early-stage program is Speedrun (apply there)",
+    "notes": "CURRENT STATE (verified 2026-09-02): a16z START appears inactive. The 2022 announcement post is still online, but a16z.com/start is a 404 and the old program URL redirects to the seed portfolio page. The a16z site navigation lists Speedrun as its program. No official closure or merger notice was found; treat 'merged into Speedrun' as an inference, not a verified fact.",
+    "sources": [
+      "https://a16z.com/introducing-a16z-start/",
+      "https://a16z.com/programs-a16z-start/",
+      "https://a16z.com/start/",
+      "https://a16z.com/seed/",
+      "https://techcrunch.com/2022/04/18/andreessen-horowitz-a16z-start-seed/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Afore Capital",
+    "type": "fund",
+    "stage": "Idea-stage: yes. Main fund invests in 'pre-traction, pre-everything companies'. Founders-in-Residence (FIR) accepts people with 'nothing more than the will to start a company with a Google doc of ideas', solo or teams.",
+    "check_size_terms": "Main fund: $500k - $2M+ pre-seed ($500M fund). FIR: at least $100K guaranteed, customized terms, typical range $250k-750k. FIR University (students/recent grads): $20-100k on a YC-style SAFE.",
+    "sectors": "Generalist (not specified on site)",
+    "geography": "FIR is in-person for 2 months in South Park, San Francisco; fund geography not specified",
+    "website": "https://afore.vc",
+    "application_url": "https://airtable.com/apprAAsE4JhFBd8nL/pagGsh6fhh1fzZv6t/form (FIR); https://aforevc.typeform.com/fir-u (FIR University)",
+    "application_timing": "rolling year-round; FIR kickoff dates: Fall 2026 (Oct 1), Spring 2027 (Feb 1); FIR University accepts teams monthly on a rolling basis",
+    "email": "unknown",
+    "twitter": "@aforevc",
+    "partner_twitters": [
+      "@gjain",
+      "@anamitra"
+    ],
+    "linkedin": "https://www.linkedin.com/company/aforecapital/",
+    "best_channel": "application form (Airtable/Typeform); no public email found",
+    "notes": "FIR wants technical builders with 2+ years work experience who are ready to go full-time. Afore says it can 'sign docs & wire next-day'. Partners: Gaurav Jain (@gjain) and Anamitra Banerji (@anamitra). Fund 4 is $185M (TechCrunch, Feb 2025).",
+    "sources": [
+      "https://afore.vc",
+      "https://www.afore.vc/residence",
+      "https://www.afore.vc/students",
+      "https://techcrunch.com/2025/02/20/pre-seed-firm-afore-capital-has-a-fresh-185m-fund-and-a-new-program-to-help-founders-discover-ideas"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Precursor Ventures",
+    "type": "fund",
+    "stage": "Idea-stage: yes. 'We do not have requirements for traction or metrics'; they want the first institutional round and back unproven first-time founders. A company or founding plan is expected.",
+    "check_size_terms": "Typically up to $500,000 in pre-seed and seed rounds; they leave room for syndication; instrument not stated",
+    "sectors": "Generalist software and hardware (portfolio: fintech, healthcare, SaaS, consumer)",
+    "geography": "Companies headquartered in North America (USA, Canada, Mexico); other geographies considered",
+    "website": "https://precursorvc.com",
+    "application_url": "https://precursorvc.com/startup.html (linked from https://precursorvc.com/contact)",
+    "application_timing": "rolling; 30-40 new investments per year; reply can take at least 2-4 weeks",
+    "email": "hello@precursorvc.com",
+    "twitter": "@PrecursorVC",
+    "partner_twitters": [
+      "@chudson"
+    ],
+    "linkedin": "https://www.linkedin.com/company/precursor-ventures/",
+    "best_channel": "application form; hello@precursorvc.com is published for general inquiries, so cold email is possible",
+    "notes": "'We invest in people over product.' Solo-GP style firm led by Charles Hudson, about $250M AUM. Committed to founder diversity. Runs a London bootcamp for UK/EU founders raising US pre-seed (May 2026).",
+    "sources": [
+      "https://precursorvc.com",
+      "https://precursorvc.com/contact",
+      "https://precursorvc.com/investment-criteria",
+      "https://precursorvc.com/team"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "1517 Fund",
+    "type": "fund / grant",
+    "stage": "Idea-stage: yes. $50,000 checks at the idea/R&D stage; Medici Project gives $1k grants for projects with no company; backs dropouts, students, and scientists 'long before they know they'll become founders'.",
+    "check_size_terms": "Fund: $50,000 (idea/R&D stage) to $1,000,000 (deep tech/sci-fi seed); average $400,000 pre-seed check. Medici Project: minimum $1k no-strings cash grant, no equity, no IP claim.",
+    "sectors": "Software, hardware with data plays, deep tech/sci-fi tech, biotech; 'more about the who than the what'",
+    "geography": "Global community; Medici grants limited to North America",
+    "website": "https://www.1517fund.com",
+    "application_url": "https://www.1517fund.com/ (embedded form); Medici: https://www.1517fund.com/medici (email a 5-minute Loom video)",
+    "application_timing": "rolling; in-thesis applicants hear back within about two weeks, sometimes within a few days",
+    "email": "info@1517fund.com",
+    "twitter": "@1517fund",
+    "partner_twitters": [],
+    "linkedin": "https://www.linkedin.com/company/1517fund/",
+    "best_channel": "application form or cold email ('Write in! We read all submissions'; team reachable at firstname@1517fund.com)",
+    "notes": "Backs dropouts, renegade students, and deep tech scientists; no degree needed. GPs Danielle Strachman and Michael Gibson ran the Thiel Fellowship. Medici grants are paid by Venmo with no strings attached.",
+    "sources": [
+      "https://www.1517fund.com/",
+      "https://www.1517fund.com/medici"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Hustle Fund",
+    "type": "fund",
+    "stage": "Idea-stage: partial. Pre-seed only ('Not seed'); the stated sweet spot is a team with at least an MVP; they want 'an ambitious idea, evidence of hustle', not metrics. Pre-revenue is fine; pure idea with no product is below their sweet spot.",
+    "check_size_terms": "$150K first check; instrument and valuation not stated on the site",
+    "sectors": "Software generalist, SaaS-heavy; excludes pharma, medical devices, art/film, land, restaurants, brick-and-mortar retail",
+    "geography": "Mostly United States, Canada, and Southeast Asia",
+    "website": "https://www.hustlefund.vc",
+    "application_url": "https://hustlefund.typeform.com/to/UGTnIt",
+    "application_timing": "rolling, always investing, up to 100 investments per year; decision in 1-2 meetings; reply 24-48 hours after a call; wire in under 1 week",
+    "email": "unknown",
+    "twitter": "@hustlefundvc",
+    "partner_twitters": [
+      "@dunkhippo33",
+      "@ericbahn",
+      "@shiyankoh"
+    ],
+    "linkedin": "https://www.linkedin.com/company/hustle-fund",
+    "best_channel": "application form ('We read everything'); no public email found",
+    "notes": "'Hilariously early' pre-seed software investor. GPs: Elizabeth Yin (@dunkhippo33), Eric Bahn (@ericbahn), Shiyan Koh (@shiyankoh). Runs Angel Squad (2,000+ angels) and Camp Hustle events.",
+    "sources": [
+      "https://www.hustlefund.vc",
+      "https://www.hustlefund.vc/faq",
+      "https://www2.hustlefund.vc/team"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Village Global",
+    "type": "fund",
+    "stage": "Idea-stage: partial. Invests 'at Day 0' in pre-seed and seed; the $500K-$3M check size implies a formed team and company.",
+    "check_size_terms": "$500K - $3M checks; instrument not stated",
+    "sectors": "Generalist ('proud generalists')",
+    "geography": "Global",
+    "website": "https://www.villageglobal.com (villageglobal.vc redirects here)",
+    "application_url": "none; email your deck or memo to hello@villageglobal.com (https://www.villageglobal.com/contact-us)",
+    "application_timing": "rolling (no deadlines published)",
+    "email": "hello@villageglobal.com (visible page text; the mailto link on the same page uses hello@villageglobal.vc)",
+    "twitter": "@villageglobal",
+    "partner_twitters": [
+      "@bencasnocha",
+      "@adwane"
+    ],
+    "linkedin": "https://www.linkedin.com/company/villageglobal/",
+    "best_channel": "cold email ('Building? Send your deck or memo to hello@villageglobal.com')",
+    "notes": "Network-driven firm; LPs include Reid Hoffman (Chairman), Bill Gates, Jeff Bezos, Mark Zuckerberg. GPs: Ben Casnocha (@bencasnocha), Anne Dwane (@adwane), Amrit Rao. Founder Erik Torenberg is Partner Emeritus. Third-party sources cite older $100K-$500K checks; the official site now says $500K-$3M.",
+    "sources": [
+      "https://www.villageglobal.com/",
+      "https://www.villageglobal.com/contact-us",
+      "https://www.villageglobal.com/team"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Emergent Ventures (Mercatus Center, Tyler Cowen)",
+    "type": "grant / fellowship",
+    "stage": "Idea-stage: yes (individuals age 13+; no company needed; 'zero to one' ideas; applications come from students, writers, researchers, founders)",
+    "check_size_terms": "Grant, no equity. Amount not stated on the official page. Third-party sources report a median of about $10k-$25k and a range from a few hundred dollars to $50k+ (unverified).",
+    "sectors": "Any field; 'highly scalable, zero to one ideas for meaningfully improving society'; dedicated tracks for India, Africa, the Caribbean, and Ukraine",
+    "geography": "Global",
+    "website": "https://www.mercatus.org/emergent-ventures",
+    "application_url": "https://mercatus.tfaforms.net/5099527",
+    "application_timing": "rolling; no deadline",
+    "email": "emergentventures@mercatus.gmu.edu",
+    "twitter": "@Mercatus (no program-specific handle found)",
+    "partner_twitters": [
+      "@tylercowen"
+    ],
+    "linkedin": "unknown",
+    "best_channel": "application form (short proposal, about 1,500 words, with bio and ballpark budget); Tyler Cowen reads every proposal",
+    "notes": "Low-overhead fellowship and grant program launched in 2018 and administered by Tyler Cowen. Cowen rejects proposals that are 'ambitious and interesting, but lack sufficient detail to convince me that they are feasible' and avoids crowded areas. Decisions are fast and personal. The email was decoded from the Cloudflare-protected mailto link on the official page.",
+    "sources": [
+      "https://www.mercatus.org/emergent-ventures",
+      "https://www.mercatus.org/economic-insights/expert-commentary/behind-scenes-look-emergent-ventures-so-far",
+      "https://marginalrevolution.com/about"
+    ],
+    "verified_date": "2026-09-02"
+  }
+]

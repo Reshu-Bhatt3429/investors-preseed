@@ -1,0 +1,258 @@
+[
+  {
+    "name": "Y Combinator",
+    "type": "accelerator / fund",
+    "stage": "Idea-stage: yes (no product, no revenue, no incorporation needed to apply; YC FAQ: about 40% of funded companies are 'just an idea'). Solo founders accepted.",
+    "check_size_terms": "$500,000 total: $125,000 post-money SAFE for 7% + $375,000 uncapped MFN SAFE; pro rata rights; no fees",
+    "sectors": "Sector-agnostic (heavy AI/software weighting in recent batches)",
+    "geography": "Global applicants; program is in-person in San Francisco (3-day kickoff + weekly SF meetups). No remote/online batch option is offered as of 2026-09-02.",
+    "website": "https://www.ycombinator.com/",
+    "application_url": "https://www.ycombinator.com/apply",
+    "application_timing": "batch; Winter 2027 on-time deadline 2026-11-02 8pm PT (decision by 2026-12-11); Early Decision open for Spring/Summer/Fall batches; four batches per year",
+    "email": "apply@ycombinator.com",
+    "twitter": "@ycombinator",
+    "partner_twitters": [
+      "@garrytan"
+    ],
+    "linkedin": "https://www.linkedin.com/school/y-combinator/",
+    "best_channel": "application form",
+    "notes": "Accepts idea-stage and unincorporated teams; ~40% of each batch is idea-only. Batch is in-person in SF; the remote-batch era (2020-2021) is over. Late applications are still reviewed but on-time gives a decision by a fixed date.",
+    "sources": [
+      "https://www.ycombinator.com/deal",
+      "https://www.ycombinator.com/apply",
+      "https://www.ycombinator.com/faq",
+      "https://x.com/garrytan"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Antler",
+    "type": "accelerator / fund",
+    "stage": "Idea-stage: yes (pre-team, pre-idea accepted; residency is designed to match co-founders and build from 'Day Zero'). Antler Elevate handles Series A+ separately.",
+    "check_size_terms": "Varies by location. Antler Disrupt Deal (2026-01-05): $400K = $250K for 10% via SAFE + $150K uncapped MFN SAFE. Singapore/Japan 2026: $150K for 10% ($100K for 10% + $50K uncapped MFN SAFE) + up to $250K matching. Antler India AI Residency: INR 4Cr (~$470K) for 11% + up to $30M follow-on.",
+    "sectors": "Sector-agnostic; 2026 emphasis on AI",
+    "geography": "Global: 26 locations across APAC (incl. India/Bangalore), Europe, Americas, Middle East/Africa. Residencies are in-person per city.",
+    "website": "https://www.antler.co/",
+    "application_url": "https://www.antler.co/",
+    "application_timing": "rolling by location; residencies/sprints run throughout the year. Antler India: 'Next Residency will be announced soon' (no date on 2026-09-02).",
+    "email": "unknown",
+    "twitter": "@AntlerGlobal",
+    "partner_twitters": [],
+    "linkedin": "https://www.linkedin.com/company/antlerglobal/",
+    "best_channel": "application form",
+    "notes": "Backs individuals before a company exists and helps form teams during the residency. Deal terms differ by country; check the local residency page. Antler India (X: @AntlerIndia) runs a Bangalore AI Residency: 3-week decision, INR 4Cr for 11%, INR 2L relocation grant, in-person first 2 weeks.",
+    "sources": [
+      "https://www.antler.co/",
+      "https://www.antler.co/location/india",
+      "https://www.antler.co/blog/the-antler-disrupt-deal",
+      "https://www.antler.co/press-releases/japan-inception-residency-terms",
+      "https://www.antler.co/blog/antler-singapore-announces-improved-investment-terms-and-6-week-residency",
+      "https://x.com/AntlerIndia"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Entrepreneur First (EF)",
+    "type": "accelerator / fund",
+    "stage": "Idea-stage: yes (pre-team, pre-idea, pre-company; individuals are assessed 'before they have a business, cofounder or an idea').",
+    "check_size_terms": "Equity-free grant during ideation; up to $250K investment once a company is formed (equity % not stated on site); up to $5M follow-on through future rounds; $600K+ credits; 9 months office space",
+    "sectors": "Sector-agnostic; deep tech and AI focus",
+    "geography": "London, Bangalore, San Francisco (in-person). Visa help possible for other locations.",
+    "website": "https://www.joinef.com/",
+    "application_url": "https://apply.joinef.com/",
+    "application_timing": "batch; Bangalore programme early deadline 2026-10-05 (start Feb 2027); London programme start Apr 2027; SF 'Bridge Residency' start Feb 2027; XF2 London start Fall 2026",
+    "email": "unknown",
+    "twitter": "@join_ef",
+    "partner_twitters": [
+      "@matthewclifford"
+    ],
+    "linkedin": "https://www.linkedin.com/company/entrepreneurs-first/",
+    "best_channel": "application form",
+    "notes": "Talent investor: no cofounder or idea needed to apply. Pays a grant while you find a cofounder and idea, then invests when you incorporate. Contact via form at joinef.com/contact/ only.",
+    "sources": [
+      "https://www.joinef.com/",
+      "https://apply.joinef.com/",
+      "https://x.com/matthewclifford"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Pioneer (pioneer.app)",
+    "type": "accelerator / fund (closed)",
+    "stage": "Idea-stage: yes historically (online tournament for side projects and early ideas), but the program is CLOSED: 'We stopped making new investments in 2024'.",
+    "check_size_terms": "unknown (program closed to new investments since 2024)",
+    "sectors": "Sector-agnostic (historical)",
+    "geography": "Global, fully online (historical: 300+ founders in 50+ countries)",
+    "website": "https://pioneer.app/",
+    "application_url": "unknown",
+    "application_timing": "closed; no new investments since 2024",
+    "email": "unknown",
+    "twitter": "unknown",
+    "partner_twitters": [
+      "@danielgross"
+    ],
+    "linkedin": "unknown",
+    "best_channel": "application form",
+    "notes": "Founded 2018 by Daniel Gross and Rishi Narang; backed by Stripe and Marc Andreessen. Official site states it stopped making new investments in 2024. Do not spend outreach effort here; listed for completeness.",
+    "sources": [
+      "https://pioneer.app/",
+      "https://x.com/mikeknoop/status/1803494857199198544",
+      "https://x.com/danielgross"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Z Fellows",
+    "type": "fellowship / fund",
+    "stage": "Idea-stage: yes (side projects, no company needed: 'No. We can help you set up one.'; 'no such thing as too early').",
+    "check_size_terms": "$10,000 investment at a $1B valuation cap (converts at next priced round); participation without investment also possible",
+    "sectors": "Technical builders, sector-agnostic",
+    "geography": "Global ('You can be based anywhere'); mostly virtual, last day in-person in SF or NYC",
+    "website": "https://www.zfellows.com/",
+    "application_url": "https://www.zfellows.com/",
+    "application_timing": "rolling; no deadline; multiple 1-week cohorts per year",
+    "email": "team@zfellows.com",
+    "twitter": "@zfellows",
+    "partner_twitters": [
+      "@cory"
+    ],
+    "linkedin": "https://www.linkedin.com/school/zfellows/",
+    "best_channel": "application form",
+    "notes": "1-week program with ten builders and founders of $1B+ companies. Founder Cory Levy reviews applications personally and posts about it on X. Prior rejections may reapply.",
+    "sources": [
+      "https://www.zfellows.com/",
+      "https://x.com/cory",
+      "https://x.com/cory/status/1954431962728346030"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Neo (Neo Residency, formerly Neo Accelerator)",
+    "type": "accelerator / fund",
+    "stage": "Idea-stage: yes (targets very early startups and 'high-agency student teams'; students get grants before a company exists).",
+    "check_size_terms": "Neo Residency (announced Feb 2026): $750K uncapped SAFE + $450K+ compute credits; Neo gets participation rights up to 5% in next equity round. Student teams: $40K grant per person + $100K+ credits. Profit share in Neo fund for every founder/student.",
+    "sectors": "Sector-agnostic; strong AI focus (Microsoft and OpenAI mentorship for AI companies)",
+    "geography": "US-based program: 3 months SF workspace + 2-week Oregon bootcamp; global applicants",
+    "website": "https://neo.com/",
+    "application_url": "https://neo.com/residency",
+    "application_timing": "rolling ('applications are open... rolling basis'); no fixed deadline found on 2026-09-02",
+    "email": "unknown",
+    "twitter": "@Neo",
+    "partner_twitters": [
+      "@apartovi"
+    ],
+    "linkedin": "unknown",
+    "best_channel": "application form",
+    "notes": "Neo Residency replaced Neo Accelerator in Feb 2026; small cohorts (12-15 startups, 5-8 student teams). Neo was Cursor's first investor. Neo.com is JS-rendered; terms above come from Neo's official Substack.",
+    "sources": [
+      "https://neo.substack.com/p/neo-residency-a-new-era",
+      "https://neo.com/accelerator-apply",
+      "https://x.com/apartovi",
+      "https://finance.yahoo.com/news/ali-partovi-neo-looks-upend-061355180.html"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "South Park Commons (SPC Founder Fellowship)",
+    "type": "fellowship / fund",
+    "stage": "Idea-stage: yes (no finalized idea required: 'No, but you do need to show us how you generate ideas').",
+    "check_size_terms": "$400K upfront for 7% on a standard SAFE + $600K guaranteed in next external round ($1M total); up to $1M in credits",
+    "sectors": "Sector-agnostic; technical and research-heavy founders",
+    "geography": "San Francisco, New York City, Bangalore (8-week in-person bootcamp, then residency)",
+    "website": "https://www.southparkcommons.com/",
+    "application_url": "https://www.southparkcommons.com/apply",
+    "application_timing": "batch; two cohorts per year. Fall 2026 deadline was 2026-08-02 (closed). Spring 2026 deadline was 2026-02-01; Spring 2027 deadline not yet announced on 2026-09-02.",
+    "email": "unknown",
+    "twitter": "@spc",
+    "partner_twitters": [],
+    "linkedin": "https://www.linkedin.com/company/southparkcommons/",
+    "best_channel": "application form",
+    "notes": "Fellowship for founders in the '-1 to 0' phase; 8-week bootcamp then open-ended residency. Official site footer links x.com/spc; older posts appear under @southpkcommons. Member Residency is a separate track for technologists who may not want to start a company yet.",
+    "sources": [
+      "https://www.southparkcommons.com/news/f26-founder-fellowship",
+      "https://www.southparkcommons.com/faq/",
+      "https://blog.southparkcommons.com/p/spc-founder-fellowship-spring-2026",
+      "https://x.com/southpkcommons/status/2074942309599224190"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Techstars",
+    "type": "accelerator / fund",
+    "stage": "Idea-stage: partial. Pre-revenue accepted but evidence of progress expected; many admitted teams already raised $1M-$5M. The Founder Catalyst pre-accelerator targets idea-stage founders.",
+    "check_size_terms": "$220,000: $200,000 uncapped MFN SAFE + $20,000 CEA for 5% common stock (APAC programs: $100,000 MFN SAFE + $20K CEA)",
+    "sectors": "Sector-agnostic; many vertical programs (healthcare, AI health, workforce, etc.)",
+    "geography": "Global: Boston, Boulder, Chicago, London, NYC, Tokyo, Los Angeles and others; 'Techstars Anywhere' is remote-first",
+    "website": "https://www.techstars.com/",
+    "application_url": "https://apply.techstars.com/",
+    "application_timing": "batch; Spring 2027 applications opened 2026-08-24, NYC final deadline 2026-11-18 (program starts 2027-03-08). Deadlines vary by program.",
+    "email": "unknown",
+    "twitter": "@techstars",
+    "partner_twitters": [],
+    "linkedin": "https://www.linkedin.com/company/techstars",
+    "best_channel": "application form",
+    "notes": "3-month mentorship-driven program; terms mirror YC structure since April 2025. Best fit for teams with some traction; pure idea-stage founders should look at Techstars Founder Catalyst. Only address found on site is privacy@techstars.com (not for applications).",
+    "sources": [
+      "https://www.techstars.com/accelerators",
+      "https://www.techstars.com/investment-terms",
+      "https://www.techstars.com/accelerators/new-york",
+      "https://www.techstars.com/founder-catalyst",
+      "https://techcrunch.com/2025/04/18/techstars-increases-startup-funding-to-220000-mirroring-yc-structure/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Pear VC (PearX)",
+    "type": "accelerator / fund",
+    "stage": "Idea-stage: yes ('Any founder starting a company is eligible'; most teams have not raised before; solo founders accepted).",
+    "check_size_terms": "$500K to $2M per company, terms negotiated per company ('we'll work with you')",
+    "sectors": "Sector-agnostic; AI, enterprise, biotech, consumer verticals with partner expertise",
+    "geography": "In-person in San Francisco Bay Area (Pear Studio SF and Menlo Park); 12-week program; global applicants must relocate",
+    "website": "https://pear.vc/",
+    "application_url": "https://pear.vc/pearx",
+    "application_timing": "batch; PearX W27 regular deadline 2026-10-04; two cohorts per year (Winter Jan-Apr, Summer Jul-Oct); funds year-round",
+    "email": "unknown",
+    "twitter": "@pearvc",
+    "partner_twitters": [
+      "@pejmannozad"
+    ],
+    "linkedin": "unknown",
+    "best_channel": "application form",
+    "notes": "Small cohorts (~20-25 teams); all partners are former founders or operators. Starts working with teams before the cohort begins. Contact only via form at pear.vc/contact-us.",
+    "sources": [
+      "https://pear.vc/pearx",
+      "https://pear.vc/contact-us/",
+      "https://x.com/pearvc",
+      "https://x.com/pejmannozad"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "HF0",
+    "type": "accelerator / fund",
+    "stage": "Idea-stage: yes, but only for REPEAT founders ('The residency for repeat founders'). First-time founders are not the target.",
+    "check_size_terms": "unknown on official site; secondary sources (2025-2026) report $1M uncapped SAFE for 5%",
+    "sectors": "Sector-agnostic; heavy AI representation",
+    "geography": "San Francisco, live-in 12-week residency (secondary sources); 10 teams per batch",
+    "website": "https://www.hf0.com/",
+    "application_url": "https://www.hf0.com/apply",
+    "application_timing": "batch; site lists 'Batch Starts: September 13' and 'Batch Starts: January 4' with Demo Days 'December 4' / 'Dec 1'; no application deadline posted on 2026-09-02",
+    "email": "unknown",
+    "twitter": "@HF0",
+    "partner_twitters": [
+      "@davefontenot"
+    ],
+    "linkedin": "unknown",
+    "best_channel": "application form / Twitter DM",
+    "notes": "'Startup monastery' model: housing, meals, no distractions, 10 teams at a time. Dave Fontenot invites repeat unicorn founders to DM him on X. Official site publishes batch dates and outcome facts but not deal terms.",
+    "sources": [
+      "https://www.hf0.com/",
+      "https://www.hf0.com/facts",
+      "https://x.com/davefontenot",
+      "https://x.com/davefontenot/status/1930331657070096476",
+      "https://raisefunding.io/accelerators/hf0-residency",
+      "https://www.everythingstartups.com/vc-funds/hf0-residency"
+    ],
+    "verified_date": "2026-09-02"
+  }
+]

@@ -1,0 +1,348 @@
+[
+  {
+    "name": "Superteam (Solana talent community)",
+    "channel_type": "chat_community",
+    "description": "Official text: 'superteam is a community of the best talent learning, earning and building in crypto', 'The Talent Layer of Solana.' Regional chapters in 26+ regions (India, UAE, Nigeria, Brazil, Vietnam, Germany, UK, US, Singapore, Japan and more). Programs: Superteam Earn (bounties, projects, grants), Instagrants, Idea Bank.",
+    "reachable_investors": "Solana Foundation grant staff and ecosystem sponsors via Earn listings; regional chapter leads (X handles per country on the site, not extracted).",
+    "cost": "free",
+    "url": "https://superteam.fun/",
+    "how_to_apply_or_post": "Follow the regional chapter on X, join its Discord/Telegram from the chapter page, create a Superteam Earn profile, and ship bounties first. Public Discord invite link not shown on the homepage.",
+    "contacts": "support@superteam.fun",
+    "geography": "Global; strongest in India, SE Asia, LatAm, Africa, Europe.",
+    "typical_outcome": "Microgrants around $10k (per solana.org/grants), bounties, and intros to Solana ecosystem funds. Not verified per case.",
+    "notes": "Membership in the core chapter is selective; Earn is open to all. Solana-only.",
+    "sources": [
+      "https://superteam.fun/",
+      "https://superteam.fun/earn",
+      "https://solana.org/grants"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Developer DAO",
+    "channel_type": "chat_community",
+    "description": "'A DEVELOPER OWNED & GOVERNED COMMUNITY' for 'LEARNING & BUILDING FOR WEB3'. Sub-products: newsletter (pn.developerdao.com), forum (forum.developerdao.com), Academy, Agency.",
+    "reachable_investors": "unknown",
+    "cost": "unknown (join rules not on the homepage)",
+    "url": "https://www.developerdao.com/",
+    "how_to_apply_or_post": "Click 'Get involved' (handbook). Discord link and membership rules were not on the fetched page.",
+    "contacts": "unknown (partners page only)",
+    "geography": "Global.",
+    "typical_outcome": "unknown; no grant or investor program found on the page.",
+    "notes": "PARTIALLY VERIFIED. Builder community, not an investor channel.",
+    "sources": [
+      "https://www.developerdao.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "buildspace",
+    "channel_type": "chat_community",
+    "description": "Former six-week builder school. Homepage on 2026-09-02: 'hi. this was buildspace' and 'we were the biggest school in the world for people who wanted to work on their own ideas - ty for the memories.'",
+    "reachable_investors": "none (closed)",
+    "cost": "none",
+    "url": "https://buildspace.so/",
+    "how_to_apply_or_post": "Not possible; closed.",
+    "contacts": "unknown",
+    "geography": "Global (historical).",
+    "typical_outcome": "none",
+    "notes": "STATUS: CLOSED. Listed so you skip it.",
+    "sources": [
+      "https://buildspace.so/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "WIP.co (makers community)",
+    "channel_type": "chat_community",
+    "description": "'We're a group of makers shipping together. We help each other stay accountable and reach our goals.' Page shows 'Join 3,763 makers' and a Pro tier.",
+    "reachable_investors": "unknown; no investor program on the page.",
+    "cost": "free tier; Pro tier price not shown (unknown)",
+    "url": "https://wip.co/",
+    "how_to_apply_or_post": "Sign up at https://wip.co/join. Post daily todos and ship logs.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Peer feedback and accountability; not a funding channel.",
+    "notes": "Indie-hacker style. Low direct investor value.",
+    "sources": [
+      "https://wip.co/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "ODF (On Deck Founder Fellowship)",
+    "channel_type": "office_hours",
+    "description": "'ODF is an intense one-week in-person experience focused on meeting collaborators, exploring ideas, and gaining conviction.' Held in San Francisco. Non-dilutive; '$800k+ in perks'. 'More than 1,000 startups launched so far'; alumni raised over $2B from Khosla, Sequoia, a16z, Founders Fund.",
+    "reachable_investors": "ODF team and alumni investor network (names not on the page).",
+    "cost": "unknown (page says non-dilutive; tuition not stated)",
+    "url": "https://joinodf.com/",
+    "how_to_apply_or_post": "Apply at https://form.fillout.com/t/x2fuWdEqkSus. 'ODF28 kicks off in Q1 2027'; applications open on 2026-09-02.",
+    "contacts": "team@joinodf.com",
+    "geography": "In-person in San Francisco; global applicants.",
+    "typical_outcome": "Co-founder matching, idea validation, investor network access. No direct investment.",
+    "notes": "beondeck.com now redirects to joinodf.com. Idea-stage is the target stage.",
+    "sources": [
+      "https://www.beondeck.com/",
+      "https://joinodf.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Founders Network",
+    "channel_type": "chat_community",
+    "description": "'Founders Network is a global startup mentoring community for tech founders.' Offers '1-on-1 VC Mentoring' and an 'Investor Directory: Gain access to a curated directory of investors and get warm opt-in introductions.' Network includes '200+ VCs and angel investors.'",
+    "reachable_investors": "200+ VCs and angels (names not public on the homepage).",
+    "cost": "paid; annual dues scaled by funding/revenue history; amount not shown (unknown)",
+    "url": "https://foundersnetwork.com/",
+    "how_to_apply_or_post": "'FN is an invite-only community.' Request an invitation; a 2-minute application follows; Membership Committee reviews monthly. Discounts for tier-1 VC portfolio founders and accelerator alumni.",
+    "contacts": "unknown (contact page only)",
+    "geography": "Global; US-centric.",
+    "typical_outcome": "Warm opt-in intros to member investors; no direct investment.",
+    "notes": "Paid and invite-gated; not fully open.",
+    "sources": [
+      "https://foundersnetwork.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "ADPList (free mentorship calls)",
+    "channel_type": "office_hours",
+    "description": "'36,000+ mentors. 160+ countries. Every session free.' Mentors from Google, Netflix, Figma, Amazon, Microsoft across AI, Product, Engineering.",
+    "reachable_investors": "unknown; the homepage does not list VCs as a category. Search mentors for 'investor' or 'venture' before booking.",
+    "cost": "free",
+    "url": "https://adplist.org/",
+    "how_to_apply_or_post": "Create an account, filter mentors by expertise, click 'Book' on a profile.",
+    "contacts": "support@adplist.org; partnerships@adplist.org",
+    "geography": "Global.",
+    "typical_outcome": "Free 30-minute advice calls; not a funding channel.",
+    "notes": "Useful for pitch feedback. Investor availability not verified.",
+    "sources": [
+      "https://adplist.org/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Intro.co (paid calls with named investors)",
+    "channel_type": "paid_call_marketplace",
+    "description": "'Book the world's most in-demand experts & get advice over a video call.' Price range on the page: $79 to $2,500 per session. Example verified: Damir Becirovic, Partner at Index Ventures, '$600 - Session', 'Investor in Robinhood, Glossier, Discord, GOAT, Sonos, Roblox.'",
+    "reachable_investors": "Damir Becirovic (Index Ventures, $600/session). Other investors listed on the site; not extracted.",
+    "cost": "paid; $79-$2,500 per session",
+    "url": "https://intro.co/",
+    "how_to_apply_or_post": "Browse Career & Business, pick an investor, book a video call. Prepare a 1-page memo; ask for feedback, not money.",
+    "contacts": "unknown",
+    "geography": "Global (video).",
+    "typical_outcome": "Advice call; sometimes a follow-on relationship. No guaranteed investment.",
+    "notes": "Paid access; do not pitch cold on the call.",
+    "sources": [
+      "https://intro.co/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Clarity.fm (paid per-minute advice calls)",
+    "channel_type": "paid_call_marketplace",
+    "description": "'On Demand Business Advice.' The page did not fully render on 2026-09-02, so pricing and expert list could not be extracted.",
+    "reachable_investors": "unknown",
+    "cost": "paid per minute (amount unknown)",
+    "url": "https://clarity.fm/",
+    "how_to_apply_or_post": "unknown",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "unknown",
+    "notes": "NOT VERIFIED beyond site existence.",
+    "sources": [
+      "https://clarity.fm/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "ETHGlobal hackathons",
+    "channel_type": "chat_community",
+    "description": "Ethereum hackathon organizer with '275+ partners' (Arbitrum, Optimism, Uniswap, Polygon, Chainlink Labs). Upcoming: ETHGlobal Tokyo 2026 (Sep 25-27, 2026), ETHConf 2027 (June 14-16, 2027, NYC). Partners and ecosystem funds judge and sponsor prizes.",
+    "reachable_investors": "Sponsor ecosystem funds and foundations per event (names vary).",
+    "cost": "unknown (not on homepage; hackathons usually free to attend, not verified)",
+    "url": "https://ethglobal.com/",
+    "how_to_apply_or_post": "Apply to an event on the site, connect Discord via the site's OAuth link, ship a project, win sponsor prizes.",
+    "contacts": "unknown",
+    "geography": "Global; in-person events rotate cities.",
+    "typical_outcome": "Prizes and follow-on grant intros; amounts not on the homepage.",
+    "notes": "Strong path from hackathon win to grants (ESP, Uniswap Foundation, Arbitrum).",
+    "sources": [
+      "https://ethglobal.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "PreSeed Now (UK newsletter)",
+    "channel_type": "newsletter",
+    "description": "UK pre-seed startup newsletter by Martin SFP Bryant ('Discover the UK's most interesting pre-seed startups every Tuesday and Thursday'). STATUS: CLOSED. preseednow.com shows the post 'Why PreSeed Now is shutting down' dated Jun 10, 2026: 'Yes. Sadly, it's true.'",
+    "reachable_investors": "none (closed)",
+    "cost": "free to read; paid tier unknown",
+    "url": "https://preseednow.substack.com/",
+    "how_to_apply_or_post": "Not possible; newsletter shut down. Archive of past coverage remains online.",
+    "contacts": "unknown",
+    "geography": "United Kingdom.",
+    "typical_outcome": "none (closed)",
+    "notes": "STATUS: CLOSED as of 2026-06-10. The Substack about page still shows old marketing text; the main site has the shutdown post. Remove from outreach lists.",
+    "sources": [
+      "https://preseednow.com/",
+      "https://preseednow.substack.com/about"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Confluence.VC",
+    "channel_type": "newsletter",
+    "description": "Formerly known for VC lists. On 2026-09-02 confluence.vc markets a GTM talent network: '~Forty Midas List investors across San Francisco and New York', '1,500+ Growth-stage companies, Series B-E, pulled from Harmonic'. It recruits talent for portfolio companies; it is not an open investor list for founders.",
+    "reachable_investors": "unknown for founders",
+    "cost": "unknown",
+    "url": "https://www.confluence.vc/",
+    "how_to_apply_or_post": "Airtable 'Join the network' form for talent/investors. No founder pitch route.",
+    "contacts": "unknown",
+    "geography": "US (SF, NYC).",
+    "typical_outcome": "none for fundraising",
+    "notes": "Do not use as an investor directory; the product pivoted.",
+    "sources": [
+      "https://www.confluence.vc/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Peak XV Surge (open application seed program)",
+    "channel_type": "open_form_vc",
+    "description": "Peak XV's seed program: 'Capital, full-stack support, and a community that builds with you.' Invests '$0.5M' to '$5M in seed capital from Peak XV, with an open architecture that welcomes co-investors.' Offices in US, India, Singapore, UAE; '17+ Nationalities in the founder community'.",
+    "reachable_investors": "Peak XV Surge team (names not on the page).",
+    "cost": "free",
+    "url": "https://surge.peakxv.com/",
+    "how_to_apply_or_post": "Apply at https://surge.peakxv.com/apply or https://surge.peakxv.com/reach-out. Cohort dates not shown.",
+    "contacts": "contactus@peakxv.com; pr@peakxv.com (media)",
+    "geography": "India, Southeast Asia, and global founders.",
+    "typical_outcome": "$0.5M-$5M seed check plus program.",
+    "notes": "Seed, not pure idea-stage, but the form is open. surgeahead.com redirects here.",
+    "sources": [
+      "https://surge.peakxv.com/",
+      "https://www.surgeahead.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Accel Atoms (open application pre-seed program)",
+    "channel_type": "open_form_vc",
+    "description": "'a pre-seed scaling program that brings together the best of Accel's resources and global network, for Indian & Indian-origin founders building from anywhere'. Recent cohorts: 'AI Cohort 2026' and 'Atoms X'.",
+    "reachable_investors": "Accel India team (names not on the page).",
+    "cost": "free",
+    "url": "https://atoms.accel.com/",
+    "how_to_apply_or_post": "Apply at https://apply.accel-atoms.com/. Investment amount not on the page. Newsletter signup for future cohorts.",
+    "contacts": "unknown (social channels only)",
+    "geography": "Indian and Indian-origin founders, anywhere.",
+    "typical_outcome": "Pre-seed investment; amount unknown on the page.",
+    "notes": "Open form, no intro needed. Cohort-based.",
+    "sources": [
+      "https://atoms.accel.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Titan Capital (India, operator-led early stage)",
+    "channel_type": "open_form_vc",
+    "description": "'Operator-led early stage capital'; 'typically the first investor in the companies it invests in.' Run by Kunal and Rohit (Bahl and Bansal; surnames inferred from public knowledge, page shows first names only).",
+    "reachable_investors": "Kunal Bahl, Rohit Bansal (inferred; page uses first names). Handles not on the page.",
+    "cost": "free",
+    "url": "https://titancapital.vc/",
+    "how_to_apply_or_post": "No open pitch form found; only a 'CONTACT US' link in the navigation.",
+    "contacts": "unknown",
+    "geography": "India.",
+    "typical_outcome": "First-check investment; size not published.",
+    "notes": "Open route not verified. Cold contact via the contact page only.",
+    "sources": [
+      "https://titancapital.vc/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Better Capital (India, day-zero investor)",
+    "channel_type": "open_form_vc",
+    "description": "Backs 'bold innovators on day zero'. '200+ Companies', '$7B+ Combined Valuation', '2 Unicorns'. Page links the X handle @vaibhavbetter.",
+    "reachable_investors": "Vaibhav Domkundwar (@vaibhavbetter on X, handle shown on the site).",
+    "cost": "free",
+    "url": "https://bettercapital.vc/",
+    "how_to_apply_or_post": "No pitch form on the homepage. Reach via X handle @vaibhavbetter.",
+    "contacts": "@vaibhavbetter (X)",
+    "geography": "India.",
+    "typical_outcome": "Day-zero checks; size not published.",
+    "notes": "Open form not verified; X DM is the visible route.",
+    "sources": [
+      "https://bettercapital.vc/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Blume Ventures (India)",
+    "channel_type": "open_form_vc",
+    "description": "Indian early-stage VC. Site returned HTTP 403 to the fetch tool on 2026-09-02.",
+    "reachable_investors": "unknown",
+    "cost": "free",
+    "url": "https://blume.vc/",
+    "how_to_apply_or_post": "unknown",
+    "contacts": "unknown",
+    "geography": "India.",
+    "typical_outcome": "unknown",
+    "notes": "NOT VERIFIED.",
+    "sources": [
+      "https://blume.vc/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Latitud (LatAm founders)",
+    "channel_type": "office_hours",
+    "description": "'Bridging LatAm to Silicon Valley; We write first checks for LatAm founders building good sh*t everywhere.' Fellowship program plus a fund. Offers 'intros to the best US funds'.",
+    "reachable_investors": "Latitud fund team (names not on the page).",
+    "cost": "unknown",
+    "url": "https://www.latitud.com/",
+    "how_to_apply_or_post": "Fellowship page at /fellowship; application URL not on the homepage.",
+    "contacts": "unknown",
+    "geography": "Latin America.",
+    "typical_outcome": "Early check 'with founder-friendly terms' plus network; amount unknown.",
+    "notes": "PARTIALLY VERIFIED.",
+    "sources": [
+      "https://www.latitud.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Elpha (women in tech community)",
+    "channel_type": "chat_community",
+    "description": "Community for women in tech. Fetch failed on 2026-09-02 ('certificate has expired').",
+    "reachable_investors": "unknown",
+    "cost": "unknown",
+    "url": "https://elpha.com/",
+    "how_to_apply_or_post": "unknown",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "unknown",
+    "notes": "NOT VERIFIED.",
+    "sources": [
+      "https://elpha.com/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Startup Grind (chapters and Startup Membership)",
+    "channel_type": "chat_community",
+    "description": "'a startup community in 120 countries delivering education, connections, and opportunities'. '300+ Chapters', '100+ Countries'. Offers Startup Membership, local events, annual conference, and separate investor/expert memberships.",
+    "reachable_investors": "Investor members (not named on the page).",
+    "cost": "unknown (membership price not shown; startup-program page returned 404)",
+    "url": "https://www.startupgrind.com/",
+    "how_to_apply_or_post": "Submit your startup to the membership program on the site; attend local chapter events.",
+    "contacts": "unknown (postal address only: 3790 El Camino Real, Unit 567, Palo Alto, CA 94306)",
+    "geography": "Global.",
+    "typical_outcome": "Events and intros; no direct investment.",
+    "notes": "PARTIALLY VERIFIED: pricing not confirmed.",
+    "sources": [
+      "https://www.startupgrind.com/",
+      "https://www.startupgrind.com/startup-program/"
+    ],
+    "verified_date": "2026-09-02"
+  }
+]

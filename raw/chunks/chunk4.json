@@ -1,0 +1,317 @@
+[
+  {
+    "name": "Kernel (KERNEL Fellowship)",
+    "type": "fellowship",
+    "stage": "Idea-stage: yes (individuals accepted; fellow roster includes independent builders, employees at large companies, artists and researchers; no company or product required). Inferred from the official roster; not stated as a rule.",
+    "check_size_terms": "No investment. Application is free. Earlier blocks charged a $400 fellow fee (~$1,200 for teams) with scholarships for students and underrepresented groups (per search results / Gitcoin blog). Current KB12 fee not verified on the official site.",
+    "sectors": "web3 / crypto / decentralized web; broad (technologists, artists, engineers, researchers, designers)",
+    "geography": "Global, remote (2,211 fellows in 92 countries)",
+    "website": "https://www.kernel.community/",
+    "application_url": "https://apply.kernel.community/ (note: DNS did not resolve from this machine on 2026-09-02; linked from the official site)",
+    "application_timing": "rolling ('Apply and hear back in two weeks'). Blocks are 8 weeks and run about 3 times a year. KB12 is the current block. Next deadline: unknown.",
+    "email": "unknown",
+    "twitter": "@kernel0x",
+    "partner_twitters": [],
+    "linkedin": "unknown",
+    "best_channel": "application form",
+    "notes": "Peer-to-peer learning community, not a capital program. It is built around repeated interactions with peers and the Kernel Book curriculum. 150+ active projects; fellows raised $40M+ (site claim).",
+    "sources": [
+      "https://www.kernel.community/",
+      "https://www.kernel.community/en/start/faq",
+      "https://x.com/Kernel0x",
+      "https://www.gitcoin.co/blog/t-kernel-scholarship"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Alliance (Alliance DAO)",
+    "type": "accelerator / fund",
+    "stage": "Idea-stage: yes (pre-product and pre-revenue teams welcome; pre-launch MVPs accepted; teams with traction also admitted). Stated on alliance.xyz.",
+    "check_size_terms": "$400,000 via SAFE at $4M post-money valuation, plus 1:1 token side letter (alliance.xyz, 2026-09-02)",
+    "sectors": "crypto, fintech, Web2.5",
+    "geography": "Global; 2-week in-person onboarding in New York City, then 8 weeks remote",
+    "website": "https://alliance.xyz/",
+    "application_url": "https://alliance.xyz/apply",
+    "application_timing": "batch. ALL19 starts 2027-01-11. Early admission deadline 2026-09-23; regular admission deadline 2026-11-18. Applications are reviewed all year; interview invites within 1 week.",
+    "email": "unknown",
+    "twitter": "@alliancedao",
+    "partner_twitters": [
+      "@QwQiao"
+    ],
+    "linkedin": "https://www.linkedin.com/company/alliancedao",
+    "best_channel": "application form (cold applications accepted; no intro needed)",
+    "notes": "Boutique accelerator that selects fewer than 1 in 200 teams. It prefers technical founders with ambitious projects. Mentors include Balaji Srinivasan and Kain Warwick; co-founders Qiao Wang and Imran Khan.",
+    "sources": [
+      "https://alliance.xyz/",
+      "https://alliance.xyz/apply",
+      "https://x.com/alliancedao",
+      "https://x.com/QwQiao",
+      "https://www.linkedin.com/company/alliancedao"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "a16z CSX (Crypto Startup Accelerator, formerly Crypto Startup School)",
+    "type": "accelerator / fund",
+    "stage": "Idea-stage: partial. Official text says 'early-stage startups building with blockchain technologies'. Technical founders with a clear product vision are preferred. No explicit pre-company acceptance found.",
+    "check_size_terms": "Minimum $500,000 per accepted company (a16zcrypto.com CSX 04 post, Jan 2025). Secondary sources report $500k for 7% equity. Current 2026 terms not verified on the official site.",
+    "sectors": "crypto / web3",
+    "geography": "Global applicants; full-time in-person in the host city (CSX 04 was San Francisco; cohort cities rotate)",
+    "website": "https://a16zcrypto.com/accelerator/",
+    "application_url": "https://apply.a16zcrypto.com/ (page title on 2026-09-02 still reads 'CSX Application Spring 2025')",
+    "application_timing": "batch, about 2 cohorts per year, 12 weeks each. Last verified deadline: 2025-02-07 for CSX 04 (Apr-Jun 2025). Next 2026 deadline: unknown; current cohort status unknown.",
+    "email": "unknown",
+    "twitter": "@a16zcrypto",
+    "partner_twitters": [],
+    "linkedin": "unknown",
+    "best_channel": "application form",
+    "notes": "Program gives capital, an expert network and a cohort of web3 teams; curriculum covers PMF, tokenization, GTM, fundraising and regulation. 100+ portfolio companies, for example Phantom and Pimlico.",
+    "sources": [
+      "https://a16zcrypto.com/accelerator/",
+      "https://a16zcrypto.com/csx/",
+      "https://a16zcrypto.com/posts/article/apply-to-join-the-csx-04-cohort-in-san-francisco-this-spring/",
+      "https://apply.a16zcrypto.com/",
+      "https://superscout.co/program/a16z-csx-crypto-startup-accelerator"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Boost VC",
+    "type": "fund / fellowship",
+    "stage": "Idea-stage: yes for the $50k Fellowship (FAQ: founders 'just getting started'). The $500k pre-seed check is for teams raising a pre-seed round of $2M or less.",
+    "check_size_terms": "$500k to lead or co-lead pre-seed rounds (flexible $100k-$1M; can be first and only check). $50k Fellowship check for earliest founders. Valuation and instrument not stated on the official site (secondary: $3M-$7M valuations).",
+    "sectors": "deep tech / 'sci-fi': robotics, AI, bio, health, space, nuclear, climate, energy, crypto, AR/VR, ocean tech",
+    "geography": "unknown (firm based in San Mateo, CA)",
+    "website": "https://www.boost.vc/",
+    "application_url": "https://boostvc.fillout.com/t/ks1XwgcaYJus ($500k pitch form); https://boostvc.fillout.com/founder_start_50k ($50k Fellowship)",
+    "application_timing": "rolling (about one investment per week; next steps within a week after the first call)",
+    "email": "unknown",
+    "twitter": "unknown",
+    "partner_twitters": [
+      "@AdamDraper",
+      "@BraytonKey"
+    ],
+    "linkedin": "unknown",
+    "best_channel": "application form (FAQ accepts cold applications) or warm intro",
+    "notes": "Stated bar: 'your company must make 1 Billion lives better'. Looks for social, technical or regulatory pressure that forces change. 70+ investments per year; exits include Coinbase.",
+    "sources": [
+      "https://www.boost.vc/",
+      "https://www.boost.vc/faq",
+      "https://boostvc.fillout.com/t/ks1XwgcaYJus",
+      "https://x.com/AdamDraper",
+      "https://x.com/BraytonKey"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Draper Associates",
+    "type": "fund",
+    "stage": "Idea-stage: partial. Secondary sources say pre-seed to Series A. The official pitch form asks for traction, monthly revenue and funds raised, so pre-company founders are not the main target.",
+    "check_size_terms": "unknown on the official site (secondary sources: $250k-$5M)",
+    "sectors": "AI, robotics and automation; crypto and blockchain; healthcare and biotech; aerospace and space; unconventional ideas",
+    "geography": "Global; HQ San Mateo, CA",
+    "website": "https://www.draper.vc/",
+    "application_url": "https://www.draper.vc/contact ('SUBMIT YOUR PITCH' form; deck PDF up to 10MB)",
+    "application_timing": "rolling",
+    "email": "andy@draper.vc (listed for Limited Partner inquiries only; no founder pitch email on the site)",
+    "twitter": "@DraperVC",
+    "partner_twitters": [
+      "@TimDraper",
+      "@andytangvc"
+    ],
+    "linkedin": "https://www.linkedin.com/company/draper-associates/",
+    "best_channel": "application form (cold pitch form accepted)",
+    "notes": "400+ companies since 1985, $2.3B AUM, 60+ unicorns (site claims). Tim Draper prefers 'pro-noid' founders and dislikes pitches that focus on exits (secondary source).",
+    "sources": [
+      "https://www.draper.vc/",
+      "https://www.draper.vc/contact",
+      "https://www.draper.vc/team",
+      "https://superscout.co/investor/draper-associates"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Draper University (Hero Training)",
+    "type": "accelerator (paid bootcamp, not a fund)",
+    "stage": "Idea-stage: mixed. The general Hero Training bootcamp targets individuals aged 18-28 and accepts idea-stage founders (Wikipedia). The 2026 Astana Hub partner cohort required MVP stage or higher.",
+    "check_size_terms": "No investment. Tuition for the 2026 Astana Hub cohort: $10,000 (non-residents) or $2,990 (technopark residents), travel excluded. A 2023 Golden Ticket valued the full package at about $14,000. Current general tuition not verified: the official site is JavaScript-rendered and returned no text.",
+    "sectors": "generalist tech",
+    "geography": "In-person in San Mateo, CA; international participants",
+    "website": "https://draperuniversity.com/",
+    "application_url": "https://draperuniversity.com/program_hero (official page did not render in text fetch); 2026 partner cohort: https://astanahub.com/account/service/hero_training/request/513/create/",
+    "application_timing": "batch. Hero Training 2026 ran 2026-04-20 to 2026-05-22 (deadline 2026-03-07, passed). Next cohort: unknown.",
+    "email": "unknown",
+    "twitter": "unknown",
+    "partner_twitters": [
+      "@TimDraper"
+    ],
+    "linkedin": "unknown",
+    "best_channel": "application form",
+    "notes": "Five-week program with 8-12 modules, 40+ speakers, co-living on campus and access to the Draper network. Hero Training gives no funding; graduates may pitch Draper ecosystem investors. Partner cohorts (Astana Hub, IT Park Uzbekistan) have their own rules and contact (programs@astanahub.com).",
+    "sources": [
+      "https://draperuniversity.com/",
+      "https://astanahub.com/en/l/hero-training1",
+      "https://en.wikipedia.org/wiki/Draper_University",
+      "https://siliconcanals.com/events/drapers-silicon-spring-pitch-prize/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Mercury Raise",
+    "type": "founder platform / investor matching (free; not a fund)",
+    "stage": "Idea-stage: unclear. The official blog says the platform serves founders 'across stages and industries'. No stage rule verified.",
+    "check_size_terms": "No investment. Free. Investor Connect sends one pitch to hundreds of investors (2023 blog). The free Investor Database (295 investors) is live at https://mercury.com/investor-database.",
+    "sectors": "all",
+    "geography": "unknown",
+    "website": "https://mercury.com/raise (returned HTTP 308 redirect to https://mercury.com/ on 2026-09-02)",
+    "application_url": "unknown (Raise page redirects to the homepage); self-serve tool: https://mercury.com/investor-database",
+    "application_timing": "unknown. Program status unclear: the Raise page redirects to the homepage; the last official blog post is dated 2023-09-18. The Investor Database tool is live.",
+    "email": "help@mercury.com (general support address on the official site; not a program address)",
+    "twitter": "@mercury",
+    "partner_twitters": [
+      "@immad"
+    ],
+    "linkedin": "https://www.linkedin.com/company/mercuryhq",
+    "best_channel": "self-serve tool (Investor Database); application form when Investor Connect is live",
+    "notes": "Mercury Raise moved from seasonal cohorts to an always-on platform in 2023 with Investor Connect, a founder Slack community and office hours. Check the live site before you rely on Investor Connect.",
+    "sources": [
+      "https://mercury.com/raise",
+      "https://mercury.com/blog/the-next-step-for-mercury-raise",
+      "https://mercury.com/blog/mercury-raise",
+      "https://mercury.com/investor-database",
+      "https://www.linkedin.com/company/mercuryhq"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Contrary (Contrary Capital)",
+    "type": "fund",
+    "stage": "Idea-stage: yes. Talent-first firm; secondary sources say it backs people pre-company. The official site says 'from seed to scale' and runs an open applications portal.",
+    "check_size_terms": "unknown on the official site (secondary sources: $100k-$2M, sweet spot $500k-$1M)",
+    "sectors": "generalist: biotech, fintech, defense, robotics, aerospace, prediction markets, education, healthcare",
+    "geography": "US; campus venture partner network (Stanford, MIT, Harvard, Berkeley, Waterloo and others)",
+    "website": "https://contrary.com/",
+    "application_url": "https://applications.contrary.com/",
+    "application_timing": "rolling (open applications portal; no deadline found)",
+    "email": "unknown (campus venture partner addresses such as stanford@vp.contrary.com exist, but they are for the venture partner program)",
+    "twitter": "@contrary",
+    "partner_twitters": [
+      "@etarczynski"
+    ],
+    "linkedin": "https://www.linkedin.com/company/contrarycapital",
+    "best_channel": "application form (cold applications accepted per secondary sources) or campus venture partner intro",
+    "notes": "Tracks exceptional people years before they found companies. Founder and managing partner Eric Tarczynski. Portfolio includes Ramp, Anduril and AtoB.",
+    "sources": [
+      "https://contrary.com/",
+      "https://contrary.com/investments",
+      "https://contrary.com/team",
+      "https://applications.contrary.com/",
+      "https://superscout.co/investor/contrary-capital"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Dorm Room Fund",
+    "type": "fund (student-run)",
+    "stage": "Idea-stage: yes ('No idea is too early for Dorm Room Fund'). The company must be incorporated in the U.S., and one founder must be in school or within one year of graduation.",
+    "check_size_terms": "$90K-$250K targeting about 1.3% ownership (official apply page). Secondary sources: uncapped SAFE with MFN.",
+    "sectors": "generalist",
+    "geography": "US-incorporated companies; operations can be international",
+    "website": "https://www.dormroomfund.com/",
+    "application_url": "https://airtable.com/embed/shrIkIQTZqkdcS05v (linked from https://www.dormroomfund.com/apply)",
+    "application_timing": "rolling",
+    "email": "info@dormroomfund.com",
+    "twitter": "@DormRoomFund",
+    "partner_twitters": [],
+    "linkedin": "https://www.linkedin.com/company/dorm-room-fund",
+    "best_channel": "application form; cold email possible",
+    "notes": "Five-step process: application, first call, second call, regional team pitch, onboarding. Wants founders who 'have gone unreasonably deep' on the idea. 300+ companies backed; $6B+ follow-on raised (site claim).",
+    "sources": [
+      "https://www.dormroomfund.com/",
+      "https://www.dormroomfund.com/apply",
+      "https://twitter.com/DormRoomFund",
+      "https://www.linkedin.com/company/dorm-room-fund"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Backstage Capital",
+    "type": "fund",
+    "stage": "Idea-stage: historically yes (pre-seed checks for underrepresented founders). Not accepting new applications now.",
+    "check_size_terms": "unknown (no current terms on the official site)",
+    "sectors": "generalist",
+    "geography": "US-focused (Los Angeles, San Francisco team); founders who identify as women, People of Color or LGBTQ",
+    "website": "https://backstagecapital.com/",
+    "application_url": "https://backstagecapital.com/apply-2/ (closed)",
+    "application_timing": "paused. The apply page says: 'We are not accepting new funding applications at this time. Check back in 2025 for any new announcements here!' (still shown on 2026-09-02). Dec 2024: Arlan Hamilton moved to chair; 360 Venture Collective co-manages and a $200M fund was planned for 2025. No verified launch.",
+    "email": "unknown (contact page uses web forms)",
+    "twitter": "@Backstage_Cap",
+    "partner_twitters": [
+      "@arlanwashere"
+    ],
+    "linkedin": "unknown",
+    "best_channel": "none for funding now; contact form or newsletter (The Mixtape)",
+    "notes": "Paused net-new investments in 2022 and cut staff to three. Runs the Green Room mentorship program and a weekly newsletter. Treat as inactive for new checks until the site changes.",
+    "sources": [
+      "https://backstagecapital.com/",
+      "https://backstagecapital.com/apply-2/",
+      "https://backstagecapital.com/contact/",
+      "https://backstagecapital.com/crew/",
+      "https://urbangeekz.com/2024/12/arlan-hamilton-backstage-capital/",
+      "https://techcrunch.com/2022/06/26/backstage-capital-cuts-majority-of-staff-after-pausing-net-new-investments/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Rough Draft Ventures (now GC Venture Fellows, General Catalyst)",
+    "type": "fund / grant (student-run)",
+    "stage": "Idea-stage: yes. The GC Venture Fellowship has a starter grant track for founders at the earliest stage and an equity track for a first equity round (official announcement, 2024-01-26).",
+    "check_size_terms": "Equity track and starter grant track; amounts not stated on the official site (secondary source: $25,000 SAFE without governance rights)",
+    "sectors": "generalist",
+    "geography": "Student founders, mainly US / North America campuses (secondary source: 35+ campuses)",
+    "website": "https://www.generalcatalyst.com/venture-fellows (gc-fellows.com redirects here; roughdraft.vc has an expired TLS certificate)",
+    "application_url": "https://airtable.com/appslPddN0o2Hymcu/shrykFVbaFXmZvpBG",
+    "application_timing": "unknown. Program is active under the new name (renamed 2024-01-26). No deadline found.",
+    "email": "unknown",
+    "twitter": "@GCVentureFellow",
+    "partner_twitters": [
+      "@bonatsos",
+      "@jonnyjzhang"
+    ],
+    "linkedin": "https://www.linkedin.com/company/rough-draft-ventures",
+    "best_channel": "application form; warm intro via a student fellow on campus",
+    "notes": "Student fellows source and back student founders 'no matter where they are in their company-building process'. Support includes AWS, HubSpot and Brex credits and intros to General Catalyst partners. Alumni include Notion and WHOOP (secondary source).",
+    "sources": [
+      "https://www.generalcatalyst.com/stories/introducing-the-gc-venture-fellowship",
+      "https://www.generalcatalyst.com/venture-fellows",
+      "https://x.com/generalcatalyst/status/1750905092038066199",
+      "https://www.linkedin.com/company/rough-draft-ventures",
+      "https://superscout.co/program/rough-draft-ventures"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Unshackled Ventures",
+    "type": "fund",
+    "stage": "Idea-stage: yes ('Day 0 founders'; backs founders pre-product, pre-revenue and pre-visa; the pitch form accepts ideation stage).",
+    "check_size_terms": "unknown on the official site ('First check is our sweet spot'). Secondary sources vary: $100k-$750k.",
+    "sectors": "generalist; bold technical founders",
+    "geography": "US; immigrant founders who need US work authorization support",
+    "website": "https://www.unshackledvc.com/",
+    "application_url": "https://www.unshackledvc.com/pitch-us",
+    "application_timing": "rolling ('We review and respond to every submission')",
+    "email": "unknown",
+    "twitter": "unknown (secondary source lists @UnshackledUS; not verified on the official site)",
+    "partner_twitters": [],
+    "linkedin": "unknown",
+    "best_channel": "application form ('No warm intro needed. No deck required.')",
+    "notes": "Free immigration platform (300+ filings) and it can act as employer for founders on visas while the startup keeps all IP and equity. Team: Manan Mehta (founding partner), Shaherose Charania, Eric Ries; Nitin Pachisia is partner emeritus. Co-investors include First Round, General Catalyst and YC.",
+    "sources": [
+      "https://www.unshackledvc.com/",
+      "https://www.unshackledvc.com/pitch-us",
+      "https://www.unshackledvc.com/team",
+      "https://superscout.co/investor/unshackled-ventures"
+    ],
+    "verified_date": "2026-09-02"
+  }
+]

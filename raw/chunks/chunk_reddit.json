@@ -1,0 +1,496 @@
+[
+  {
+    "name": "r/startups",
+    "channel_type": "subreddit",
+    "description": "Largest general startup subreddit. Third-party directories list 1.2M to 1.9M members (thevccorner.com, 2026-04-01: 1.9M; growreddit.com: 1.2M+). Discussion-only feed: every post title must carry the phrase 'I will not promote' (observed on all 25 posts in the live RSS feed on 2026-09-02). Promotion is confined to a mod-run 'Share your startup - quarterly post' (posted 2026-07-11 by mod u/julian88888888) and to AutoModerator weekly threads: '[Hiring/Seeking/Offering] Jobs / Co-Founders Weekly Thread' (Mondays) and 'Feedback Friday' (Fridays).",
+    "reachable_investors": "No verified investor roster; no investor flair. Investor and fundraising AMAs recorded in the sub: Jason Calacanis (LAUNCH) was scheduled for a live Reddit Talk AMA on 2021-09-02 (question thread pbk125, mod u/GaryARefuge); the mod team announced on 2021-09-01 that 'JASON HAS REQUESTED RESCHEDULING THE EVENT' and no rescheduled event was found; David S. Rose, Founder of New York Angels ('invested over $150 million into more than 450 startup companies'), u/David_S_Rose, AMA 2024-11-18 (run in r/IAmA, announced in r/startups); Aleem Mawani (Streak, YC founder) AMA hosted by mod u/julian88888888, 2025-06-27; a startup CFO AMA on 'dilution, cap tables, SAFEs, term sheets', 2025-09-06; Stripe Atlas staff AMA 'about incorporation and fundraising', 2026-06-17.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/startups/",
+    "how_to_apply_or_post": "1) Add 'I will not promote' to every post title; posts without it are removed. 2) Do not post a fundraising ask; the Share Your Startup template says: 'Do NOT solicit funds publicly--this may be illegal for you to do so'. 3) To show your startup, comment in the current quarterly 'Share your startup' sticky with the template: Startup Name / URL, Location of HQ, Elevator Pitch/Explainer Video, life-cycle stage, your role, goals this month, 'How could r/startups help?', discount for subscribers. 4) Co-founder or hiring asks go only in the Monday weekly thread. 5) Product feedback goes in Feedback Friday. 6) Third-party rule summaries add: no direct sales/ads (Rule 2), 250-character minimum, no self-links in comments, flair required, AutoModerator filters new/low-karma accounts.",
+    "contacts": "Moderators seen: u/julian88888888 (posts the quarterly Share Your Startup thread), u/GaryARefuge (ran the 2021 AMA program). Use 'message the mods' on the subreddit. No email published.",
+    "geography": "Global, English, US-centric.",
+    "typical_outcome": "Feedback and peer advice, not checks. Fundraising posts framed as questions ('Watched founders pitch a managing partner today', 'LinkedIn Family Office unsolicited are spam, right?') get discussion. Direct asks for investors are removed.",
+    "notes": "Removal triggers: missing 'I will not promote' in title, any pitch or link in the main feed, investor or co-founder solicitation as a standalone post, crowdfunding links. Rules page itself could not be fetched (Reddit blocks non-browser fetches); rules are reconstructed from the live feed, the sticky template, and three third-party rule summaries. Mark: partially verified.",
+    "sources": [
+      "https://www.reddit.com/r/startups/.rss",
+      "https://www.reddit.com/r/startups/comments/1utpfsi/share_your_startup_quarterly_post/",
+      "https://www.reddit.com/r/startups/comments/pbk125/post_your_questions_for_jason_calacanis_live/",
+      "https://www.reddit.com/r/startups/search.rss?q=AMA&restrict_sr=on&sort=new",
+      "https://www.reddit.com/r/startups/comments/1gtzs01/i_am_david_s_rose_founder_of_new_york_angels_ama/",
+      "https://www.growreddit.com/blog/reddit-self-promotion-rules-startups",
+      "https://www.redditmaster.com/subreddit-rules/startups",
+      "https://www.welaunch.sh/reddit/startups",
+      "https://www.thevccorner.com/p/20-best-subreddits-for-startup-founders-2026"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/venturecapital",
+    "channel_type": "subreddit",
+    "description": "Subreddit titled 'Venture capital news and articles, for the VC industry'. Mix of VC staff, aspiring VCs, and founders. Third-party directories give 67k to 95k members (thevccorner.com 2026-04: 67k; growreddit.com: 70k+ and 95k+). Live feed on 2026-09-02 shows fund-ops questions (TVPI vs DPI, 'Anyone else working at a dead VC?') and founder questions about pitching.",
+    "reachable_investors": "Occasional investor AMAs: Gonzalo Martinez de Azagra, founder and GP at Cardumen Capital, AMA on 2025-10-23 (posted by u/Necessary_Jackfruit5); Ivan Kirigin (Tango.vc) 'Raising a Fund in Public' 2021-03-24 (u/ivankirigin); u/markhary, Executive-in-Residence at Vonzos Partners, Q&A 2019-03-06. Members who identify as angels comment (for example u/b_an_angel). No verified-investor flair system was found.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/venturecapital/",
+    "how_to_apply_or_post": "Ask process questions ('How to reach out to a VC firm?', 'What's a reasonable response rate when raising a seed round?'). Direct pitches are posted ('Raising 2 million Pre-seed for Polar Ace', 2026-04-20; 'Looking for Investor in Dental Hospital India', 2026-08-31) and stay up, but thevccorner.com states the sub is 'not the place to pitch your deck' and leadreddit.com rates self-promotion tolerance 6/10: 'answer the question first, disclose your affiliation, and never lead with a link'. Best time per leadreddit: 13:00-17:00 UTC.",
+    "contacts": "Moderators unknown; use 'message the mods'. No email published.",
+    "geography": "Global, US-centric; some Brazil, Spain, India posters.",
+    "typical_outcome": "Answers from people inside funds. Cold pitch posts get few comments and no recorded investment. No check sizes recorded.",
+    "notes": "The rules page could not be fetched; no Wayback snapshot of the rules page exists, and the archived front page (2026-03-10) shows no sidebar rules. subredditstats.com labels the sub 'quarantined'; this looks like stale site data and is not confirmed. Mark: partially verified.",
+    "sources": [
+      "https://www.reddit.com/r/venturecapital/.rss",
+      "https://www.reddit.com/r/venturecapital/search.rss?q=AMA&restrict_sr=on&sort=new",
+      "https://www.reddit.com/r/venturecapital/search.rss?q=pitch&restrict_sr=on&sort=new",
+      "https://www.reddit.com/r/venturecapital/comments/1oe3qg2/reddit_im_gonzalo_mart%C3%ADnez_de_azagra_founder_and/",
+      "https://leadreddit.com/reddit/venturecapital",
+      "https://leadline.dev/guides/reddit-subreddits/r-venturecapital",
+      "https://www.growreddit.com/best-subreddits-for-venture-capital",
+      "https://www.thevccorner.com/p/20-best-subreddits-for-startup-founders-2026",
+      "https://web.archive.org/web/20260310180606/https://old.reddit.com/r/venturecapital"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/angelinvestors",
+    "channel_type": "subreddit",
+    "description": "Self-described 'The due diligence hub for high-growth startups and angel investors. Stress-test your pitch deck, validate valuations, and discuss...' (subreddit description shown in search snippet). 20,848 readers in the 2025-07-25 Wayback snapshot. The live feed on 2026-09-02 is almost entirely founder pitches: 'Seeking Angel Investors - GPS wearable device', 'Raising $75K for a Mobile Wellness & Recovery Experience', 'raising $500K SAFE at $5M cap'. It is the one large subreddit where open pitching is the norm.",
+    "reachable_investors": "No named, verified angels. Posters who describe themselves as angels reply in threads. Pinned post 'Founders if you are posting, please read this first' sets the pitch rules.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/angelinvestors/",
+    "how_to_apply_or_post": "1) Read the pinned 'Founders if you are posting, please read this first', which links to the wiki page /r/angelinvestors/wiki/seeking-investment-requirements. The wiki (snapshot 2025-04-23) sets expectations by category: SaaS 'Demonstrate initial user adoption or revenue (e.g., 6+ months of MRR or user growth). Pre-revenue is acceptable if the market opportunity is compelling'; hardware 'at least a functional prototype'; deep tech 'Team Expertise' and milestones; consumer 'Market Validation'. Deck sections: Problem/Solution, Market Opportunity, Product/Traction, Business Model, Team, Use of Funds. 2) Use post flair: 'Seeking Investment', 'Investor Interest', 'Investor Discussion', 'Startup Update', 'Lessons Learned'. 3) Write a complete pitch; AutoModerator removes 'incomplete pitches' (a founder reported four removals on 2026-08-31 before the post stayed up). Include problem, product, traction, team, ask, and terms (example that stayed up: '$500K SAFE at $5M cap'). 4) Use the AutoModerator 'Weekly Expertise & Resource Exchange' (every Wednesday) for non-monetary asks; its template: OFFERING: Expertise, Capacity, Evidence; SEEKING: 'The Bottleneck: (e.g., Need a warm intro to a Fintech-focused seed fund)', 'The Context: (e.g., Post-revenue SAAS, $20k MRR, expanding to UK)', 'The Trade'.",
+    "contacts": "Moderators unknown; message the mods. No email published.",
+    "geography": "Global; many posts from India, GCC, UK, Philippines, Korea, US.",
+    "typical_outcome": "Mostly silence or a few comments. No public record of a closed round from a post. Expect DMs from lead-generation services and possible scammers. General solicitation on a public forum can have securities-law consequences (Reg D 506(c) in the US); the r/startups template warns the same.",
+    "notes": "Removal reason observed: incomplete pitch. The sub banner read 'Rebuilding. Please see relevant announcement.' in April 2025; the wiki was last revised by u/vanderlinden. The formal rules page could not be fetched. Mark: partially verified (Wayback front page 2025-07-25, wiki 2025-04-23, live RSS 2026-09-02).",
+    "sources": [
+      "https://www.reddit.com/r/angelinvestors/.rss",
+      "https://www.reddit.com/r/angelinvestors/search.rss?q=pitch&restrict_sr=on&sort=new",
+      "https://www.reddit.com/r/angelinvestors/comments/1w3sezm/seeking_angel_investors_gps_wearable_device/",
+      "https://web.archive.org/web/20250725195435/https://old.reddit.com/r/angelinvestors/",
+      "https://web.archive.org/web/20250423064931/https://www.reddit.com/r/angelinvestors/wiki/seeking-investment-requirements",
+      "https://www.reddit.com/r/angelinvestors/comments/1vz2432/weekly_expertise_resource_exchange/",
+      "https://search.brave.com/search?q=site%3Areddit.com+r%2Fangelinvestors"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/AngelInvesting",
+    "channel_type": "subreddit",
+    "description": "'A subreddit for individuals that are involved or interested in the angel investing space' (subreddit description). 5,954 subscribers in the 2025-05-14 Wayback snapshot. Live feed on 2026-09-02 is dominated by founder asks ('looking for investor', 'Canadian Company looking for investor(s)', 'Building a Premium Modest Fashion Brand in Dubai'). Pinned: 'Active Angel Groups - Megathread (2021)' by u/loshofficial, a list of angel groups and programs that accept applications (Seattle Angel Conference, SBIR, and others).",
+    "reachable_investors": "No verified angels. Some members post as small-check angels ('I've been angel investing for about a year now', 2026-01-13).",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/AngelInvesting/",
+    "how_to_apply_or_post": "Post a short pitch with traction and the ask, or use the megathread's list of angel groups and apply to them directly. r/Angel_Investors does not exist (HTTP 404 on 2026-09-02).",
+    "contacts": "u/loshofficial (posted the megathread, 2021). No email published.",
+    "geography": "Global; India, UAE, Canada, US, East Africa posters seen.",
+    "typical_outcome": "Low engagement; small community. Best use is the angel-group list in the pinned megathread.",
+    "notes": "Rules page not fetched. Mark: partially verified.",
+    "sources": [
+      "https://www.reddit.com/r/AngelInvesting/.rss",
+      "https://www.reddit.com/r/AngelInvesting/comments/krz9nt/active_angel_groups_megathread_2021/",
+      "https://web.archive.org/web/20250514010422/https://old.reddit.com/r/AngelInvesting",
+      "https://www.reddit.com/r/Angel_Investors/.rss"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/Entrepreneur",
+    "channel_type": "subreddit",
+    "description": "Broad business subreddit; the mod team announced '5 Million Subscribers' on 2025-12-19 and launched the official '/r/Entrepreneur AMA Podcast' (host mod u/FITGuard). Runs AutoModerator weekly threads seen in the live feed: 'Monday mentorship: ask anything', 'Talent Tuesday: Services and Collabs', 'Sunday Steam: Vent It or Roast It'; a third-party summary adds 'Success Saturday'. Also runs an '/r/Entrepreneur Podcast' AMA series posted by mod u/FITGuard (Episode 005: AMA Kenny Brown & Hamet Watt, 2026-06-23).",
+    "reachable_investors": "Official podcast AMA guests in 2026: Lorenzo Thione, Managing Director, Gaingels (Episode 002, 2026-02-11); Gabe Galvez, private equity (Episode 004, 2026-04-24); Hamet Watt, founder and CEO of Share Ventures (Episode 005, 2026-06-23). Earlier: Eric Bahn, co-founder of Hustle Fund (u/ebahnx), AMAs on 2018-07-24 and 2018-11-06 ('answering your questions about fundraising, pitching, and VC games'). Other AMAs by investors and funded founders: 'I left Cruise to build AI for personal finance... We just raised $3.1M. AMA' (2026-09-01); Boardy (AI scout program and fund) AMA 2026-01-13; Rami (venture partner, YC and Techstars alum) AMA 2021-07-01; Jim Hornthal (founder, investor, professor) AMA 2019-02-21. No standing verified-investor list.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/Entrepreneur/",
+    "how_to_apply_or_post": "Sidebar rules (verbatim, Wayback 2026-08-06): '1) No promotion, sales, or solicitation: Do not use this community to sell, promote, recruit, hire, job-seek, solicit investment, or drive traffic to your profile, company, or external content. No dropping URLs, asking users to DM you, telling people to check your profile, or offering private resources. No crypto or investment pitches. Free offers and promotions belong only in the designated weekly threads. Violations may result in a permanent ban.' '3) Posting requirements: You must participate in the comments of other posts on this subreddit before posting yourself.' '4) Original and human content only... AI-generated posts or comments are not permitted.' '5) AMAs must be approved: Amas requests can be sent directly to modmail.' AMA request format: Subject 'AMA Request (Your Name)'; body: 'Date(M-F only), your background/experience, some form of validation (LinkedIn, Website, IG, etc)'. Weekly stickies: Mentor Monday, Talent Tuesday (jobs and services), Thank You Thursday (free offers), Feedback Friday (website or portfolio feedback), Success Saturday, Sunday Steam. So: ask funding questions as discussion; never post an investment ask; request an AMA by modmail if you have a verifiable story.",
+    "contacts": "Mod u/FITGuard (podcast AMAs). Moderator applications were open on 2026-09-01 (post by u/mod-recruit). No email published.",
+    "geography": "Global, US-centric.",
+    "typical_outcome": "Advice and visibility. First violation: post removal; repeat: temporary or permanent ban (redditmaster.com).",
+    "notes": "Verified: sidebar rules via Wayback snapshot of old.reddit.com (2026-08-06) plus live RSS. Investment asks are an explicit ban (Rule 1).",
+    "sources": [
+      "https://www.reddit.com/r/Entrepreneur/.rss",
+      "https://www.reddit.com/r/Entrepreneur/search.rss?q=AMA+investor&restrict_sr=on&sort=new",
+      "https://www.reddit.com/r/Entrepreneur/comments/1udp3ei/episode_005_ama_kenny_brown_hamet_watt/",
+      "https://web.archive.org/web/20260806135948/https://old.reddit.com/r/Entrepreneur",
+      "https://www.reddit.com/r/Entrepreneur/search.rss?q=AMA+podcast&restrict_sr=on&sort=new",
+      "https://www.reddit.com/r/Entrepreneur/comments/1r2cj77/episode_002_ama_lorenzo_thione_managing_director/",
+      "https://www.reddit.com/r/Entrepreneur/comments/91j755/i_raised_115m_to_invest_in_preseed_stage_startups/",
+      "https://www.redditmaster.com/subreddit-rules/entrepreneur",
+      "https://leadreddit.com/reddit/Entrepreneur",
+      "https://www.thevccorner.com/p/20-best-subreddits-for-startup-founders-2026"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/SaaS",
+    "channel_type": "subreddit",
+    "description": "Community for SaaS founders; leadreddit.com reports 768.4k members. Sidebar rules (Wayback 2026-08-02) and a 2026-06-09 mod post 'New rule banning a SaaS product category: No Promotional or Advertising SaaS'.",
+    "reachable_investors": "None verified. Founders with exits post advice.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/SaaS/",
+    "how_to_apply_or_post": "Sidebar rules (verbatim, 2026-08-02 snapshot): '1. Submission Guidelines... avoid non-productive self-promotion. No spam.' '2. No Direct Sales Or Non-Productive Self-Promotion: Please don't mention your SaaS/blog/company unless it's relevant and actually helpful... No PM requests please.' '3. Posting SaaS Relevant Content Only'. '4. Blog Posts Rules: ...The only way a link is allowed is at the end of the post'. '5. Be Kind And Supportive'. '6. Other Bad Behaviour: Doxing, Flooding, Duplicates, Plagiarism, Hyping, Missing'. '7. Politicizing'. leadreddit.com lists the expanded rule set: 'Posts or comments focused on selling services, soliciting clients, or asking for donations/funding are not allowed'; max 1 product mention per 60 days; AMAs, surveys, polls need mod pre-approval.",
+    "contacts": "Mod u/Dubinko (recruited mods 2026-07-27), u/ergonet (posted the new rule 2026-06-09). No email.",
+    "geography": "Global.",
+    "typical_outcome": "Peer feedback on pricing, churn, growth. Not a funding channel; funding asks are removed.",
+    "notes": "Verified: sidebar rules via Wayback snapshot of old.reddit.com (2026-08-02) and live RSS. Fundraising asks are banned.",
+    "sources": [
+      "https://web.archive.org/web/20260802121138/https://old.reddit.com/r/SaaS/",
+      "https://www.reddit.com/r/SaaS/.rss",
+      "https://www.reddit.com/r/SaaS/comments/1u0z4vz/new_rule_banning_a_saas_product_category_no/",
+      "https://leadreddit.com/reddit/SaaS"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/ycombinator",
+    "channel_type": "subreddit",
+    "description": "Sidebar: 'Discuss YC and YC-related news'. Community-run, not an official YC channel; mod u/sandslashh maintains the pinned 'YC Resources {Please read this first!}' (2023-04-26) and batch megathreads ('Fall '26 Megathread', 2026-07-06). Directories list about 180k+ members (growreddit.com). Live feed: 'YC founders how did you find networking with investors?', 'When is the right time to start building relationships with VCs?', 'AMA with founder in the current YC S26 batch' (2026-08-24).",
+    "reachable_investors": "No YC partners verified as posters. Current-batch YC founders run AMAs. The real investor route is the YC application linked in the YC Resources post ('Apply to YC', 'Guide to Seed Fundraising', 'Co-Founder Matching', 'SAFE Documents').",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/ycombinator/",
+    "how_to_apply_or_post": "Rules page (verbatim, Wayback 2026-07-28): '1. Read the stickied post at the top of the sub.' '2. Don't be a jerk.' '3. Use the search before making a new post.' '4. Use the megathreads for feedback and application discussions.' '5. No self promotion.' '6. No hiring or co-founder search posts... Please use the cofounder matching tool at https://www.ycombinator.com/cofounder-matching.' '7. No memes, politics, or shitposts.' '8. No solicitation of surveys, DMs, external groups, etc.' '9. No unplanned AMAs.' '10. No discussions about VCs or other accelerators. These posts are better fitted for r/startups or r/startupaccelerators.' So: post application, cofounder, and fundraising-process questions; put product feedback in the RFF megathread; arrange AMAs with mods first; do not pitch.",
+    "contacts": "Mod u/sandslashh. No email.",
+    "geography": "Global, US-centric.",
+    "typical_outcome": "Advice from YC applicants and alumni. No funding from the sub itself.",
+    "notes": "Verified: full rules page via Wayback (2026-07-28). Rule 10 bans VC discussion, so investor outreach is off-topic here.",
+    "sources": [
+      "https://www.reddit.com/r/ycombinator/.rss",
+      "https://www.reddit.com/r/ycombinator/comments/12z5k88/yc_resources_please_read_this_first/",
+      "https://web.archive.org/web/20260728122131/https://old.reddit.com/r/ycombinator/about/rules/",
+      "https://web.archive.org/web/20260728124346/https://old.reddit.com/r/ycombinator/",
+      "https://leadreddit.com/reddit/ycombinator",
+      "https://www.growreddit.com/best-subreddits-for-startups"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/EntrepreneurRideAlong",
+    "channel_type": "subreddit",
+    "description": "Build-in-public subreddit; thevccorner.com (2026-04) lists 609k members. Posts by u/GoodMacAuth ('Happy National Small Business Week from Reddit!', 2026-05-05; 'We're looking for moderators!', 2025-08-11) indicate Reddit staff involvement in moderation. Live feed: progress logs, first-customer stories, tooling questions.",
+    "reachable_investors": "None verified.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/EntrepreneurRideAlong/",
+    "how_to_apply_or_post": "leadreddit.com rates promotion tolerance 6/10: share verified numbers and timelines, disclose affiliation, do not lead with links, avoid 'vague networking requests'. Post journey updates with real metrics.",
+    "contacts": "u/GoodMacAuth (Reddit-side poster). No email.",
+    "geography": "Global.",
+    "typical_outcome": "Visibility and peer feedback; no investor channel.",
+    "notes": "Rules page not fetched; no Wayback snapshot. Mark: partially verified.",
+    "sources": [
+      "https://www.reddit.com/r/EntrepreneurRideAlong/.rss",
+      "https://leadreddit.com/reddit/EntrepreneurRideAlong",
+      "https://www.thevccorner.com/p/20-best-subreddits-for-startup-founders-2026"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/fintech",
+    "channel_type": "subreddit",
+    "description": "Fintech industry discussion; 46,152 readers in the 2025-08-02 Wayback snapshot. Pinned on 2026-09-02: 'Weekly Thread: Self-Promotion, Surveys & Partnerships' and 'Monthly Megathread: Fintech Schools, CVs & Career Advice', both posted by mod u/tradestreaming (2026-04-13/14). Sidebar rules (verbatim): 'types of links we publish: We like stories and topics that add to the general discussion of fintech. We encourage links and posts that challenge the status quo or that require a back and forth.' 'types of links we don't love: We generally don't love basic press releases about this or that startup raising money or lists about the top startups in this or that country. Bring something of value.'",
+    "reachable_investors": "None verified.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/fintech/",
+    "how_to_apply_or_post": "Rules per redditmaster.com: 'Posts whose primary purpose is to advertise your app, startup, or service are removed'; referral links treated as spam; launch announcements removed; 'Surveys, co-founder hunts, or solicitation posts' removed; unverified financial or regulatory claims removed; no published karma gate but new accounts hit automod filters. Post regulatory or market analysis; ask fundraising questions as discussion. Put any product mention, survey, or partnership ask in the pinned 'Weekly Thread: Self-Promotion, Surveys & Partnerships'.",
+    "contacts": "Mod u/tradestreaming. No email.",
+    "geography": "Global.",
+    "typical_outcome": "Industry discussion; not a funding channel.",
+    "notes": "Sidebar verified via Wayback (2025-08-02); detailed removal reasons from a third-party summary. Live RSS fetched on the fourth try (2026-09-02).",
+    "sources": [
+      "https://www.reddit.com/r/fintech/.rss",
+      "https://www.reddit.com/r/fintech/comments/1sl37hl/weekly_thread_selfpromotion_surveys_partnerships/",
+      "https://web.archive.org/web/20250802233654/https://old.reddit.com/r/fintech",
+      "https://www.redditmaster.com/subreddit-rules/fintech"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/CryptoCurrency",
+    "channel_type": "subreddit",
+    "description": "Largest general crypto subreddit (multi-million members; count not verified this session). Feed on 2026-09-02: daily discussion threads, news, scam warnings. The sub runs a community token (Moons) and CCMOON DAO with treasury updates. A search of the sub for 'grant developers' found news about Ethereum Foundation grant funding but no standing developer-grant or builder thread.",
+    "reachable_investors": "None. Not a founder-to-investor channel.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/CryptoCurrency/",
+    "how_to_apply_or_post": "Rules page (2024-11-28 snapshot) lists 10 rules: Core Principles, Spam, Manipulation, Illegal Activity, Content Standards, Personal Information, Content Theft, On Topic Discussion, Suitable Titles and Flairs, Communicate With the Mod Team; details live in the 'Expanded Rules' wiki. Sidebar (2026-08-30 snapshot) quotes 'Rule #2.10 - Posting referral, promo links, or codes of any kind is strictly prohibited and will be met with a long-term or permanent ban.' An 'AMA' post flair exists; custom flair requires meeting mod requirements. Post only substantive analysis; for grants use the chain-specific subreddits and foundations.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "No funding path found. Included to record a negative result.",
+    "notes": "Rule titles verified via Wayback; the Expanded Rules wiki was not fetched. Negative result for investor access.",
+    "sources": [
+      "https://web.archive.org/web/20260830230705/https://old.reddit.com/r/CryptoCurrency",
+      "https://web.archive.org/web/20241128145501/https://www.reddit.com/r/CryptoCurrency/about/rules/",
+      "https://www.reddit.com/r/CryptoCurrency/.rss",
+      "https://www.reddit.com/r/CryptoCurrency/search.rss?q=grant+developers&restrict_sr=on&sort=new"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/solana",
+    "channel_type": "subreddit",
+    "description": "Solana ecosystem subreddit with a pinned 'Welcome to /r/Solana - Read This To Get Started' (u/ansi09, 2025-03-29). Mod u/ansi09 reposts ecosystem news and grant calls: 'Builder Grants Are Live' (Solana Mobile, 2026-04-16), 'Colosseum Codex' hackathon digests (2026-05 to 2026-06), 'Solana Incubator Unveils 5 Cohort Focused on AI and Trading' (2026-09-01), 'Here's Why You Should Join Superteam' (2026-04-14). u/Mouflon77 posts a weekly '[UK] A look ahead for this weeks events, bounties, grants and opportunities!'.",
+    "reachable_investors": "Grant programs, not individual investors: Solana Foundation grants, Solana Mobile Builder Grants, Superteam Instagrants (regional chapters), Colosseum hackathons and accelerator. Colosseum's hackathon winners get pre-seed funding (per its own posts; amounts not verified here).",
+    "cost": "Free to post; hackathons free to enter.",
+    "url": "https://www.reddit.com/r/solana/",
+    "how_to_apply_or_post": "Read the pinned welcome post. Follow the weekly 'events, bounties, grants and opportunities' post and the Colosseum Codex posts for open calls. Apply to grants on the foundation or Colosseum sites, not in the sub. A member asked 'Superteam Instagrants for the rest of us?' (2026-04-02) about regions without a chapter; no global fallback was confirmed.",
+    "contacts": "Mod u/ansi09; u/Mouflon77 (weekly UK opportunities post). No email.",
+    "geography": "Global; Superteam is chapter-based (India, Nigeria, UK, and others).",
+    "typical_outcome": "Leads to off-Reddit grant and hackathon applications. No direct Reddit funding.",
+    "notes": "Rules page not fetched. Mark: partially verified (live RSS and sub search).",
+    "sources": [
+      "https://www.reddit.com/r/solana/.rss",
+      "https://www.reddit.com/r/solana/search.rss?q=grant&restrict_sr=on&sort=new",
+      "https://www.reddit.com/r/solana/comments/1snhkbp/builder_grants_are_live_the_dapp_store_crosses/",
+      "https://www.reddit.com/r/solana/comments/1sardtq/superteam_instagrants_for_the_rest_of_us/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/algotrading",
+    "channel_type": "subreddit",
+    "description": "Quant and automated-trading community; 1,878,943 subscribers in the 2026-07-31 Wayback snapshot. Pinned: 'Are you new here?... START HERE!' (u/finance_student) and an AutoModerator 'Weekly Discussion Thread'. Official Discord linked in the sidebar.",
+    "reachable_investors": "None. No investor, allocator, or prop-firm recruitment threads exist. Prop-firm talk is limited to members' own evaluation experiences ('two prop eval accounts', 'profitable and fundable are two different tests').",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/algotrading/",
+    "how_to_apply_or_post": "Sidebar (verbatim, 2026-07-31 snapshot): 'This sub is not for the promotion of your blog, youtube, channel, or firm.' Don'ts include: 'Submit paysites for indicators/software/systems/whatever'; 'Submit software that is proprietary and not open source'; 'Submit links/posts that are for the sole purpose of generating referrals/sales/$$... shilling your products is not appreciated'; 'Ask for career advice there is /r/financialcareers for that'. Do's: papers, open code, strategies with methodology, business, tax, infrastructure and compliance questions. Read the wiki before posting; some rules carry a zero-tolerance permanent ban.",
+    "contacts": "u/finance_student (pinned post author). No email.",
+    "geography": "Global.",
+    "typical_outcome": "Technical critique. No funding path; a trading-strategy founder should treat this as a peer-review venue only.",
+    "notes": "Verified sidebar via Wayback. Negative result for investor access.",
+    "sources": [
+      "https://web.archive.org/web/20260731092314/https://old.reddit.com/r/algotrading/",
+      "https://www.reddit.com/r/algotrading/.rss",
+      "https://www.reddit.com/r/algotrading/search.rss?q=prop+firm+funding&restrict_sr=on&sort=new"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/smallbusiness",
+    "channel_type": "subreddit",
+    "description": "Operational small-business subreddit; directories list 1.8M to 2.2M members. Monthly 'Promote Your Business thread' posted by mod u/BigSlowTarget (edition of 2026-05-30 pinned on 2026-09-02) and a yearly 'share your small business experience, successes, failures, AMAS' thread (u/Charice, 2026-02-16).",
+    "reachable_investors": "None verified. Funding questions get peer answers ('we need ~$1M to build out production. How do we secure funding at this stage?', 2026-09-01).",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/smallbusiness/",
+    "how_to_apply_or_post": "Sidebar rules (verbatim, Wayback 2026-08-20): 'Post only questions about small business. r/smallbusiness is a question and answer subreddit.' 'NO business promotion, lead generation, rants, info-tainment, success stories or unsolicited instructional texts... are permitted in posts.' 'No business promotion posts are allowed. Promote your business in the weekly Promote-your-business thread only.' 'No blog links and blog content.' 'Negative vote total posts may be removed.' The live feed shows the promote thread is currently posted about monthly (edition of 2026-05-30 still pinned). Third-party summary adds: no solicitation or service promotion, no 'DM me for help' lead generation, surveys need mod approval, 'No Crowdfunding or Investment Links: GoFundMe, Kickstarter, and similar platforms are treated as promotional content', no low-effort 'what business should I start' posts.",
+    "contacts": "Mods u/BigSlowTarget, u/Charice. No email.",
+    "geography": "US-centric.",
+    "typical_outcome": "Advice on bank loans, SBA, and bootstrapping; not an equity-investor channel.",
+    "notes": "Sidebar rules verified via Wayback (2026-08-20) plus live RSS.",
+    "sources": [
+      "https://web.archive.org/web/20260820210235/https://old.reddit.com/r/smallbusiness",
+      "https://www.reddit.com/r/smallbusiness/.rss",
+      "https://www.reddit.com/r/smallbusiness/comments/1tslbvw/promote_your_business_thread_for_may_30_2026/",
+      "https://www.redditmaster.com/subreddit-rules/smallbusiness"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/SideProject",
+    "channel_type": "subreddit",
+    "description": "Show-and-feedback subreddit; thevccorner.com lists 487k members. Sidebar (2026-08-28 snapshot): 'a subreddit for sharing and receiving constructive feedback on side projects'. Pinned: 'Share your ***Not-AI*** projects'.",
+    "reachable_investors": "None verified.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/SideProject/",
+    "how_to_apply_or_post": "Sidebar format: '[Project name] - [Short description]'. redditmaster.com rules: describe what you built and why ('A link with no context is treated as spam'); no reposting; respond to feedback; no affiliate schemes; no job or co-founder posts. It is 'friendlier to self-promotion than most subs'.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Early users and feedback; traction evidence you can cite to investors. No investors.",
+    "notes": "Verified sidebar via Wayback; rules list from third party.",
+    "sources": [
+      "https://web.archive.org/web/20260828185331/https://old.reddit.com/r/SideProject/",
+      "https://www.reddit.com/r/SideProject/.rss",
+      "https://www.redditmaster.com/subreddit-rules/sideproject"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/Startup_Ideas",
+    "channel_type": "subreddit",
+    "description": "Idea-discussion subreddit; 130,566 subscribers in the 2025-04-05 snapshot (thevccorner.com lists 178k in 2026). Sidebar: 'This subreddit is for sharing innovative startup ideas... Note: this subreddit is not the place to promote your company or product. Discussing your startup is fine - but posts which are more promotion than anything else may be removed.'",
+    "reachable_investors": "None verified. Investor asks appear and stay up ('Building a scalable EdTech SaaS platform in Dubai, looking for an angel/strategic investor', 2026-09-01) but draw no known investors.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/Startup_Ideas/",
+    "how_to_apply_or_post": "Post the idea in problem-solution form and ask for critique. Do not lead with a product link.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Idea critique; useful for idea-stage validation, not funding.",
+    "notes": "Verified sidebar via Wayback.",
+    "sources": [
+      "https://web.archive.org/web/20250405102806/https://old.reddit.com/r/Startup_Ideas/",
+      "https://www.reddit.com/r/Startup_Ideas/.rss"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/cofounder",
+    "channel_type": "subreddit",
+    "description": "Co-founder matching board; about 43k users per the 2023-09-08 mod post. Strict title format enforced by bot. Single active mod u/honestduane.",
+    "reachable_investors": "None. Some posters list capital as an asset, but the sub is for co-founders, not investors.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/cofounder/",
+    "how_to_apply_or_post": "Pinned '[Meta] Requirements for Posting' (verbatim): 'Format: [LOCAL COUNTRY NAME ISO 3 ALL CAPS][YOUR MAIN ROLE (TECH/BIZ/SALES/HR)][YOUR YEARS EXPERIENCE POSITIVE INT NUMBER or 0] your title ending with period.' 'DO NOT USE \"EU\", \"EUR\" or \"UK\".' 'if you do not have the karma to post, the bot will not allow you to.' 'Absolutely no commas, backslashes, etc can be used in subjects.' Example: '[USA][TECH][10] Seeking Technical Cofounder...'.",
+    "contacts": "Mod u/honestduane. No email.",
+    "geography": "Global; posts tagged by ISO-3 country.",
+    "typical_outcome": "Co-founder leads. Low volume (a few posts per month in the feed).",
+    "notes": "Verified via live RSS and pinned post; Wayback front page 2026-05-11 confirms the pinned posts.",
+    "sources": [
+      "https://www.reddit.com/r/cofounder/.rss",
+      "https://www.reddit.com/r/cofounder/comments/gg5xcd/meta_requirements_for_postingnew_mods/",
+      "https://web.archive.org/web/20260511213801/https://old.reddit.com/r/cofounder"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/indiehackers",
+    "channel_type": "subreddit",
+    "description": "Indie software founders; 85,201 subscribers in the 2025-06-27 snapshot. Sidebar links: Transparent Startups, Indie Hackers.",
+    "reachable_investors": "None verified.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/indiehackers/",
+    "how_to_apply_or_post": "Rules per redditmaster.com: no blatant self-promotion; share real numbers; no low-effort 'check out my app' posts; no spam; stay on topic. Frame posts as build-journey updates with revenue and user data.",
+    "contacts": "unknown",
+    "geography": "Global.",
+    "typical_outcome": "Feedback and small early user pickup. No funding.",
+    "notes": "Live RSS returned HTTP 429; Wayback sidebar has no rules text; rules from third party. Mark: partially verified.",
+    "sources": [
+      "https://web.archive.org/web/20250627115022/https://old.reddit.com/r/indiehackers/",
+      "https://www.redditmaster.com/subreddit-rules/indiehackers"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Alexis Ohanian (u/kn0thing) - Seven Seven Six",
+    "channel_type": "reddit_investor",
+    "description": "Reddit co-founder and founder/GP of Seven Seven Six (776), an early-stage venture firm. Handle verified from the user feed: comments in 2026 identify him as Reddit co-founder ('cofounding Reddit to avoid going to law school') and profile text reads 'Created Reddit, now doing my life's work building Seven Seven Six'. Active on Reddit in 2026: r/IAmA 'Alexis Ohanian and Kevin Rose, here to talk the Digg relaunch. Ask Us Anything.' (2026-01-19/20), comments in r/AngelCityFC, r/maryland, r/GTA (2026-04 to 2026-07).",
+    "reachable_investors": "Alexis Ohanian, u/kn0thing.",
+    "cost": "Free to message on Reddit. 776 cost: equity investment terms; no fee.",
+    "url": "https://www.reddit.com/user/kn0thing/",
+    "how_to_apply_or_post": "No open pitch form was found on sevensevensix.com (homepage text only: 'a technology company that deploys venture capital'). Reddit chat/DM to u/kn0thing is technically open; no evidence that he takes pitches there. Best use: ask a question during his AMAs (r/IAmA, January 2026).",
+    "contacts": "u/kn0thing on Reddit. Email unknown.",
+    "geography": "US (Florida/LA); invests globally.",
+    "typical_outcome": "unknown; no record of a deal sourced via Reddit DM was found.",
+    "notes": "Handle verified via Reddit user RSS feed and profile snippet. Pitch route unverified.",
+    "sources": [
+      "https://www.reddit.com/user/kn0thing/.rss",
+      "https://www.reddit.com/r/IAmA/comments/1qhf27j/alexis_ohanian_and_kevin_rose_here_to_talk_the/",
+      "https://sevensevensix.com/",
+      "https://search.brave.com/search?q=Alexis+Ohanian+kn0thing+reddit+account+Seven+Seven+Six"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Jason Calacanis (u/jasoncalacanis) - LAUNCH / Founder University",
+    "channel_type": "reddit_investor",
+    "description": "Angel investor, host of This Week in Startups and All-In, founder of LAUNCH and Founder University. Handle verified from the user feed: on 2025-04-29 he wrote 'I run a couple of podcasts (All IN and This Week in Startups) and a venture capital firm (LAUNCH and Founder University)' and on 2025-05-12 'in my line of work (venture capital)'. He posts across r/allinpodofficial, r/antiwork, r/austinfood, r/ParentingTech (last seen 2026-05-02). His profile text reads 'Happy to do an AMA' (search snippet dated 2026-05-02). An r/startups Reddit Talk AMA was scheduled for 2021-09-02 but was postponed at his request (mod note 2021-09-01); no rescheduled event was found.",
+    "reachable_investors": "Jason Calacanis, u/jasoncalacanis.",
+    "cost": "Reddit: free. Founder University: 'Tuition: $500. Join every live session to be eligible for a tuition refund.' LAUNCH Accelerator: equity only.",
+    "url": "https://www.reddit.com/user/jasoncalacanis/",
+    "how_to_apply_or_post": "Do not pitch by Reddit DM; use the open applications: Founder University (12-week pre-accelerator, 'We invest $25K or $125K into the top graduates', open 'Apply Now', Cohort 13 early 2026, sessions 5PM CT; Sanabil Founder University for MENA) and LAUNCH Accelerator (14-week, weekly pitching to investors, $125K) via launch.co 'Apply for Funding'. The Syndicate does follow-on rounds of $250K+.",
+    "contacts": "u/jasoncalacanis on Reddit. He published his email in his own Reddit posts as 'jason AT calacanis DOT com' (2025-05-10). LAUNCH: launch.co apply forms.",
+    "geography": "US (Austin, TX); accepts global applicants; MENA program via Sanabil.",
+    "typical_outcome": "Founder University cohorts of idea-to-MVP founders; top graduates get $25K or $125K. Acceptance rate unknown.",
+    "notes": "Handle and identity verified from his own Reddit posts. Program terms verified from founder.university and launch.co on 2026-09-02.",
+    "sources": [
+      "https://www.reddit.com/user/jasoncalacanis/.rss",
+      "https://www.reddit.com/r/startups/comments/pbk125/post_your_questions_for_jason_calacanis_live/",
+      "https://www.founder.university/",
+      "https://www.launch.co/",
+      "https://search.brave.com/search?q=Jason+Calacanis+reddit+AMA"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/ethereum",
+    "channel_type": "subreddit",
+    "description": "Main Ethereum subreddit. Sidebar rules (Wayback 2026-08-26, verbatim in part): 'Keep price discussion and market talk... to the daily general discussion pinned post'; 'No spamming or drive by posting'; 'Posts and comments must be made from an account at least 10 days old with a minimum of 20 comment karma.' Contributor u/abcoathup posts an 'Ethereal news calendar. Calendar of Ethereum focused conferences, hackathons, upgrades and grant deadlines' (2026-01-20) and monthly 'Dev Tools Guild' updates that list open grant rounds (Gitcoin Grants 24 Developer Tooling round, 2025-10; ENS DAO $75k grant; Optimism Retro Funding).",
+    "reachable_investors": "Grant programs, not individual investors: Ethereum Foundation grants (an EF-funded report was posted 2025-12-17), Gitcoin Grants rounds, ENS DAO grants, Optimism Retro Funding. Sidebar links a 'Bounty program'.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/ethereum/",
+    "how_to_apply_or_post": "Meet the 10-day / 20-karma gate. Post technical or ecosystem content, not pitches; price and holdings talk goes to the Daily General Discussion. Follow the Ethereal calendar and Dev Tools Guild posts for grant deadlines, then apply on the grant sites. Deeper dev talk belongs in r/ethdev.",
+    "contacts": "u/abcoathup (calendar and Dev Tools Guild posts); u/jtnichol (Weekly Doots stream). No email.",
+    "geography": "Global.",
+    "typical_outcome": "Leads to off-Reddit grant applications. No funding on Reddit itself.",
+    "notes": "Sidebar verified via Wayback; subscriber count not shown in the snapshot. r/ethdev feed returned HTTP 429 and 000; not verified.",
+    "sources": [
+      "https://web.archive.org/web/20260826141335/https://old.reddit.com/r/ethereum",
+      "https://www.reddit.com/r/ethereum/.rss",
+      "https://www.reddit.com/r/ethereum/search.rss?q=grants&restrict_sr=on&sort=new",
+      "https://www.reddit.com/r/ethereum/comments/1qigtqr/ethereal_news_calendar_calendar_of_ethereum/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "r/IAmA investor AMAs",
+    "channel_type": "subreddit",
+    "description": "Reddit's main AMA subreddit. Investors run verified AMAs there; the poster's account is the investor's own handle. Recorded investor AMAs: John Doerr, chair of Kleiner Perkins, u/john-doerr (2021-11-09); David S. Rose, founder of New York Angels, u/David_S_Rose (2024-11-18); Peter Thiel, Founders Fund, u/PeterThiel (2014-09-11); John Frankel, ff Venture Capital, u/johnfrankel (2014-08-07); Rafael Corrales, CRV, u/rafaelcorrales (2015-04-10); Nick Hanauer, u/nickhanauer (2015-06-29); Mark Suster, Upfront Ventures (2015-04-09, handle not captured); Sputnik ATX accelerator partners, u/sputnikatx (2017-11-06, 'Our accelerator is now taking applications'); a MedStartr healthcare VC panel, u/MedStartr (2017-12-01); Alexis Ohanian, u/kn0thing, with Kevin Rose (2026-01-19). From the 'angel investor' search: Nick Jones, entrepreneur and angel investor, u/nwjones (2016-10-12); Ed McLaughlin, angel investor, u/ThePurposeIsProfit (2016-08-03); Cameron and Tyler Winklevoss, Gemini co-founders and angel investors, u/winky_pop (2019-01-07); Arjun Mahadevan, doola founder, funded-founder AMA (2025-04-02). Alexis Ohanian and Kevin Rose (2026-01) is the only investor AMA found in 2025-2026.",
+    "reachable_investors": "The handles above, verified because each AMA was posted from that account. Most AMAs are old; the accounts may be inactive.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/r/IAmA/",
+    "how_to_apply_or_post": "Founders cannot pitch in r/IAmA. Use it to ask questions during a live investor AMA; upvoted questions get answers. Watch r/IAmA and the investor's own social channels for announcements. Replying to an old AMA rarely gets a response.",
+    "contacts": "See handles in the description. No emails.",
+    "geography": "Global; US-heavy.",
+    "typical_outcome": "Public answers on fundraising process; occasionally an investor invites founders to apply to a program (Sputnik ATX, 2017).",
+    "notes": "List built from the r/IAmA search feeds for 'venture capitalist' and 'angel investor' (25 results each) and the u/kn0thing feed. Partial list.",
+    "sources": [
+      "https://www.reddit.com/r/IAmA/search.rss?q=venture+capitalist&restrict_sr=on&sort=new",
+      "https://www.reddit.com/r/IAmA/comments/qqa8is/hi_im_john_doerr_venture_capitalist_chair_of/",
+      "https://www.reddit.com/r/startups/comments/1gtzs01/i_am_david_s_rose_founder_of_new_york_angels_ama/",
+      "https://www.reddit.com/r/IAmA/comments/1qhf27j/alexis_ohanian_and_kevin_rose_here_to_talk_the/",
+      "https://www.reddit.com/r/IAmA/comments/7b882y/iama_venture_capitalist_ask_me_anything/",
+      "https://www.reddit.com/r/IAmA/search.rss?q=angel+investor&restrict_sr=on&sort=new"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Sahil Lavingia (u/slavingia) - Gumroad founder, angel investor",
+    "channel_type": "reddit_investor",
+    "description": "Founder and CEO of Gumroad and an angel investor (per the r/SaaS AMA intro: 'founder and CEO of Gumroad, angel investor, writer, and painter'). He ran an AMA in r/SaaS on 2021-10-26 from u/slavingia: 'I've started and scaled Gumroad to $500,000,000 sent to creators. AMA on starting and scaling sustainable software businesses.' The AMA was arranged by r/SaaS mod u/chddaniel (announcement 2021-10-23).",
+    "reachable_investors": "Sahil Lavingia, u/slavingia.",
+    "cost": "Free.",
+    "url": "https://www.reddit.com/user/slavingia/",
+    "how_to_apply_or_post": "No open pitch route on Reddit was found. The AMA is the only verified Reddit activity; his current Reddit activity was not checked (user feed not fetched). Ask in a future AMA or use his public channels off Reddit.",
+    "contacts": "u/slavingia. Email unknown.",
+    "geography": "US.",
+    "typical_outcome": "unknown",
+    "notes": "Handle verified from the AMA post author. Activity after 2021 unverified.",
+    "sources": [
+      "https://www.reddit.com/r/SaaS/comments/qgbyq1/ive_started_and_scaled_gumroad_to_500000000_sent/",
+      "https://www.reddit.com/r/SaaS/comments/qe8wzx/upcoming_ama_wsahil_lavingia_founder_and_ceo_of/",
+      "https://www.reddit.com/search.rss?q=%22Sahil+Lavingia%22+AMA&sort=relevance"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Eric Bahn (u/ebahnx) - Hustle Fund",
+    "channel_type": "reddit_investor",
+    "description": "Co-founder of Hustle Fund, a pre-seed fund he co-founded with Elizabeth Yin. He ran two r/Entrepreneur AMAs from u/ebahnx: 'I raised $11.5M to invest in pre-seed stage startups... AMA!' (2018-07-24) and 'I'm the co-founder of Hustle Fund, managing $11.5M... Answering your questions about fundraising, pitching, and VC games. AMA!' (2018-11-06, 'here for the next six hours'). Hustle Fund's site (2026-09-02) says it invests in 'hilariously early startups', check size $150K, and takes open applications: 'just hit us up with what you're hustling'.",
+    "reachable_investors": "Eric Bahn, u/ebahnx. Elizabeth Yin: Reddit handle unknown (not found).",
+    "cost": "Free. Investment on standard terms.",
+    "url": "https://www.reddit.com/user/ebahnx/",
+    "how_to_apply_or_post": "Apply through the Hustle Fund website form (open to cold applications, $150K pre-seed checks). Do not expect a Reddit DM to work; the AMAs are from 2018 and current Reddit activity was not verified.",
+    "contacts": "u/ebahnx on Reddit; hustlefund.vc application form. Email unknown.",
+    "geography": "US-based fund; invests in US, Canada, and Southeast Asia per public materials (not verified this session).",
+    "typical_outcome": "Standard pre-seed application review; outcome rates unknown.",
+    "notes": "Handle verified from the AMA posts. Website terms verified 2026-09-02. Reddit activity after 2018 unverified.",
+    "sources": [
+      "https://www.reddit.com/r/Entrepreneur/comments/91j755/i_raised_115m_to_invest_in_preseed_stage_startups/",
+      "https://www.reddit.com/r/Entrepreneur/comments/9uqnq8/im_the_cofounder_of_hustle_fund_managing_115m_to/",
+      "https://www.hustlefund.vc/"
+    ],
+    "verified_date": "2026-09-02"
+  },
+  {
+    "name": "David S. Rose (u/David_S_Rose) - New York Angels",
+    "channel_type": "reddit_investor",
+    "description": "Founder and Chairman Emeritus of New York Angels ('We've invested over $150 million into more than 450 startup companies'). Two AMAs from u/David_S_Rose: r/startups 'I'm David S. Rose, serial entrepreneur and angel investor. AMA!' (2018-02-21) and r/IAmA 'I am David S. Rose, Founder of New York Angels, AMA' (2024-11-18, announced in r/startups the same day). New York Angels' site (2026-09-02) has an open 'Apply FOR FUNDING' link to its Gust public profile.",
+    "reachable_investors": "David S. Rose, u/David_S_Rose; New York Angels members via the Gust application.",
+    "cost": "Reddit: free. New York Angels application via Gust: free to apply (Gust account required).",
+    "url": "https://www.reddit.com/user/David_S_Rose/",
+    "how_to_apply_or_post": "Apply to New York Angels through the Gust link on newyorkangels.com ('Apply FOR FUNDING'). Use his AMAs for process questions; a Reddit DM is not a documented route. Check size and stage are not stated on the homepage; the 'Membership Benefits & Criteria' page was not read.",
+    "contacts": "u/David_S_Rose on Reddit. New York Angels: 1216 Broadway, Floor 2, New York, NY 10001 (site footer); gust.com/organizations/new-york-angels/public_profile. Email unknown.",
+    "geography": "New York, US.",
+    "typical_outcome": "Standard angel-group screening after a Gust application; outcome rates unknown.",
+    "notes": "Handle verified from two AMA posts. Reddit activity since 2024-11 not checked.",
+    "sources": [
+      "https://www.reddit.com/r/IAmA/comments/1gtziwa/i_am_david_s_rose_founder_of_new_york_angels_ama/",
+      "https://www.reddit.com/r/startups/comments/7z6qng/im_david_s_rose_serial_entrepreneur_and_angel/",
+      "https://www.reddit.com/r/startups/comments/1gtzs01/i_am_david_s_rose_founder_of_new_york_angels_ama/",
+      "https://www.newyorkangels.com/"
+    ],
+    "verified_date": "2026-09-02"
+  }
+]
