@@ -1,13 +1,17 @@
-# Pre-seed investor outreach workbook
+# Idea-stage investor outreach workbook — all startup sectors
 
 Verified date: **2026-09-02**. Deadlines, application windows, and fund status change fast.
 Check the source URL before you send anything.
+
+This repository is designed for founders across healthcare, biotech, climate, deep tech, SaaS,
+consumer, AI, fintech, and other startup categories. Generalist opportunities rank highly, and
+healthcare receives an additional boost without excluding any other kind of company.
 
 ## What this folder holds
 
 | File | What it is |
 | --- | --- |
-| `investors_preseed.xlsx` | The full workbook. Seven sheets. Start on the `START HERE` sheet. |
+| `investors_preseed.xlsx` | The full workbook. Eight sheets. Start on the `START HERE` sheet. |
 | `csv/` | The same sheets as UTF-8 CSV files, for scripts and mail-merge. |
 | `build_workbook.py` | The script that builds the workbook, the CSV files, and this README. Rerun it any time. |
 | `raw/` | The source JSON research files. The build script only reads them. |
@@ -16,13 +20,14 @@ Check the source URL before you send anything.
 
 | Sheet | Rows | What it gives you |
 | --- | --- | --- |
-| START HERE | 40 | The top 40 targets for an idea-stage founder in trading bots, prediction markets, quant, and AI agents. Each row has a live contact route. |
-| Master | 355 | Every entry from all four research files in one schema. Nothing is dropped. |
+| START HERE | 40 | The top 40 reachable targets for founders in any startup sector, with extra weight for generalist and healthcare fit. |
+| Master | 366 | Every entry from all five research files in one schema. Nothing is dropped. |
 | Accelerators & Funds | 52 | The accelerator and fund file with its own columns. |
 | Angels (Twitter) | 62 | The angel file with its own columns. |
-| Fintech-Crypto-AI VCs | 96 | The sector VC file with its own columns. |
+| VCs & Programs | 96 | Broad and sector-specific VCs and startup programs; finance is one vertical among many. |
+| Healthcare Focus | 11 | Healthcare, medtech, digital health, and biotech investors and programs. |
 | Open Channels & Reddit | 145 | Subreddits, angel groups, grants, directories, and open application forms. |
-| Closed - Skip | 33 | Every row you must not contact, with the reason. |
+| Closed - Skip | 34 | Every row you must not contact, with the reason. |
 
 ## How the Status flag was derived
 
@@ -56,24 +61,23 @@ The script scores every OPEN row and keeps the top 40. A row must pass three gat
 3. A public contact route exists: an email, an application form, an apply URL, or an open Twitter DM.
    A bare company homepage does not count. For an open channel the post URL does count.
 
-The score adds points for sector fit and subtracts points for friction:
+The score favors broad applicability and healthcare while keeping access and stage fit central:
 
 | Signal | Points |
 | --- | --- |
-| Text names a prediction market, Polymarket, or Kalshi | +10 |
-| Text names trading, quant, market making, or capital markets | +6 |
-| Text names AI agents or agentic products | +5 |
-| Text names fintech, or crypto / web3 / DeFi | +4 each |
-| Text names AI or machine learning | +3 |
+| Sector-agnostic, generalist, any-sector, or multi-sector mandate | +8 |
+| Healthcare, digital health, medtech, biotech, clinical, or life sciences | +7 |
+| Climate/energy, deep tech/hardware, enterprise/SaaS, or consumer/education | +3 per group |
+| AI or machine learning | +2 |
 | Open application form, published email, or open DMs | +2 to +3 each |
 | States idea stage / pre-product / pre-PMF | +4 |
 | Warm intro only | -4 |
-| The notes say the use case does not fit (public-goods grants) | -8 |
+| The notes explicitly say the opportunity does not fit | -8 |
 | Pay-to-pitch, application fee, or paid intro platform | -5 |
 | Eligibility is limited to a group this workbook cannot confirm | -5 |
 
 Rules on top of the score: one row per name, one row per contact route, a maximum of 15 rows per
-category, and a minimum of 4 rows per category, so all four source files appear in the list.
+category, and a minimum of 4 rows per category, so all five source files appear in the list.
 
 ## Counts
 
@@ -82,47 +86,49 @@ category, and a minimum of 4 rows per category, so all four source files appear 
 | Category | Rows |
 | --- | --- |
 | Open Channel | 145 |
-| Sector VC | 96 |
+| VC/Program | 96 |
 | Angel | 62 |
 | Accelerator/Fund | 52 |
-| **Total** | **355** |
+| Healthcare | 11 |
+| **Total** | **366** |
 
 ### Per status
 
 | Status flag | Rows |
 | --- | --- |
-| OPEN | 322 |
+| OPEN | 332 |
 | NOT IDEA STAGE | 15 |
-| CLOSED/PAUSED | 18 |
+| CLOSED/PAUSED | 19 |
 
 ### Status inside each category
 
 | Category | OPEN | NOT IDEA STAGE | CLOSED/PAUSED |
 | --- | --- | --- | --- |
 | Open Channel | 134 | 3 | 8 |
-| Sector VC | 87 | 7 | 2 |
+| VC/Program | 87 | 7 | 2 |
 | Angel | 57 | 1 | 4 |
 | Accelerator/Fund | 44 | 4 | 4 |
+| Healthcare | 10 | 0 | 1 |
 
 ## Top 15 from START HERE
 
 | # | Name | Category | Why it fits | Best channel | Contact |
 | --- | --- | --- | --- | --- | --- |
-| 1 | Y Combinator | Sector VC | Directly relevant YC fintech companies: Arbital (perps, memes, stocks, market-making), Spectre Intelligence ('We create AI traders'), Prodigy Resea... | Apply online at apply.ycombinator.com; on-time deadline shown as 'N... | https://apply.ycombinator.com/home |
-| 2 | Base Ecosystem Fund / Base Batches / Base ... | Sector VC | Strong fit: explicit 'Trading' and 'AI Agents' portfolio categories; Batch 003 accepted teams include Onsight (social prediction markets), Opal (pr... | Apply to Base Batches 004 before Sep 9, 2026 (written plus video su... | https://www.base.org/ecosystem-fund/apply |
-| 3 | Variant Fund | Sector VC | Relevant portfolio (official page): Melee (Pre-Seed 2025, onchain markets, alpha.melee.markets), MetaDAO (token 2025), True Markets (Series A 2024)... | Use the contact form at https://variant.fund/contact/ or email info... | https://variant.fund/contact/ |
-| 4 | Contrary | Sector VC | Contrary Research published a deep dive 'Are prediction markets doomed to fail' (https://research.contrary.com/deep-dive/are-prediction-markets-doo... | Use the Applications link (applications.contrary.com) from the site... | https://applications.contrary.com |
-| 5 | Paradigm | Sector VC | Strong fit signals for a trading / prediction-market builder: portfolio page lists Kalshi ('Prediction market platform'), Hyperliquid ('Financial t... | Email info@paradigm.xyz or the city inbox (sf@ / nyc@) with a short... | info@paradigm.xyz |
-| 6 | Homebrew | Sector VC | Strong fit for AI-agent + fintech pitch. | Cold email a partner directly with a short deck; Hunter Walk public... | hunter@homebrew.co |
-| 7 | a16z crypto (incl. CSX Crypto Startup Acce... | Sector VC | CSX page (https://a16zcrypto.com/csx/ and /accelerator/) describes curriculum (product-market fit, business models, tokenization, go-to-market, fun... | Watch https://a16zcrypto.com/csx/ and @a16zcrypto for the next CSX ... | https://a16zcrypto.com/csx/ |
-| 8 | Balaji Srinivasan | Angel | Investments: Alchemy, Benchling, Digital Ocean, OpenSea, Perplexity, Polymarket, Replit, Starkware, Varda, Zora, plus protocols. | twitter_dm | Twitter DM @balajis |
-| 9 | Outlier Ventures | Sector VC | The 'Crypto x Agentic AI' track fits AI-agent trading bots. | Submit the online application form; the Base Camp page says it is a... | https://outlierventures.io/apply/form/ |
-| 10 | Tusk Venture Partners | Sector VC | Regulated-market thesis fits prediction markets (Polymarket/CFTC issues) very well. | Email info@tusk.vc with a deck that addresses regulatory risk; warm... | info@tusk.vc |
-| 11 | Chapter One | Sector VC | Portfolio: Compound Finance, Ondo Finance, Helius, ether.fi, Erebor bank, Mercury, Supabase, Superhuman, Together AI. | Email hi@chapterone.com or DM @jmj on X; site lists both under cont... | hi@chapterone.com |
-| 12 | Multicoin Capital | Sector VC | Thesis-driven; explicit MEV and DeFi segments fit trading-infrastructure pitches. | Use the contact form and pick 'Pitch an idea for investment'; a war... | hello@multicoin.capital |
-| 13 | Better Tomorrow Ventures (BTV) | Sector VC | Leads pre-seed rounds. | Warm intro from a fintech founder or a public DM to Sheel Mohnot (@... | Twitter DM @btv_vc |
-| 14 | Electric Capital | Sector VC | Portfolio has several trading venues and AI-agent finance startups, so an AI trading-agent pitch is on-thesis; $1M minimum check means they expect ... | Email info@electriccapital.com; the contact page invites founders d... | info@electriccapital.com |
-| 15 | Hack VC | Sector VC | Runs a quantitative research division with a proprietary trading desk and hack.summit() developer community (third-party). | Email contact@hack.vc with a deck, or DM a partner on X; the site h... | contact@hack.vc |
+| 1 | Precursor Ventures | Accelerator/Fund | Generalist software and hardware (portfolio: fintech, healthcare, SaaS, consumer); fund; Idea-stage: yes. | application form; hello@precursorvc.com is published for general in... | hello@precursorvc.com |
+| 2 | Contrary (Contrary Capital) | Accelerator/Fund | generalist: biotech, fintech, defense, robotics, aerospace, prediction markets, education, healthcare; fund; Idea-stage: yes. | application form (cold applications accepted per secondary sources)... | stanford@vp.contrary.com |
+| 3 | Pear VC (PearX) | Accelerator/Fund | Sector-agnostic; AI, enterprise, biotech, consumer verticals with partner expertise; accelerator / fund; Idea-stage: yes ('Any founder starting a c... | application form | https://pear.vc/pearx |
+| 4 | Seedcamp | Accelerator/Fund | Sector-agnostic software and technology (AI, fintech, healthtech, deep tech, infrastructure); fund; Idea-stage: yes (official FAQ: 'From the moment... | application form ('Pitch Us'); cold applications accepted | https://seedcamp.com/out/f7-startup-details-core |
+| 5 | Surge by Peak XV | Accelerator/Fund | Sector-agnostic technology (AI, SaaS, consumer, fintech, deep tech); accelerator / fund; Idea-stage: yes (application form accepts 'Idea/Prototype'... | application form; cold outreach accepted (FAQ invites founders to f... | contactus@peakxv.com |
+| 6 | Elizabeth Yin | Angel | software generalist; SaaS; B2B; fintech; digital health; AI; Co-founder and General Partner, Hustle Fund (pre-seed fund for software startups); ex-... | public_form | https://hustlefund.typeform.com/to/UGTnIt |
+| 7 | Sahil Lavingia | Angel | generalist; SaaS; creator tools; future of work; crypto; Founder and CEO of Gumroad; angel investor via SHL Capital rolling fund; Pre-seed and seed... | twitter_dm | https://shl.vc/apply |
+| 8 | Tim Draper | Angel | AI, robotics & automation; crypto & blockchain; healthcare & biotech; aerospace & space; unconventional ideas; Founder and Managing Partner, Draper... | public_form | hello@meetthedrapers.com |
+| 9 | Cyan Banister | Angel | Portfolio: Uber, SpaceX, Notion, plus 145 investments on record. | email | hi@longjourney.vc |
+| 10 | Garry Tan | Angel | generalist; AI; consumer; fintech; crypto; enterprise; deep tech; President and CEO of Y Combinator; co-founder of Initialized Capital (now board p... | public_form | garry@initialized.com |
+| 11 | Ryan Hoover | Angel | generalist; consumer; B2B; fintech; AI; health; Founder of Product Hunt; investor at Weekend Fund (early-stage fund with 350+ operator LPs); Early-... | email | team@weekend.fund |
+| 12 | Everywhere Ventures | VC/Program | Future of work, fintech, health, climate, supply chain, deep tech, consumer, gov/legal; VC fund (founder-LP collective); Pre-seed accepted. | Submit the Airtable 'Join our portfolio' form linked from the homep... | https://airtable.com/appeY02X0EMCQQ19G/shrjpNqWOj0SJP1ix |
+| 13 | Homebrew | VC/Program | Generalist, mission-driven; portfolio heavy in fintech, AI agents, crypto tooling, infrastructure; VC firm (partners' own capital, evergreen); Pre-... | Cold email a partner directly with a short deck; Hunter Walk public... | hunter@homebrew.co |
+| 14 | 1517 Fund | Accelerator/Fund | Software, hardware with data plays, deep tech/sci-fi tech, biotech; 'more about the who than the what'; fund / grant; Idea-stage: yes. $50,000 chec... | application form or cold email ('Write in! We read all submissions'... | info@1517fund.com |
+| 15 | a16z Speedrun | Accelerator/Fund | Sector-agnostic (team roots in games, AI, consumer tech); accelerator / fund; Idea-stage: yes (solo founders accepted; they aim to be the first che... | application form; sr-team@a16z.com is published for questions | sr-team@a16z.com |
 
 ## Outreach playbook
 
@@ -132,14 +138,13 @@ Log every send in a sheet with the date, so you do not contact the same person t
 ### Cold email template (6 lines)
 
 ```text
-Subject: {Company} - pre-seed, automated trading + prediction markets
+Subject: {Company} - pre-seed: {one-line outcome}
 
-Hi {Name}, I build {Company}: automated trading bots and prediction-market
-(Polymarket) agents. I run the system on live capital today.
-Result so far: {one metric, for example "N trades, X% net return since <date>"}.
-I raise a {amount} pre-seed on a SAFE to add {one use of funds}.
-You back {their sector: fintech / crypto / AI agents}, so I contact you first.
-Deck attached. Can I send you the live dashboard link?
+Hi {Name}, I'm building {Company}, which helps {target user} solve {specific problem}.
+So far, {one concrete signal: prototype, users, pilot, waitlist, or research result}.
+We're raising a {amount} pre-seed round to {one use of funds}.
+Your work with {relevant sector or portfolio company} is why I'm reaching out.
+Deck attached. Would a 20-minute conversation next week make sense?
 ```
 
 Rules: one metric, one ask, no attachment over 10 MB, no confidential data.
@@ -148,9 +153,9 @@ Send from your own domain. Put the deck in the first message; do not ask permiss
 ### Twitter DM template (3 lines)
 
 ```text
-Hi {Name} - I build automated trading bots + Polymarket agents, live on real capital.
-{one metric}. Raising a {amount} pre-seed on a SAFE.
-Can I send a 10-slide deck?
+Hi {Name} - I'm building {Company} for {target user}: {one-line outcome}.
+{one concrete signal}. Raising a {amount} pre-seed round.
+Your work in {relevant sector} looks aligned. Open to a short conversation?
 ```
 
 Rules: DM only where the workbook says the DMs are open. Do not send a second DM if there is no reply.
@@ -176,26 +181,28 @@ to do so'. Read the rule and take legal advice before you post. This workbook is
 
 These fields hold the word `unknown` most often. Fill them yourself before you use the row.
 
-| Field | `unknown` rows | Share of 355 |
+| Field | `unknown` rows | Share of 366 |
 | --- | --- | --- |
-| Timing / deadline | 303 | 85% |
-| Other channels | 293 | 83% |
-| Partner Twitters | 266 | 75% |
-| LinkedIn | 211 | 59% |
-| Twitter | 178 | 50% |
-| Sectors | 146 | 41% |
-| Stage | 145 | 41% |
-| Email or form | 116 | 33% |
-| Check size / terms | 38 | 11% |
+| Timing / deadline | 314 | 86% |
+| Other channels | 304 | 83% |
+| Partner Twitters | 276 | 75% |
+| LinkedIn | 221 | 60% |
+| Twitter | 189 | 52% |
+| Sectors | 146 | 40% |
+| Stage | 145 | 40% |
+| Email or form | 116 | 32% |
+| Check size / terms | 40 | 11% |
 | Best channel | 18 | 5% |
 | Outreach rule / cold pitch policy / how to apply | 12 | 3% |
 | Geography | 7 | 2% |
 
 Other gaps you must accept:
 
-- Only 22 of 355 rows name a prediction market, Polymarket, or Kalshi anywhere in
-  their text, and 18 of those are OPEN. Sector fit is a score from the text, not a promise.
-- 36 rows give a warm intro as the best channel. A warm intro is not in this workbook. You must
+- 87 of 366 rows mention healthcare, healthtech, medtech, biotech, medical,
+  clinical, or life sciences; 79 of those are OPEN.
+- 74 rows explicitly describe a generalist, sector-agnostic, any-sector, or
+  multi-sector mandate. Many other rows cover several named sectors without using those exact labels.
+- 37 rows give a warm intro as the best channel. A warm intro is not in this workbook. You must
   find the path yourself.
 - Check sizes come from third-party aggregators for many funds. Treat them as a range, not a quote.
 - The open-channel rows have no `stage` field. Their status comes from the notes text only.
@@ -205,7 +212,7 @@ Other gaps you must accept:
 ## Rebuild
 
 ```bash
-python3 /home/kreshnith/investors-preseed/build_workbook.py
+python3 build_workbook.py
 ```
 
 Verified date: 2026-09-02. Deadlines change. Confirm each one on the source URL before you apply.

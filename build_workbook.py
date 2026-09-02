@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build the pre-seed investor outreach workbook, CSV files, and README.
 
-Input : /home/kreshnith/investors-preseed/raw/*.json  (read-only, never modified)
+Input : raw/*.json  (read-only, never modified)
 Output: investors_preseed.xlsx, csv/*.csv, README.md
 
 Rerunnable: it overwrites the outputs every time. It never writes into raw/.
@@ -12,6 +12,7 @@ from __future__ import annotations
 
 import csv
 import json
+import math
 import re
 from collections import Counter, defaultdict
 from pathlib import Path
@@ -20,7 +21,7 @@ from openpyxl import Workbook, load_workbook
 from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
-ROOT = Path("/home/kreshnith/investors-preseed")
+ROOT = Path(__file__).resolve().parent
 RAW = ROOT / "raw"
 XLSX = ROOT / "investors_preseed.xlsx"
 CSV_DIR = ROOT / "csv"
@@ -34,7 +35,8 @@ SOURCES = [
     # (json file, category label, sheet name, csv name)
     ("accelerators_and_funds.json", "Accelerator/Fund", "Accelerators & Funds", "accelerators_and_funds.csv"),
     ("angels_twitter.json", "Angel", "Angels (Twitter)", "angels_twitter.csv"),
-    ("fintech_crypto_ai_vcs.json", "Sector VC", "Fintech-Crypto-AI VCs", "fintech_crypto_ai_vcs.csv"),
+    ("vcs_and_programs.json", "VC/Program", "VCs & Programs", "vcs_and_programs.csv"),
+    ("healthcare_investors_and_programs.json", "Healthcare", "Healthcare Focus", "healthcare_focus.csv"),
     ("open_channels_reddit_directories.json", "Open Channel", "Open Channels & Reddit", "open_channels_reddit_directories.csv"),
 ]
 
@@ -136,7 +138,7 @@ def status_flag(notes: str, stage: str) -> tuple[str, str]:
 
 
 # --------------------------------------------------------------------------
-# 3. Idea-stage, contact, and sector-fit tests for START HERE
+# 3. Idea-stage, contact, and broad-fit tests for START HERE
 # --------------------------------------------------------------------------
 
 IDEA_POS_RE = re.compile(
@@ -157,14 +159,17 @@ DM_OPEN_RE = re.compile(r"(dms?\s+(?:are\s+)?open|open\s+dms|dm\s+open|public\s+
 URL_RE = re.compile(r"https?://\S+")
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 
-SECTOR_WEIGHTS = [
-    (re.compile(r"prediction market|polymarket|kalshi|event contract", re.I), 10),
-    (re.compile(r"trading bot|automated trading|algorithmic trading|market making|market-making|quant\b|quantitative|hedge fund|proprietary trading|prop trading|capital markets|brokerage|exchange infrastructure", re.I), 6),
-    (re.compile(r"\bAI agent|agentic|autonomous agent|agent infrastructure", re.I), 5),
-    (re.compile(r"\bfintech\b|payments|financial (?:services|infrastructure)|wealth|investing app", re.I), 4),
-    (re.compile(r"\bcrypto\b|web3|defi\b|blockchain|onchain|on-chain|digital asset", re.I), 4),
-    (re.compile(r"\bAI\b|machine learning|\bML\b|LLM|artificial intelligence", re.I), 3),
-    (re.compile(r"sector[- ]agnostic|generalist|any sector|all sectors", re.I), 1),
+FOCUS_WEIGHTS = [
+    # Broad mandates rank first because this workbook should work for any startup idea.
+    (re.compile(r"sector[- ]agnostic|generalist|any (?:stage or )?sector|all sectors|across industries|multi-sector|horizontal", re.I), 8),
+    # Healthcare is an intentional plus, spanning software, devices, and life sciences.
+    (re.compile(r"health(?:care|tech)?|digital health|medical|medtech|biotech|life sciences?|therapeutic|diagnostic|clinical|wellness|bio\b", re.I), 7),
+    # Reward other major startup categories evenly so no single vertical dominates.
+    (re.compile(r"climate|clean ?tech|energy|sustainab|agri(?:culture|tech)?|food ?tech", re.I), 3),
+    (re.compile(r"deep ?tech|hard ?tech|hardware|robotic|manufactur|space|aerospace|materials", re.I), 3),
+    (re.compile(r"enterprise|SaaS|developer tools?|infrastructure|cybersecurity|future of work", re.I), 3),
+    (re.compile(r"consumer|marketplace|commerce|education|edtech|creator|media|gaming", re.I), 3),
+    (re.compile(r"\bAI\b|machine learning|\bML\b|LLM|artificial intelligence|agentic", re.I), 2),
 ]
 
 CHANNEL_BONUS = [
@@ -175,8 +180,7 @@ CHANNEL_BONUS = [
     (re.compile(r"warm intro only|warm intro required|intro[- ]only", re.I), -4),
 ]
 
-# The notes say in plain words that a closed-source trading bot is a poor fit
-# (public-goods grant programs). Push those rows down the shortlist.
+# Push rows down when their own notes explicitly say the opportunity is a poor fit.
 MISFIT_RE = re.compile(
     r"does not fit|is not a fit|not public goods|only open (?:tooling|source)"
     r"|public goods only|do not (?:spend|waste)",
@@ -238,8 +242,10 @@ def first_sentence(notes: str, keywords: re.Pattern | None = None, limit: int = 
 
 
 FIT_RE = re.compile(
-    r"prediction market|polymarket|kalshi|trading|quant|fintech|crypto|web3|defi|blockchain"
-    r"|\bAI\b|agent|market making|hedge fund|capital markets",
+    r"sector[- ]agnostic|generalist|any sector|all sectors|health|medical|medtech|biotech|life science"
+    r"|digital health|clinical|wellness|climate|energy|sustainab|agri|food|deep ?tech|hard ?tech"
+    r"|hardware|robotic|space|materials|enterprise|SaaS|developer|infrastructure|cybersecurity"
+    r"|consumer|marketplace|commerce|education|edtech|creator|media|gaming|\bAI\b|machine learning",
     re.I,
 )
 
@@ -259,6 +265,20 @@ def load_raw() -> dict[str, list[dict]]:
 
 def native_rows(fname: str, entries: list[dict]) -> tuple[list[str], list[list[str]]]:
     """Native columns for the per-source sheet, in the order the JSON declares them."""
+    if fname == "vcs_and_programs.json":
+        # The source combines broad and specialized investors. Put the entries
+        # most useful to a cross-sector founder at the top of the native sheet.
+        entries = sorted(
+            entries,
+            key=lambda e: (
+                -sum(
+                    weight
+                    for rx, weight in FOCUS_WEIGHTS
+                    if rx.search(" ".join(str(e.get(k, "")) for k in ("sectors", "stage", "notes", "type")))
+                ),
+                str(e.get("name", "")).lower(),
+            ),
+        )
     headers: list[str] = []
     for e in entries:
         for k in e:
@@ -296,7 +316,7 @@ def to_master(fname: str, category: str, e: dict) -> dict:
             other=g("other_channels"), best=g("best_channel"), rule=g("outreach_rule"),
             timing="unknown", notes=g("notes"),
         )
-    elif category == "Sector VC":
+    elif category in {"VC/Program", "Healthcare"}:
         row = dict(
             type=g("type"), stage=g("stage"), check=g("check_size"), sectors=g("sectors"),
             geo=g("geography"), url=g("website"), email=g("pitch_email_or_form"),
@@ -397,7 +417,7 @@ def contact_of(row: dict) -> str:
 def fit_score(row: dict) -> int:
     blob = " ".join(str(row.get(f, "")) for f in
                     ("Sectors", "Type/What they do", "Notes", "Name", "Stage"))
-    score = sum(w for rx, w in SECTOR_WEIGHTS if rx.search(blob))
+    score = sum(w for rx, w in FOCUS_WEIGHTS if rx.search(blob))
     chan = " ".join(str(row.get(f, "")) for f in
                     ("Best channel", "Email or form", "Outreach rule / cold pitch policy / how to apply"))
     score += sum(w for rx, w in CHANNEL_BONUS if rx.search(chan))
@@ -464,7 +484,7 @@ def build_start_here(master: list[dict], limit: int = 40,
     chosen: set[int] = set()
 
     # Pass 1: guarantee every category is represented.
-    for cat in ("Accelerator/Fund", "Angel", "Sector VC", "Open Channel"):
+    for cat in ("Accelerator/Fund", "Angel", "VC/Program", "Healthcare", "Open Channel"):
         for item in pool:
             if counts[cat] >= per_cat_min:
                 break
@@ -519,7 +539,9 @@ def build_start_here(master: list[dict], limit: int = 40,
             "Rank": i,
             "Name": r["Name"],
             "Category": r["Category"],
-            "Why it fits (1 sentence from notes)": first_sentence(r["Notes"], FIT_RE),
+            "Why it fits (sector/stage evidence)": first_sentence(
+                join(r["Sectors"], r["Type/What they do"], r["Stage"], r["Notes"]), FIT_RE
+            ),
             "Best channel": r["Best channel"],
             "Contact (email/form/URL)": contact,
             "Twitter": r["Twitter"],
@@ -532,7 +554,7 @@ def build_start_here(master: list[dict], limit: int = 40,
     return out
 
 
-START_HEADERS = ["Rank", "Name", "Category", "Why it fits (1 sentence from notes)", "Best channel",
+START_HEADERS = ["Rank", "Name", "Category", "Why it fits (sector/stage evidence)", "Best channel",
                  "Contact (email/form/URL)", "Twitter", "Check size", "Deadline/timing if any", "Source URL"]
 
 
@@ -548,7 +570,7 @@ FILL_CLOSED = PatternFill("solid", fgColor="D9D9D9")
 FILL_NOT_IDEA = PatternFill("solid", fgColor="FFEB9C")
 STATUS_FILLS = {STATUS_OPEN: FILL_OPEN, STATUS_CLOSED: FILL_CLOSED, STATUS_NOT_IDEA: FILL_NOT_IDEA}
 
-WRAP_COLS = {"notes", "why it fits (1 sentence from notes)", "status reason", "description",
+WRAP_COLS = {"notes", "why it fits (sector/stage evidence)", "status reason", "description",
              "outreach rule / cold pitch policy / how to apply", "outreach rule", "how to apply or post",
              "cold pitch policy", "reachable investors", "typical outcome", "stage",
              "check size / terms", "sources", "best channel", "notes ", "what they do",
@@ -599,6 +621,19 @@ def write_sheet(wb, title: str, headers: list[str], rows: list[list[str]],
     for j, w in widths.items():
         ws.column_dimensions[get_column_letter(j)].width = w
 
+    # Keep wrapped records readable without allowing a long research note to
+    # create an unusably tall row. Five visible lines is a practical scan view;
+    # the full value remains available in the cell/formula bar.
+    ws.row_dimensions[1].height = 32
+    for i, row in enumerate(rows, start=2):
+        visible_lines = 1
+        for j, value in enumerate(row, start=1):
+            text = str(value)
+            width = max(8, widths.get(j, 12) - 2)
+            line_count = sum(max(1, math.ceil(len(line) / width)) for line in text.splitlines() or [""])
+            visible_lines = max(visible_lines, min(5, line_count))
+        ws.row_dimensions[i].height = 15 * visible_lines
+
     ws.freeze_panes = "A2"
     ws.auto_filter.ref = f"A1:{get_column_letter(len(headers))}{max(1, len(rows) + 1)}"
 
@@ -614,35 +649,38 @@ def write_csv(path: Path, headers: list[str], rows: list[list[str]]) -> None:
 # 7. README
 # --------------------------------------------------------------------------
 
-COLD_EMAIL = """Subject: {Company} - pre-seed, automated trading + prediction markets
+COLD_EMAIL = """Subject: {Company} - pre-seed: {one-line outcome}
 
-Hi {Name}, I build {Company}: automated trading bots and prediction-market
-(Polymarket) agents. I run the system on live capital today.
-Result so far: {one metric, for example "N trades, X% net return since <date>"}.
-I raise a {amount} pre-seed on a SAFE to add {one use of funds}.
-You back {their sector: fintech / crypto / AI agents}, so I contact you first.
-Deck attached. Can I send you the live dashboard link?
+Hi {Name}, I'm building {Company}, which helps {target user} solve {specific problem}.
+So far, {one concrete signal: prototype, users, pilot, waitlist, or research result}.
+We're raising a {amount} pre-seed round to {one use of funds}.
+Your work with {relevant sector or portfolio company} is why I'm reaching out.
+Deck attached. Would a 20-minute conversation next week make sense?
 """
 
-TWITTER_DM = """Hi {Name} - I build automated trading bots + Polymarket agents, live on real capital.
-{one metric}. Raising a {amount} pre-seed on a SAFE.
-Can I send a 10-slide deck?
+TWITTER_DM = """Hi {Name} - I'm building {Company} for {target user}: {one-line outcome}.
+{one concrete signal}. Raising a {amount} pre-seed round.
+Your work in {relevant sector} looks aligned. Open to a short conversation?
 """
 
 
 def build_readme(master, start, per_cat, per_status, gaps, sheet_counts, reddit_format, facts) -> str:
     lines = []
     a = lines.append
-    a("# Pre-seed investor outreach workbook")
+    a("# Idea-stage investor outreach workbook — all startup sectors")
     a("")
     a(f"Verified date: **{VERIFIED_DATE}**. Deadlines, application windows, and fund status change fast.")
     a("Check the source URL before you send anything.")
+    a("")
+    a("This repository is designed for founders across healthcare, biotech, climate, deep tech, SaaS,")
+    a("consumer, AI, fintech, and other startup categories. Generalist opportunities rank highly, and")
+    a("healthcare receives an additional boost without excluding any other kind of company.")
     a("")
     a("## What this folder holds")
     a("")
     a("| File | What it is |")
     a("| --- | --- |")
-    a("| `investors_preseed.xlsx` | The full workbook. Seven sheets. Start on the `START HERE` sheet. |")
+    a("| `investors_preseed.xlsx` | The full workbook. Eight sheets. Start on the `START HERE` sheet. |")
     a("| `csv/` | The same sheets as UTF-8 CSV files, for scripts and mail-merge. |")
     a("| `build_workbook.py` | The script that builds the workbook, the CSV files, and this README. Rerun it any time. |")
     a("| `raw/` | The source JSON research files. The build script only reads them. |")
@@ -651,11 +689,12 @@ def build_readme(master, start, per_cat, per_status, gaps, sheet_counts, reddit_
     a("")
     a("| Sheet | Rows | What it gives you |")
     a("| --- | --- | --- |")
-    a(f"| START HERE | {sheet_counts['START HERE']} | The top 40 targets for an idea-stage founder in trading bots, prediction markets, quant, and AI agents. Each row has a live contact route. |")
-    a(f"| Master | {sheet_counts['Master']} | Every entry from all four research files in one schema. Nothing is dropped. |")
+    a(f"| START HERE | {sheet_counts['START HERE']} | The top 40 reachable targets for founders in any startup sector, with extra weight for generalist and healthcare fit. |")
+    a(f"| Master | {sheet_counts['Master']} | Every entry from all five research files in one schema. Nothing is dropped. |")
     a(f"| Accelerators & Funds | {sheet_counts['Accelerators & Funds']} | The accelerator and fund file with its own columns. |")
     a(f"| Angels (Twitter) | {sheet_counts['Angels (Twitter)']} | The angel file with its own columns. |")
-    a(f"| Fintech-Crypto-AI VCs | {sheet_counts['Fintech-Crypto-AI VCs']} | The sector VC file with its own columns. |")
+    a(f"| VCs & Programs | {sheet_counts['VCs & Programs']} | Broad and sector-specific VCs and startup programs; finance is one vertical among many. |")
+    a(f"| Healthcare Focus | {sheet_counts['Healthcare Focus']} | Healthcare, medtech, digital health, and biotech investors and programs. |")
     a(f"| Open Channels & Reddit | {sheet_counts['Open Channels & Reddit']} | Subreddits, angel groups, grants, directories, and open application forms. |")
     a(f"| Closed - Skip | {sheet_counts['Closed - Skip']} | Every row you must not contact, with the reason. |")
     a("")
@@ -691,24 +730,23 @@ def build_readme(master, start, per_cat, per_status, gaps, sheet_counts, reddit_
     a("3. A public contact route exists: an email, an application form, an apply URL, or an open Twitter DM.")
     a("   A bare company homepage does not count. For an open channel the post URL does count.")
     a("")
-    a("The score adds points for sector fit and subtracts points for friction:")
+    a("The score favors broad applicability and healthcare while keeping access and stage fit central:")
     a("")
     a("| Signal | Points |")
     a("| --- | --- |")
-    a("| Text names a prediction market, Polymarket, or Kalshi | +10 |")
-    a("| Text names trading, quant, market making, or capital markets | +6 |")
-    a("| Text names AI agents or agentic products | +5 |")
-    a("| Text names fintech, or crypto / web3 / DeFi | +4 each |")
-    a("| Text names AI or machine learning | +3 |")
+    a("| Sector-agnostic, generalist, any-sector, or multi-sector mandate | +8 |")
+    a("| Healthcare, digital health, medtech, biotech, clinical, or life sciences | +7 |")
+    a("| Climate/energy, deep tech/hardware, enterprise/SaaS, or consumer/education | +3 per group |")
+    a("| AI or machine learning | +2 |")
     a("| Open application form, published email, or open DMs | +2 to +3 each |")
     a("| States idea stage / pre-product / pre-PMF | +4 |")
     a("| Warm intro only | -4 |")
-    a("| The notes say the use case does not fit (public-goods grants) | -8 |")
+    a("| The notes explicitly say the opportunity does not fit | -8 |")
     a("| Pay-to-pitch, application fee, or paid intro platform | -5 |")
     a("| Eligibility is limited to a group this workbook cannot confirm | -5 |")
     a("")
     a("Rules on top of the score: one row per name, one row per contact route, a maximum of 15 rows per")
-    a("category, and a minimum of 4 rows per category, so all four source files appear in the list.")
+    a("category, and a minimum of 4 rows per category, so all five source files appear in the list.")
     a("")
     a("## Counts")
     a("")
@@ -746,7 +784,7 @@ def build_readme(master, start, per_cat, per_status, gaps, sheet_counts, reddit_
         def cell(x, n=150):
             x = " ".join(str(x).split()).replace("|", "/")
             return x[: n - 3] + "..." if len(x) > n else x
-        a(f"| {r['Rank']} | {cell(r['Name'], 45)} | {r['Category']} | {cell(r['Why it fits (1 sentence from notes)'])} "
+        a(f"| {r['Rank']} | {cell(r['Name'], 45)} | {r['Category']} | {cell(r['Why it fits (sector/stage evidence)'])} "
           f"| {cell(r['Best channel'], 70)} | {cell(r['Contact (email/form/URL)'], 70)} |")
     a("")
     a("## Outreach playbook")
@@ -793,15 +831,17 @@ def build_readme(master, start, per_cat, per_status, gaps, sheet_counts, reddit_
     a("")
     a("These fields hold the word `unknown` most often. Fill them yourself before you use the row.")
     a("")
-    a("| Field | `unknown` rows | Share of 355 |")
+    a(f"| Field | `unknown` rows | Share of {len(master)} |")
     a("| --- | --- | --- |")
     for field, n in gaps:
         a(f"| {field} | {n} | {n / len(master) * 100:.0f}% |")
     a("")
     a("Other gaps you must accept:")
     a("")
-    a(f"- Only {facts['pm_rows']} of {len(master)} rows name a prediction market, Polymarket, or Kalshi anywhere in")
-    a(f"  their text, and {facts['pm_open']} of those are OPEN. Sector fit is a score from the text, not a promise.")
+    a(f"- {facts['health_rows']} of {len(master)} rows mention healthcare, healthtech, medtech, biotech, medical,")
+    a(f"  clinical, or life sciences; {facts['health_open']} of those are OPEN.")
+    a(f"- {facts['generalist_rows']} rows explicitly describe a generalist, sector-agnostic, any-sector, or")
+    a("  multi-sector mandate. Many other rows cover several named sectors without using those exact labels.")
     a(f"- {facts['warm']} rows give a warm intro as the best channel. A warm intro is not in this workbook. You must")
     a("  find the path yourself.")
     a("- Check sizes come from third-party aggregators for many funds. Treat them as a range, not a quote.")
@@ -812,7 +852,7 @@ def build_readme(master, start, per_cat, per_status, gaps, sheet_counts, reddit_
     a("## Rebuild")
     a("")
     a("```bash")
-    a("python3 /home/kreshnith/investors-preseed/build_workbook.py")
+    a("python3 build_workbook.py")
     a("```")
     a("")
     a(f"Verified date: {VERIFIED_DATE}. Deadlines change. Confirm each one on the source URL before you apply.")
@@ -913,11 +953,21 @@ def main() -> None:
     )
     gaps = [g for g in gaps if g[1] > 0][:12]
 
-    pm_rx = re.compile(r"prediction market|polymarket|kalshi", re.I)
-    pm_rows = [r for r in master if pm_rx.search(" ".join(str(v) for v in r.values()))]
+    health_rx = re.compile(
+        r"health(?:care|tech)?|digital health|medical|medtech|biotech|life sciences?|clinical|wellness|bio\b",
+        re.I,
+    )
+    health_rows = [r for r in master if health_rx.search(" ".join(str(v) for v in r.values()))]
+    generalist_rx = re.compile(
+        r"generalist|sector[- ]agnostic|any (?:stage or )?sector|all sectors|multi-sector|horizontal",
+        re.I,
+    )
     facts = {
-        "pm_rows": len(pm_rows),
-        "pm_open": sum(1 for r in pm_rows if r["Status flag"] == STATUS_OPEN),
+        "health_rows": len(health_rows),
+        "health_open": sum(1 for r in health_rows if r["Status flag"] == STATUS_OPEN),
+        "generalist_rows": sum(
+            1 for r in master if generalist_rx.search(" ".join(str(v) for v in r.values()))
+        ),
         "warm": sum(1 for r in master if re.search(r"warm[_ ]intro", str(r["Best channel"]), re.I)),
         "also_in": sum(1 for r in master if r["Also in"]),
     }

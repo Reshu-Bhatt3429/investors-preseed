@@ -24,7 +24,7 @@ for f in files:
         if key in seen: problems.append(f"duplicate: {rec['name']}"); continue
         seen.add(key); out.append(rec)
     print(f, len(data))
-json.dump(out, open("/home/kreshnith/investors-preseed/raw/fintech_crypto_ai_vcs.json","w"), indent=2, ensure_ascii=False)
+json.dump(out, open("/home/kreshnith/investors-preseed/raw/vcs_and_programs.json","w"), indent=2, ensure_ascii=False)
 print("entries:", len(out))
 for p in problems: print("PROBLEM:", p)
 unk = {k: sum(1 for r in out if r[k]=="unknown") for k in KEYS}
