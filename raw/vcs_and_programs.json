@@ -1727,5 +1727,23 @@
     "notes": "Portfolio includes Polymarket (prediction markets), Aave, Coinbase, Kraken, Circle. 'Partners to crypto builders since 2013.'",
     "sources": "https://www.blockchaincapital.com/, https://www.blockchaincapital.com/contact-us",
     "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Prithvi Ventures",
+    "type": "VC firm",
+    "sectors": "Energy, deeptech, hardware, infrastructure and supply chain",
+    "stage": "Incubation, pre-seed and seed. Idea-stage: yes.",
+    "check_size": "$500K-$1M; $500K sweet spot",
+    "geography": "New York City",
+    "website": "https://www.prithvivc.com",
+    "pitch_email_or_form": "https://www.prithvivc.com",
+    "twitter": "@PrithviVentures",
+    "partner_twitters": "@numberoneks",
+    "linkedin": "https://www.linkedin.com/company/prithvi-ventures/",
+    "best_channel": "Website (For Founders link)",
+    "cold_pitch_policy": "unknown",
+    "notes": "Groq backer (PitchBook lists Groq among Prithvi's exits). Portfolio also includes Nth Cycle and Amprius. Team: Kunal Sethi (GP), Murali Sethumadhavan (Operating Partner).",
+    "sources": "https://www.prithvivc.com; https://pitchbook.com/profiles/investor/464078-44",
+    "verified_date": "2026-11-14"
   }
 ]

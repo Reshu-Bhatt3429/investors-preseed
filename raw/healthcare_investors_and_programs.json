@@ -196,5 +196,23 @@
     "notes": "Applications for the 2026 cohort are closed. Recurring annual accelerator for 8-12 healthcare startups, with a mentor and investor network and a September-to-November program.",
     "sources": "https://www.healthwildcatters.com/accelerator; https://www.healthwildcatters.com/",
     "verified_date": "2026-09-02"
+  },
+  {
+    "name": "Ayuh Ventures",
+    "type": "VC firm",
+    "sectors": "Healthcare, neuroscience, medtech, neurology and oncology",
+    "stage": "Incubation, pre-seed and seed. Idea-stage: yes.",
+    "check_size": "$500K-$1M; $500K sweet spot",
+    "geography": "New York City",
+    "website": "https://www.ayuhvc.com",
+    "pitch_email_or_form": "https://www.ayuhvc.com",
+    "twitter": "@AyuhVentures",
+    "partner_twitters": "@numberoneks",
+    "linkedin": "https://www.linkedin.com/company/ayuh-ventures/",
+    "best_channel": "Website",
+    "cold_pitch_policy": "unknown",
+    "notes": "Backer of Gilgamesh Pharmaceuticals (AbbVie acquired its lead drug bretisilocin) and Beckley Psytech (merged into AtaiBeckley, which Lilly acquired). Also Samphire Neuroscience.",
+    "sources": "https://www.ayuhvc.com; https://pitchbook.com/profiles/fund/22392-01F; https://multiples.vc/private-comps/beckley-psytech",
+    "verified_date": "2026-11-14"
   }
 ]
